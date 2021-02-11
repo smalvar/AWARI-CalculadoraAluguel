@@ -1,0 +1,1099 @@
+,aluguel,quartos,endereco,banheiro,vaga,area,bairro,rua,zona
+6,3400,2.0,"Rua Caconde, 310 - Jardim Paulista, São Paulo - SP",2.0,1.0,130, Jardim Paulista,"Rua Caconde, 310",Oeste
+7,3400,2.0,"Rua Oscar Caravelas, 280 - Sumarezinho, São Paulo - SP",2.0,2.0,88, Sumarezinho,"Rua Oscar Caravelas, 280",Oeste
+15,5400,2.0,"Rua Peixoto Gomide, 596 - Jardim Paulista, São Paulo - SP",2.0,1.0,72, Jardim Paulista,"Rua Peixoto Gomide, 596",Oeste
+19,2600,2.0,"Rua Pamplona - Jardim Paulista, São Paulo - SP",2.0,1.0,91, Jardim Paulista,Rua Pamplona,Oeste
+20,3800,1.0,"Pinheiros, São Paulo - SP",1.0,1.0,44, SP,"Pinheiros, São Paulo",Oeste
+22,2950,2.0,"Rua Padre Carvalho, 68 - Pinheiros, São Paulo - SP",2.0,1.0,60, Pinheiros,"Rua Padre Carvalho, 68",Oeste
+23,10000,4.0,"Rua Caiubi, 1159 - Perdizes, São Paulo - SP",5.0,4.0,180, Perdizes,"Rua Caiubi, 1159",Oeste
+27,3800,2.0,"Rua Faustolo, 724 - Lapa, São Paulo - SP",2.0,2.0,64, Lapa,"Rua Faustolo, 724",Oeste
+28,5500,3.0,"Avenida Padre Pereira de Andrade, 545 - Boaçava, São Paulo - SP",4.0,3.0,165, Boaçava,"Avenida Padre Pereira de Andrade, 545",Oeste
+30,2800,2.0,"Rua João Ramalho, 717 - Perdizes, São Paulo - SP",2.0,1.0,60, Perdizes,"Rua João Ramalho, 717",Oeste
+36,2500,3.0,"Rua Diana, 675 - Perdizes, São Paulo - SP",1.0,2.0,94, Perdizes,"Rua Diana, 675",Oeste
+44,1900,1.0,"Pinheiros, São Paulo - SP",1.0,0.0,25, SP,"Pinheiros, São Paulo",Oeste
+47,1400,1.0,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",1.0,1.0,30, Pinheiros,"Rua Butantã, 408",Oeste
+50,3000,2.0,"Rua Teodoro Sampaio, 498 - Pinheiros, São Paulo - SP",1.0,1.0,75, Pinheiros,"Rua Teodoro Sampaio, 498",Oeste
+53,7485,2.0,"Rua Manuel Guedes, 264 - Jardim Europa, São Paulo - SP",2.0,2.0,110, Jardim Europa,"Rua Manuel Guedes, 264",Oeste
+70,2000,2.0,"Rua Raul Pompéia, 745 - Vila Pompéia, São Paulo - SP",2.0,1.0,81, Vila Pompéia,"Rua Raul Pompéia, 745",Oeste
+77,4000,1.0,"Rua Eugênio de Medeiros, 288 - Pinheiros, São Paulo - SP",1.0,1.0,42, Pinheiros,"Rua Eugênio de Medeiros, 288",Oeste
+88,2700,3.0,"Avenida Albert Bartholome, 472 - Jardim das Vertentes, São Paulo - SP",1.0,1.0,82, Jardim das Vertentes,"Avenida Albert Bartholome, 472",Oeste
+91,6000,1.0,"Rua Eugênio de Medeiros, 288 - Pinheiros, São Paulo - SP",2.0,2.0,60, Pinheiros,"Rua Eugênio de Medeiros, 288",Oeste
+95,2100,2.0,"Rua João Miguel Jarra, 298 - Vila Madalena, São Paulo - SP",1.0,1.0,48, Vila Madalena,"Rua João Miguel Jarra, 298",Oeste
+97,2500,2.0,"Rua Fidalga, 720 - Pinheiros, São Paulo - SP",2.0,2.0,62, Pinheiros,"Rua Fidalga, 720",Oeste
+99,1550,2.0,"Avenida Escola Politécnica, 2200 - Rio Pequeno, São Paulo - SP",1.0,1.0,57, Rio Pequeno,"Avenida Escola Politécnica, 2200",Oeste
+101,4400,3.0,"Rua Arruda Alvim - Pinheiros, São Paulo - SP",3.0,2.0,120, Pinheiros,Rua Arruda Alvim,Oeste
+102,5785,3.0,"Rua Itapicuru, 380 - Perdizes, São Paulo - SP",2.0,2.0,116, Perdizes,"Rua Itapicuru, 380",Oeste
+104,4700,3.0,"Rua Carlos Weber, 499 - Vila Leopoldina, São Paulo - SP",4.0,2.0,125, Vila Leopoldina,"Rua Carlos Weber, 499",Oeste
+106,5790,3.0,"Rua Itapicuru, 380 - Perdizes, São Paulo - SP",2.0,2.0,116, Perdizes,"Rua Itapicuru, 380",Oeste
+116,4500,1.0,"Rua Doutor Virgílio de Carvalho Pinto, 262 - Pinheiros, São Paulo - SP",1.0,1.0,30, Pinheiros,"Rua Doutor Virgílio de Carvalho Pinto, 262",Oeste
+117,4990,2.0,"Rua Capote Valente, 467 - Pinheiros, São Paulo - SP",2.0,1.0,72, Pinheiros,"Rua Capote Valente, 467",Oeste
+121,5044,2.0,"Rua Pais Leme, 400 - Pinheiros, São Paulo - SP",2.0,1.0,68, Pinheiros,"Rua Pais Leme, 400",Oeste
+131,3000,1.0,"Rua Guarará - Jardim Paulista, São Paulo - SP",1.0,1.0,48, Jardim Paulista,Rua Guarará,Oeste
+147,1300,3.0,"Rua Rifaina, 550 - Vila Anglo Brasileira, São Paulo - SP",1.0,0.0,60, Vila Anglo Brasileira,"Rua Rifaina, 550",Oeste
+148,45000,4.0,"Jardim Europa, São Paulo - SP",4.0,4.0,445, SP,"Jardim Europa, São Paulo",Oeste
+149,6500,4.0,"Rua Frei Henrique de Coimbra - Água Branca, São Paulo - SP",3.0,5.0,400, Água Branca,Rua Frei Henrique de Coimbra,Oeste
+150,8000,2.0,"Rua Cerro Corá, 100 - Vila Romana, São Paulo - SP",2.0,1.0,90, Vila Romana,"Rua Cerro Corá, 100",Oeste
+152,9500,2.0,"Rua Bernarda Luiz, 164 - Vila Madalena, São Paulo - SP",3.0,0.0,180, Vila Madalena,"Rua Bernarda Luiz, 164",Oeste
+160,20000,4.0,"Rua Simpatia - Jardim das Bandeiras, São Paulo - SP",3.0,4.0,650, Jardim das Bandeiras,Rua Simpatia,Oeste
+167,45000,4.0,"Rua Campo Verde - Jardim Europa, São Paulo - SP",6.0,4.0,490, Jardim Europa,Rua Campo Verde,Oeste
+170,2990,5.0,"Rua Piraí - Alto da Lapa, São Paulo - SP",1.0,0.0,100, Alto da Lapa,Rua Piraí,Oeste
+173,10000,3.0,"Rua Ubiracica - Boaçava, São Paulo - SP",5.0,2.0,350, Boaçava,Rua Ubiracica,Oeste
+181,12000,4.0,"Rua Itamarati - Pacaembu, São Paulo - SP",5.0,5.0,465, Pacaembu,Rua Itamarati,Oeste
+185,10000,4.0,"Rua Carlos Rath - Alto de Pinheiros, São Paulo - SP",5.0,5.0,400, Alto de Pinheiros,Rua Carlos Rath,Oeste
+188,16000,3.0,"Rua Turquia - Jardim Europa, São Paulo - SP",4.0,2.0,260, Jardim Europa,Rua Turquia,Oeste
+190,8000,3.0,"Alto de Pinheiros, São Paulo - SP",5.0,4.0,450, SP,"Alto de Pinheiros, São Paulo",Oeste
+195,10000,2.0,"Rua Maestro Chiaffarelli - Jardim Paulista, São Paulo - SP",4.0,1.0,170, Jardim Paulista,Rua Maestro Chiaffarelli,Oeste
+196,20000,4.0,"Rua Bennet - Alto de Pinheiros, São Paulo - SP",5.0,4.0,451, Alto de Pinheiros,Rua Bennet,Oeste
+197,4112,4.0,"Vila São Francisco, São Paulo - SP",4.0,4.0,350, SP,"Vila São Francisco, São Paulo",Oeste
+199,30000,4.0,"Jardim Europa, São Paulo - SP",4.0,3.0,350, SP,"Jardim Europa, São Paulo",Oeste
+200,2250,1.0,"Rua Rubens Meireles, 99 - Várzea da Barra Funda, São Paulo - SP",1.0,1.0,41, Várzea da Barra Funda,"Rua Rubens Meireles, 99",Oeste
+201,10900,4.0,"Rua Abegoaria - Jardim das Bandeiras, São Paulo - SP",6.0,5.0,420, Jardim das Bandeiras,Rua Abegoaria,Oeste
+211,13000,4.0,"Rua Pedro Ortiz - Sumarezinho, São Paulo - SP",6.0,4.0,312, Sumarezinho,Rua Pedro Ortiz,Oeste
+219,5585,2.0,"Rua Fernão Dias, 323 - Pinheiros, São Paulo - SP",2.0,2.0,84, Pinheiros,"Rua Fernão Dias, 323",Oeste
+224,1800,3.0,"Rua Dankmar Adler - Vila Suzana, São Paulo - SP",3.0,2.0,80, Vila Suzana,Rua Dankmar Adler,Oeste
+225,3400,2.0,"Rua Oscar Freire, 1735 - Pinheiros, São Paulo - SP",2.0,1.0,80, Pinheiros,"Rua Oscar Freire, 1735",Oeste
+229,3385,2.0,"Rua Francisco Leitão, 381 - Pinheiros, São Paulo - SP",2.0,2.0,101, Pinheiros,"Rua Francisco Leitão, 381",Oeste
+231,4100,3.0,"Avenida Mofarrej, 275 - Vila Leopoldina, São Paulo - SP",3.0,3.0,96, Vila Leopoldina,"Avenida Mofarrej, 275",Oeste
+232,4500,3.0,"Rua Mourato Coelho - Pinheiros, São Paulo - SP",3.0,1.0,215, Pinheiros,Rua Mourato Coelho,Oeste
+236,6999,3.0,"Rua Gregório Paes de Almeida - Vila Madalena, São Paulo - SP",5.0,3.0,270, Vila Madalena,Rua Gregório Paes de Almeida,Oeste
+241,9000,4.0,"Jardim Monte Kemel, São Paulo - SP",6.0,10.0,379, SP,"Jardim Monte Kemel, São Paulo",Oeste
+244,2200,2.0,"Rua Comendador Sousa - Água Branca, São Paulo - SP",1.0,1.0,80, Água Branca,Rua Comendador Sousa,Oeste
+248,5000,2.0,"Rua Capote Valente - Pinheiros, São Paulo - SP",3.0,1.0,170, Pinheiros,Rua Capote Valente,Oeste
+249,8726,3.0,"Rua Galeno de Almeida, 309 - Pinheiros, São Paulo - SP",2.0,2.0,110, Pinheiros,"Rua Galeno de Almeida, 309",Oeste
+250,27500,6.0,"Rua Camargo, 130 - Butantã, São Paulo - SP",4.0,13.0,500, Butantã,"Rua Camargo, 130",Oeste
+251,15000,3.0,"Rua Teodoro Ramos, 75 - Pacaembu, São Paulo - SP",6.0,2.0,268, Pacaembu,"Rua Teodoro Ramos, 75",Oeste
+252,20000,3.0,"Avenida Diógenes Ribeiro de Lima - Alto de Pinheiros, São Paulo - SP",5.0,6.0,449, Alto de Pinheiros,Avenida Diógenes Ribeiro de Lima,Oeste
+254,3500,2.0,"Rua Capote Valente, 697 - Pinheiros, São Paulo - SP",1.0,0.0,90, Pinheiros,"Rua Capote Valente, 697",Oeste
+255,1450,1.0,"Rua Alfaia - Alto da Lapa, São Paulo - SP",1.0,0.0,45, Alto da Lapa,Rua Alfaia,Oeste
+257,14000,3.0,"Rua Iraci - Jardim Paulistano, São Paulo - SP",4.0,2.0,220, Jardim Paulistano,Rua Iraci,Oeste
+258,14380,3.0,"Jardim Paulista, São Paulo - SP",3.0,3.0,250, SP,"Jardim Paulista, São Paulo",Oeste
+264,15000,10.0,"Avenida Lineu de Paula Machado, 1054 - Jardim Everest, São Paulo - SP",4.0,4.0,600, Jardim Everest,"Avenida Lineu de Paula Machado, 1054",Oeste
+265,18000,4.0,"Jardim Paulista, São Paulo - SP",4.0,5.0,450, SP,"Jardim Paulista, São Paulo",Oeste
+268,1500,2.0,"Rua Coronel Camisão, 409 - Vila Gomes, São Paulo - SP",2.0,1.0,72, Vila Gomes,"Rua Coronel Camisão, 409",Oeste
+269,1400,3.0,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 400 - Jardim Esmeralda, São Paulo - SP",1.0,1.0,72, Jardim Esmeralda,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 400",Oeste
+275,5500,2.0,"Alameda Joaquim Eugênio de Lima, 113 - Jardim Paulista, São Paulo - SP",2.0,1.0,77, Jardim Paulista,"Alameda Joaquim Eugênio de Lima, 113",Oeste
+279,1900,2.0,"Rua João Miguel Jarra, 298 - Vila Madalena, São Paulo - SP",1.0,1.0,48, Vila Madalena,"Rua João Miguel Jarra, 298",Oeste
+297,8000,3.0,"Rua Manduri, 164 - Jardim Paulistano, São Paulo - SP",2.0,3.0,280, Jardim Paulistano,"Rua Manduri, 164",Oeste
+298,30000,5.0,"Alto de Pinheiros, São Paulo - SP",2.0,8.0,750, SP,"Alto de Pinheiros, São Paulo",Oeste
+299,2000,2.0,"Rua Guaicurus, 614 - Água Branca, São Paulo - SP",1.0,0.0,100, Água Branca,"Rua Guaicurus, 614",Oeste
+304,25000,6.0,"Rua Cardoso de Melo Júnior - Alto de Pinheiros, São Paulo - SP",9.0,11.0,1000, Alto de Pinheiros,Rua Cardoso de Melo Júnior,Oeste
+311,20000,4.0,"Avenida George Saville Dodd, 279 - Jardim Guedala, São Paulo - SP",5.0,8.0,550, Jardim Guedala,"Avenida George Saville Dodd, 279",Oeste
+315,28000,3.0,"Rua Atlântica - Jardim América, São Paulo - SP",5.0,4.0,600, Jardim América,Rua Atlântica,Oeste
+319,13000,4.0,"Butantã, São Paulo - SP",7.0,4.0,490, SP,"Butantã, São Paulo",Oeste
+320,1500,1.0,"Rua Eugênio de Medeiros, 456 - Pinheiros, São Paulo - SP",1.0,0.0,45, Pinheiros,"Rua Eugênio de Medeiros, 456",Oeste
+322,5500,4.0,"Sumarezinho, São Paulo - SP",3.0,4.0,388, SP,"Sumarezinho, São Paulo",Oeste
+329,7000,3.0,"Vila Sônia, São Paulo - SP",5.0,4.0,480, SP,"Vila Sônia, São Paulo",Oeste
+332,13200,4.0,"Rua Bauru, 247 - Pacaembu, São Paulo - SP",8.0,10.0,840, Pacaembu,"Rua Bauru, 247",Oeste
+338,990,1.0,"Rua Pereira do Lago, 309 - Vila Gomes, São Paulo - SP",1.0,0.0,20, Vila Gomes,"Rua Pereira do Lago, 309",Oeste
+339,3500,3.0,"Alameda Itu - Jardim Paulista, São Paulo - SP",2.0,1.0,115, Jardim Paulista,Alameda Itu,Oeste
+345,3000,3.0,"Rua Aimberê, 1898 - Sumaré, São Paulo - SP",2.0,1.0,115, Sumaré,"Rua Aimberê, 1898",Oeste
+346,1900,2.0,"Estrada de Itapecerica, 1528 - Vila Prel, São Paulo - SP",1.0,1.0,48, Vila Prel,"Estrada de Itapecerica, 1528",Oeste
+348,3900,2.0,"Rua Peixoto Gomide - Jardim Paulista, São Paulo - SP",1.0,1.0,52, Jardim Paulista,Rua Peixoto Gomide,Oeste
+351,1990,1.0,"Alameda Franca, 318 - Jardim Paulista, São Paulo - SP",1.0,1.0,40, Jardim Paulista,"Alameda Franca, 318",Oeste
+353,5300,3.0,"Rua Alves Guimarães - Pinheiros, São Paulo - SP",4.0,2.0,116, Pinheiros,Rua Alves Guimarães,Oeste
+361,11000,4.0,"Rua Aimberê, 233 - Perdizes, São Paulo - SP",6.0,4.0,260, Perdizes,"Rua Aimberê, 233",Oeste
+362,2950,1.0,"Rua Tucuna, 824 - Perdizes, São Paulo - SP",1.0,1.0,50, Perdizes,"Rua Tucuna, 824",Oeste
+365,4300,1.0,"Rua Alves Guimarães, 1120 - Pinheiros, São Paulo - SP",2.0,1.0,45, Pinheiros,"Rua Alves Guimarães, 1120",Oeste
+369,2100,1.0,"Praça Barão de Itaqui, 755 - Vila Gomes Cardim, São Paulo - SP",1.0,1.0,45, Vila Gomes Cardim,"Praça Barão de Itaqui, 755",Oeste
+372,1400,1.0,"Rua Professor Pedro da Cunha, 28 - Perdizes, São Paulo - SP",1.0,0.0,13, Perdizes,"Rua Professor Pedro da Cunha, 28",Oeste
+387,6500,1.0,"Rua Doutor Mário Ferraz, 415 - Jardim Paulistano, São Paulo - SP",2.0,1.0,50, Jardim Paulistano,"Rua Doutor Mário Ferraz, 415",Oeste
+390,20000,5.0,"Rua Capitão Garcindo - Pacaembu, São Paulo - SP",4.0,4.0,434, Pacaembu,Rua Capitão Garcindo,Oeste
+393,40000,5.0,"Rua Oliveira Pimentel - Jardim Paulista, São Paulo - SP",9.0,5.0,717, Jardim Paulista,Rua Oliveira Pimentel,Oeste
+397,9000,4.0,"Lar São Paulo, São Paulo - SP",5.0,6.0,512, SP,"Lar São Paulo, São Paulo",Oeste
+403,6000,3.0,"Rua Guarará, 77 - Jardim Paulista, São Paulo - SP",3.0,2.0,140, Jardim Paulista,"Rua Guarará, 77",Oeste
+406,2500,1.0,"Rua Turiassu - Perdizes, São Paulo - SP",1.0,1.0,66, Perdizes,Rua Turiassu,Oeste
+411,2600,1.0,"Rua Bruno Simoni, 170 - Pinheiros, São Paulo - SP",2.0,0.0,85, Pinheiros,"Rua Bruno Simoni, 170",Oeste
+413,13000,3.0,"Rua Inglaterra - Jardim Europa, São Paulo - SP",3.0,2.0,200, Jardim Europa,Rua Inglaterra,Oeste
+414,18000,6.0,"Rua Bernardino Machado, 321 - Granja Julieta, São Paulo - SP",7.0,4.0,800, Granja Julieta,"Rua Bernardino Machado, 321",Oeste
+416,1150,0.0,"Alameda Olga, 422 - Barra Funda, São Paulo - SP",2.0,1.0,37, Barra Funda,"Alameda Olga, 422",Oeste
+417,1500,0.0,"Rua Joaquim Antunes, 767 - Pinheiros, São Paulo - SP",2.0,1.0,42, Pinheiros,"Rua Joaquim Antunes, 767",Oeste
+419,1000,0.0,"Rua Coriolano, 1926 - Vila Romana, São Paulo - SP",1.0,0.0,25, Vila Romana,"Rua Coriolano, 1926",Oeste
+421,6500,5.0,"Rua Simão Álvares, 526 - Pinheiros, São Paulo - SP",4.0,1.0,120, Pinheiros,"Rua Simão Álvares, 526",Oeste
+422,8500,0.0,"Rua Pais Leme, 524 - Pinheiros, São Paulo - SP",2.0,7.0,150, Pinheiros,"Rua Pais Leme, 524",Oeste
+430,3000,4.0,"Rua Cayowaá, , 1519 - Sumaré, São Paulo - SP",5.0,4.0,343, Sumaré,"Rua Cayowaá, , 1519",Oeste
+431,10000,4.0,"Rua Urbanizadora, 118 - Sumaré, São Paulo - SP",5.0,4.0,340, Sumaré,"Rua Urbanizadora, 118",Oeste
+434,5500,3.0,"Rua Cônego Eugênio Leite - Pinheiros, São Paulo - SP",3.0,1.0,135, Pinheiros,Rua Cônego Eugênio Leite,Oeste
+443,10000,3.0,"Vila Madalena, São Paulo - SP",6.0,4.0,205, SP,"Vila Madalena, São Paulo",Oeste
+448,3000,3.0,"Avenida Rebouças, 1490 - Pinheiros, São Paulo - SP",3.0,0.0,93, Pinheiros,"Avenida Rebouças, 1490",Oeste
+455,10000,3.0,"Rua Madalena - Vila Madalena, São Paulo - SP",2.0,2.0,176, Vila Madalena,Rua Madalena,Oeste
+456,4500,2.0,"Rua Doutor Hélio Fidélis, 26 - Cidade São Francisco, São Paulo - SP",2.0,2.0,144, Cidade São Francisco,"Rua Doutor Hélio Fidélis, 26",Oeste
+458,12000,3.0,"Vila Madalena, São Paulo - SP",4.0,3.0,180, SP,"Vila Madalena, São Paulo",Oeste
+468,1460,1.0,"Alameda Campinas, 675 - Jardim Paulista, São Paulo - SP",1.0,1.0,35, Jardim Paulista,"Alameda Campinas, 675",Oeste
+476,3300,2.0,"Alameda Casa Branca, 343 - Jardim Paulista, São Paulo - SP",1.0,1.0,88, Jardim Paulista,"Alameda Casa Branca, 343",Oeste
+479,1300,1.0,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",1.0,1.0,27, Pinheiros,"Rua Butantã, 408",Oeste
+480,2400,2.0,"Alameda Franca, 584 - Jardim Paulista, São Paulo - SP",1.0,1.0,65, Jardim Paulista,"Alameda Franca, 584",Oeste
+487,5200,2.0,"Rua Susano, 131 - Jardim Paulista, São Paulo - SP",1.0,1.0,83, Jardim Paulista,"Rua Susano, 131",Oeste
+490,1500,1.0,"Rua Ministro Godói, 1131 / 1133 - Perdizes, São Paulo - SP",1.0,1.0,30, Perdizes,"Rua Ministro Godói, 1131 / 1133",Oeste
+493,2800,2.0,"Rua Guarará, 58 - Jardim Paulista, São Paulo - SP",1.0,1.0,55, Jardim Paulista,"Rua Guarará, 58",Oeste
+494,1600,1.0,"Alameda Campinas, , 675 - Jardim Paulista, São Paulo - SP",1.0,1.0,35, Jardim Paulista,"Alameda Campinas, , 675",Oeste
+498,2200,1.0,"Rua Saint Hilaire - Jardim Paulista, São Paulo - SP",1.0,1.0,35, Jardim Paulista,Rua Saint Hilaire,Oeste
+499,2000,1.0,"Rua Butantã, 405 - Pinheiros, São Paulo - SP",1.0,1.0,24, Pinheiros,"Rua Butantã, 405",Oeste
+503,2000,0.0,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",1.0,1.0,25, Pinheiros,"Rua Butantã, 408",Oeste
+508,1550,1.0,"Rua Adolfo Reile, 286 - Jardim Celeste, São Paulo - SP",1.0,1.0,35, Jardim Celeste,"Rua Adolfo Reile, 286",Oeste
+509,3200,1.0,"Rua Batataes, 38 - Jardim Paulista, São Paulo - SP",1.0,1.0,27, Jardim Paulista,"Rua Batataes, 38",Oeste
+510,2900,0.0,"Avenida Rebouças - Pinheiros, São Paulo - SP",1.0,0.0,24, Pinheiros,Avenida Rebouças,Oeste
+513,850,1.0,"Rua José Piragibe, 12 - Vila Indiana, São Paulo - SP",1.0,0.0,15, Vila Indiana,"Rua José Piragibe, 12",Oeste
+530,1990,3.0,"Rua Cantagalo, 2103 - Vila Gomes Cardim, São Paulo - SP",2.0,1.0,170, Vila Gomes Cardim,"Rua Cantagalo, 2103",Oeste
+532,5200,4.0,"Rua Atuaú, 80 - Pinheiros, São Paulo - SP",3.0,1.0,155, Pinheiros,"Rua Atuaú, 80",Oeste
+533,17000,3.0,"Rua Gália, 430 - Jardim Everest, São Paulo - SP",5.0,4.0,350, Jardim Everest,"Rua Gália, 430",Oeste
+539,20000,3.0,"Rua Senador César Lacerda Vergueiro, 222 - Sumarezinho, São Paulo - SP",2.0,5.0,248, Sumarezinho,"Rua Senador César Lacerda Vergueiro, 222",Oeste
+542,2500,3.0,"Rua Antônio Toledo Piza - Lapa, São Paulo - SP",2.0,2.0,110, Lapa,Rua Antônio Toledo Piza,Oeste
+543,4500,3.0,"Lapa, São Paulo - SP",2.0,0.0,130, SP,"Lapa, São Paulo",Oeste
+552,5500,4.0,"Rua Doutor Franco da Rocha, 703 - Perdizes, São Paulo - SP",2.0,3.0,120, Perdizes,"Rua Doutor Franco da Rocha, 703",Oeste
+561,2500,3.0,"Jaguaré, São Paulo - SP",1.0,2.0,130, SP,"Jaguaré, São Paulo",Oeste
+577,14000,0.0,"Jardim Monte Kemel, São Paulo - SP",0.0,0.0,750, SP,"Jardim Monte Kemel, São Paulo",Oeste
+578,6000,0.0,"Caxingui, São Paulo - SP",0.0,0.0,750, SP,"Caxingui, São Paulo",Oeste
+579,15000,0.0,"Butantã, São Paulo - SP",0.0,0.0,1100, SP,"Butantã, São Paulo",Oeste
+585,64000,4.0,"Jardim Europa, São Paulo - SP",4.0,6.0,1250, SP,"Jardim Europa, São Paulo",Oeste
+587,25000,5.0,"Rua Maestro Elias Lobo - Jardim Paulista, São Paulo - SP",8.0,4.0,542, Jardim Paulista,Rua Maestro Elias Lobo,Oeste
+590,7000,4.0,"Alto de Pinheiros, São Paulo - SP",6.0,9.0,560, SP,"Alto de Pinheiros, São Paulo",Oeste
+593,8000,5.0,"Rua Miralta - Alto de Pinheiros, São Paulo - SP",6.0,4.0,500, Alto de Pinheiros,Rua Miralta,Oeste
+595,25000,3.0,"Rua Caraça, 50 - Vila Madalena, São Paulo - SP",6.0,3.0,400, Vila Madalena,"Rua Caraça, 50",Oeste
+596,16000,4.0,"Rua Ziembinski - Alto da Lapa, São Paulo - SP",5.0,5.0,500, Alto da Lapa,Rua Ziembinski,Oeste
+599,2000,2.0,"Rua Jaspe Negro - Alto da Lapa, São Paulo - SP",1.0,0.0,90, Alto da Lapa,Rua Jaspe Negro,Oeste
+602,22000,4.0,"Rua Maestro Elias Lobo, 241 - Jardim Paulista, São Paulo - SP",5.0,3.0,620, Jardim Paulista,"Rua Maestro Elias Lobo, 241",Oeste
+604,1660,2.0,"Rua Franco Paolantonio, 45 - Parque Ipê, São Paulo - SP",3.0,1.0,74, Parque Ipê,"Rua Franco Paolantonio, 45",Oeste
+620,15000,3.0,"Rua Maria da Grá - Alto de Pinheiros, São Paulo - SP",4.0,3.0,389, Alto de Pinheiros,Rua Maria da Grá,Oeste
+634,50000,4.0,"Rua Campo Verde - Jardim Europa, São Paulo - SP",7.0,6.0,655, Jardim Europa,Rua Campo Verde,Oeste
+644,4000,3.0,"Vila Gomes, São Paulo - SP",3.0,2.0,90, SP,"Vila Gomes, São Paulo",Oeste
+648,35000,3.0,"Jardim Europa, São Paulo - SP",6.0,4.0,450, SP,"Jardim Europa, São Paulo",Oeste
+653,8500,3.0,"Rua João Moura - Pinheiros, São Paulo - SP",3.0,3.0,237, Pinheiros,Rua João Moura,Oeste
+657,5000,3.0,"Rua Doutor José de Andrade Figueira - Vila Suzana, São Paulo - SP",3.0,3.0,240, Vila Suzana,Rua Doutor José de Andrade Figueira,Oeste
+659,3000,4.0,"Rua Cayowaá, 1519 - Sumaré, São Paulo - SP",5.0,4.0,342, Sumaré,"Rua Cayowaá, 1519",Oeste
+667,7000,4.0,"Rua Iperoig - Perdizes, São Paulo - SP",5.0,4.0,300, Perdizes,Rua Iperoig,Oeste
+668,6000,4.0,"Rua Passo da Pátria, 1678 - Bela Aliança, São Paulo - SP",4.0,3.0,222, Bela Aliança,"Rua Passo da Pátria, 1678",Oeste
+669,11000,3.0,"Rua José Benedito Viana de Moraes, 265 - Cidade São Francisco, São Paulo - SP",1.0,3.0,278, Cidade São Francisco,"Rua José Benedito Viana de Moraes, 265",Oeste
+670,8000,2.0,"Rua João Moura - Pinheiros, São Paulo - SP",3.0,3.0,190, Pinheiros,Rua João Moura,Oeste
+671,10000,3.0,"Rua Cayowaá, 1520 - Sumaré, São Paulo - SP",5.0,4.0,210, Sumaré,"Rua Cayowaá, 1520",Oeste
+674,10000,4.0,"Rua Carlos Weber, 1418 - Vila Leopoldina, São Paulo - SP",4.0,2.0,314, Vila Leopoldina,"Rua Carlos Weber, 1418",Oeste
+675,5500,3.0,"Rua Baias - Alto de Pinheiros, São Paulo - SP",4.0,3.0,182, Alto de Pinheiros,Rua Baias,Oeste
+680,1200,0.0,"Rua Camarajibe, 262 - Barra Funda, São Paulo - SP",1.0,0.0,38, Barra Funda,"Rua Camarajibe, 262",Oeste
+687,1135,1.0,"Rua José Piragibe, 366 - Vila Indiana, São Paulo - SP",1.0,0.0,17, Vila Indiana,"Rua José Piragibe, 366",Oeste
+703,1090,1.0,"Rua Diogo Moreira, , 247 - Pinheiros, São Paulo - SP",1.0,1.0,36, Pinheiros,"Rua Diogo Moreira, , 247",Oeste
+704,2746,1.0,"Rua Guarará - Jardim Paulista, São Paulo - SP",1.0,0.0,28, Jardim Paulista,Rua Guarará,Oeste
+714,1700,1.0,"Alameda Franca, 584 - Jardim Paulista, São Paulo - SP",1.0,1.0,45, Jardim Paulista,"Alameda Franca, 584",Oeste
+717,1760,1.0,"Alameda Lorena, 473 - Jardim Paulista, São Paulo - SP",1.0,1.0,33, Jardim Paulista,"Alameda Lorena, 473",Oeste
+720,1684,1.0,"Rua Oscar Freire, , 1948 - Pinheiros, São Paulo - SP",1.0,1.0,32, Pinheiros,"Rua Oscar Freire, , 1948",Oeste
+721,3500,1.0,"Rua Capote Valente, 500 - Pinheiros, São Paulo - SP",1.0,1.0,30, Pinheiros,"Rua Capote Valente, 500",Oeste
+741,3000,4.0,"Rua Armando D'Almeida - Jardim Rizzo, São Paulo - SP",3.0,2.0,150, Jardim Rizzo,Rua Armando D'Almeida,Oeste
+748,14999,4.0,"Rua Coronel Irlandino Sandoval - Jardim Paulistano, São Paulo - SP",6.0,3.0,470, Jardim Paulistano,Rua Coronel Irlandino Sandoval,Oeste
+753,3000,2.0,"Rua Caiubi - Perdizes, São Paulo - SP",3.0,0.0,82, Perdizes,Rua Caiubi,Oeste
+756,1680,2.0,"Rua Augusto Farina, , 271 - Jardim Bonfiglioli, São Paulo - SP",2.0,0.0,75, Jardim Bonfiglioli,"Rua Augusto Farina, , 271",Oeste
+765,3380,1.0,"Rua Pamplona, 935 - Jardim Paulista, São Paulo - SP",1.0,1.0,58, Jardim Paulista,"Rua Pamplona, 935",Oeste
+766,2250,1.0,"Rua Cardoso de Almeida, 840 - Perdizes, São Paulo - SP",1.0,1.0,36, Perdizes,"Rua Cardoso de Almeida, 840",Oeste
+773,4000,2.0,"Rua Oscar Freire, 1456 - Pinheiros, São Paulo - SP",2.0,1.0,82, Pinheiros,"Rua Oscar Freire, 1456",Oeste
+776,10000,4.0,"Vila Progredior, São Paulo - SP",4.0,5.0,532, SP,"Vila Progredior, São Paulo",Oeste
+777,100000,4.0,"Jardim América, São Paulo - SP",6.0,8.0,700, SP,"Jardim América, São Paulo",Oeste
+785,1650,2.0,"Estrada do Jaguaré, 0 - Jardim Jussara, São Paulo - SP",1.0,2.0,70, Jardim Jussara,"Estrada do Jaguaré, 0",Oeste
+786,2100,2.0,"Vila Tiradentes, São Paulo - SP",2.0,3.0,110, SP,"Vila Tiradentes, São Paulo",Oeste
+787,15300,5.0,"Avenida Doutor Alberto Penteado - Jardim Sílvia (Zona Oeste), São Paulo - SP",6.0,8.0,350, Jardim Sílvia (Zona Oeste),Avenida Doutor Alberto Penteado,Oeste
+789,6000,3.0,"Rua Artur de Azevedo - Pinheiros, São Paulo - SP",3.0,1.0,235, Pinheiros,Rua Artur de Azevedo,Oeste
+790,29000,4.0,"Rua Stefan Marek Neuding - Jardim Sílvia (Zona Oeste), São Paulo - SP",5.0,5.0,930, Jardim Sílvia (Zona Oeste),Rua Stefan Marek Neuding,Oeste
+798,5000,3.0,"Rua Doutor José de Andrade Figueira, , 374 - Vila Suzana, São Paulo - SP",5.0,3.0,223, Vila Suzana,"Rua Doutor José de Andrade Figueira, , 374",Oeste
+799,13500,3.0,"Rua Simpatia - Jardim das Bandeiras, São Paulo - SP",4.0,3.0,256, Jardim das Bandeiras,Rua Simpatia,Oeste
+802,25000,3.0,"Alto de Pinheiros, São Paulo - SP",5.0,4.0,380, SP,"Alto de Pinheiros, São Paulo",Oeste
+806,1200,1.0,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",1.0,1.0,27, Pinheiros,"Rua Butantã, 408",Oeste
+811,1500,1.0,"Rua José Maria Lisboa, , 555 - Jardim Paulista, São Paulo - SP",1.0,1.0,23, Jardim Paulista,"Rua José Maria Lisboa, , 555",Oeste
+825,3200,1.0,"Pinheiros, São Paulo - SP",1.0,1.0,35, SP,"Pinheiros, São Paulo",Oeste
+837,6650,2.0,"Rua Delfina - Vila Madalena, São Paulo - SP",2.0,2.0,83, Vila Madalena,Rua Delfina,Oeste
+842,80000,5.0,"Rua Groenlândia - Jardim América, São Paulo - SP",4.0,6.0,750, Jardim América,Rua Groenlândia,Oeste
+843,12000,2.0,"Jardim Paulistano, São Paulo - SP",3.0,2.0,230, SP,"Jardim Paulistano, São Paulo",Oeste
+844,30000,3.0,"Rua Guararapes - Lapa, São Paulo - SP",5.0,8.0,515, Lapa,Rua Guararapes,Oeste
+845,10000,4.0,"Rua Alvarenga - Butantã, São Paulo - SP",3.0,4.0,400, Butantã,Rua Alvarenga,Oeste
+847,30000,4.0,"Jardim Guedala, São Paulo - SP",5.0,5.0,431, SP,"Jardim Guedala, São Paulo",Oeste
+852,1590,2.0,"Rua Franco Paolantonio, 45 - Parque Ipê, São Paulo - SP",3.0,1.0,74, Parque Ipê,"Rua Franco Paolantonio, 45",Oeste
+857,4800,3.0,"Sumaré, São Paulo - SP",2.0,2.0,180, SP,"Sumaré, São Paulo",Oeste
+861,3500,2.0,"Sumaré, São Paulo - SP",1.0,0.0,280, SP,"Sumaré, São Paulo",Oeste
+869,10500,3.0,"Jardim Paulista, São Paulo - SP",2.0,0.0,148, SP,"Jardim Paulista, São Paulo",Oeste
+873,10500,3.0,"Água Branca, São Paulo - SP",4.0,5.0,300, SP,"Água Branca, São Paulo",Oeste
+877,30000,8.0,"Rua Azevedo Soares, 1826 - Vila Gomes Cardim, São Paulo - SP",10.0,7.0,500, Vila Gomes Cardim,"Rua Azevedo Soares, 1826",Oeste
+878,13000,3.0,"Rua Manuel Guedes, 536 - Jardim Europa, São Paulo - SP",4.0,2.0,227, Jardim Europa,"Rua Manuel Guedes, 536",Oeste
+883,6500,4.0,"Rua Sacadura Cabral, 220 - Lapa, São Paulo - SP",4.0,4.0,250, Lapa,"Rua Sacadura Cabral, 220",Oeste
+885,8000,3.0,"Rua João Anes, 144 - Alto da Lapa, São Paulo - SP",4.0,3.0,164, Alto da Lapa,"Rua João Anes, 144",Oeste
+886,5500,3.0,"Rua Passo da Pátria - Vila Leopoldina, São Paulo - SP",4.0,2.0,185, Vila Leopoldina,Rua Passo da Pátria,Oeste
+891,5000,3.0,"Rua Carlos Weber - Alto da Lapa, São Paulo - SP",3.0,2.0,300, Alto da Lapa,Rua Carlos Weber,Oeste
+895,3246,1.0,"Rua Guarará - Jardim Paulista, São Paulo - SP",1.0,1.0,28, Jardim Paulista,Rua Guarará,Oeste
+900,2400,1.0,"Rua Oscar Freire, 1948 - Pinheiros, São Paulo - SP",1.0,1.0,30, Pinheiros,"Rua Oscar Freire, 1948",Oeste
+902,2000,2.0,"Alameda Lorena, 1852 - Jardim Paulista, São Paulo - SP",1.0,1.0,43, Jardim Paulista,"Alameda Lorena, 1852",Oeste
+904,2500,1.0,"Alameda Campinas, , 675 - Jardim Paulista, São Paulo - SP",1.0,1.0,33, Jardim Paulista,"Alameda Campinas, , 675",Oeste
+912,1200,1.0,"Pinheiros, São Paulo - SP",1.0,0.0,22, SP,"Pinheiros, São Paulo",Oeste
+917,900,1.0,"Rua Moacir Miguel da Silva - Jardim Bonfiglioli, São Paulo - SP",1.0,0.0,35, Jardim Bonfiglioli,Rua Moacir Miguel da Silva,Oeste
+918,1400,1.0,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 229 - Jardim Esmeralda, São Paulo - SP",1.0,0.0,20, Jardim Esmeralda,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 229",Oeste
+930,9900,4.0,"Rua Tingui, 400 - Vila Inah, São Paulo - SP",6.0,0.0,485, Vila Inah,"Rua Tingui, 400",Oeste
+932,9900,3.0,"Rua Fradique Coutinho, 1896 - Pinheiros, São Paulo - SP",4.0,2.0,263, Pinheiros,"Rua Fradique Coutinho, 1896",Oeste
+934,8500,3.0,"Rua Doutor Baeta Neves, 98 - Vila Madalena, São Paulo - SP",3.0,1.0,200, Vila Madalena,"Rua Doutor Baeta Neves, 98",Oeste
+946,8000,3.0,"Rua Iraci - Jardim Paulistano, São Paulo - SP",2.0,2.0,130, Jardim Paulistano,Rua Iraci,Oeste
+955,1900,1.0,"Rua André Casado, 215 - Sumaré, São Paulo - SP",1.0,1.0,50, Sumaré,"Rua André Casado, 215",Oeste
+965,1500,2.0,"Rua Santa Crescência, 85 - Vila Sônia, São Paulo - SP",1.0,1.0,65, Vila Sônia,"Rua Santa Crescência, 85",Oeste
+968,2100,3.0,"Avenida Marechal Mário Guedes, 02 - Jaguaré, São Paulo - SP",2.0,2.0,70, Jaguaré,"Avenida Marechal Mário Guedes, 02",Oeste
+969,3100,3.0,"Rua Cristiano Viana, 505 - Pinheiros, São Paulo - SP",2.0,1.0,80, Pinheiros,"Rua Cristiano Viana, 505",Oeste
+974,4000,3.0,"Lapa, São Paulo - SP",1.0,2.0,115, SP,"Lapa, São Paulo",Oeste
+977,6000,3.0,"Lapa, São Paulo - SP",2.0,4.0,136, SP,"Lapa, São Paulo",Oeste
+984,1300,3.0,"Rua Rifaina, 550 - Pompeia, São Paulo - SP",1.0,0.0,60, Pompeia,"Rua Rifaina, 550",Oeste
+988,9500,3.0,"Rua Afonso Vaz, 131 - Butantã, São Paulo - SP",3.0,0.0,516, Butantã,"Rua Afonso Vaz, 131",Oeste
+989,3500,1.0,"Jardim Paulista, São Paulo - SP",1.0,1.0,45, SP,"Jardim Paulista, São Paulo",Oeste
+1004,10000,4.0,"Panamby, São Paulo - SP",4.0,2.0,279, SP,"Panamby, São Paulo",Oeste
+1006,2100,2.0,"Jardim Esmeralda, São Paulo - SP",2.0,3.0,110, SP,"Jardim Esmeralda, São Paulo",Oeste
+1007,4800,3.0,"Rua Aleixo Jorge - Pompeia, São Paulo - SP",3.0,2.0,169, Pompeia,Rua Aleixo Jorge,Oeste
+1020,4500,5.0,"Rua Doutor Chibata Miyakoshi - Panamby, São Paulo - SP",7.0,6.0,505, Panamby,Rua Doutor Chibata Miyakoshi,Oeste
+1024,9000,4.0,"Rua David Ben Gurion, 955 - Jardim Monte Kemel, São Paulo - SP",5.0,3.0,283, Jardim Monte Kemel,"Rua David Ben Gurion, 955",Oeste
+1027,8000,4.0,"Alto da Lapa, São Paulo - SP",3.0,3.0,276, SP,"Alto da Lapa, São Paulo",Oeste
+1032,10000,3.0,"Rua Cayowaá, 1520 - Perdizes, São Paulo - SP",5.0,4.0,210, Perdizes,"Rua Cayowaá, 1520",Oeste
+1033,22000,3.0,"Rua Massacá, 231 - Alto de Pinheiros, São Paulo - SP",1.0,5.0,375, Alto de Pinheiros,"Rua Massacá, 231",Oeste
+1035,2600,1.0,"Rua Apinajés, 105 - Pompeia, São Paulo - SP",1.0,1.0,83, Pompeia,"Rua Apinajés, 105",Oeste
+1039,110000,4.0,"Jardim Paulista, São Paulo - SP",4.0,8.0,907, SP,"Jardim Paulista, São Paulo",Oeste
+1042,5900,2.0,"Alameda Joaquim Eugênio de Lima, 246 - Jardim Paulista, São Paulo - SP",3.0,2.0,100, Jardim Paulista,"Alameda Joaquim Eugênio de Lima, 246",Oeste
+1043,9990,3.0,"Rua Morás, 542 - Vila Madalena, São Paulo - SP",3.0,4.0,205, Vila Madalena,"Rua Morás, 542",Oeste
+1056,1320,1.0,"Alameda Lorena, 1014 - Jardim Paulista, São Paulo - SP",1.0,1.0,27, Jardim Paulista,"Alameda Lorena, 1014",Oeste
+1069,1135,1.0,"Rua José Piragibe, 366 - Butantã, São Paulo - SP",1.0,0.0,17, Butantã,"Rua José Piragibe, 366",Oeste
+1087,7350,3.0,"Granja Julieta, São Paulo - SP",5.0,3.0,450, SP,"Granja Julieta, São Paulo",Oeste
+1096,3400,3.0,"Rua Henrique Botticini, 70 - Jardim Rizzo, São Paulo - SP",3.0,0.0,132, Jardim Rizzo,"Rua Henrique Botticini, 70",Oeste
+0,7000,2.0,"Rua Volta Redonda, 757 - Campo Belo, São Paulo - SP",5.0,3.0,276, Campo Belo,"Rua Volta Redonda, 757",Sul
+4,1900,2.0,"Rua Araquém, 19 - Vila Mascote, São Paulo - SP",3.0,1.0,84, Vila Mascote,"Rua Araquém, 19",Sul
+8,4200,2.0,"Rua Helena, 52 - Vila Olímpia, São Paulo - SP",2.0,1.0,60, Vila Olímpia,"Rua Helena, 52",Sul
+9,2500,1.0,"Avenida Vereador José Diniz, 3100 - Santo Amaro, São Paulo - SP",1.0,1.0,35, Santo Amaro,"Avenida Vereador José Diniz, 3100",Sul
+10,1800,2.0,"Avenida Itaboraí - Bosque da Saúde, São Paulo - SP",1.0,1.0,62, Bosque da Saúde,Avenida Itaboraí,Sul
+11,4574,3.0,"Rua Viradouro, 96 - Itaim Bibi, São Paulo - SP",2.0,1.0,100, Itaim Bibi,"Rua Viradouro, 96",Sul
+13,4800,3.0,"Rua Barão de Jaceguai, 1305 - Campo Belo, São Paulo - SP",3.0,2.0,130, Campo Belo,"Rua Barão de Jaceguai, 1305",Sul
+17,1800,2.0,"Rua Dom Constantino Barradas, 120 - Vila Gumercindo, São Paulo - SP",2.0,2.0,80, Vila Gumercindo,"Rua Dom Constantino Barradas, 120",Sul
+18,4985,2.0,"Rua Silva Correia, 125 - Vila Nova Conceição, São Paulo - SP",3.0,2.0,86, Vila Nova Conceição,"Rua Silva Correia, 125",Sul
+25,14485,3.0,"Rua Inajaroba, 17 - Vila Nova Conceição, São Paulo - SP",5.0,3.0,211, Vila Nova Conceição,"Rua Inajaroba, 17",Sul
+26,1800,1.0,"Rua dos Caciques - Vila da Saúde, São Paulo - SP",2.0,1.0,37, Vila da Saúde,Rua dos Caciques,Sul
+29,2000,2.0,"Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - SP",2.0,1.0,70, Vila Olímpia,Avenida Doutor Cardoso de Melo,Sul
+31,6100,2.0,"Rua Sansão Alves dos Santos, 343 - Cidade Monções, São Paulo - SP",2.0,2.0,75, Cidade Monções,"Rua Sansão Alves dos Santos, 343",Sul
+33,12000,3.0,"Rua Visconde de Taunay, 627 - Vila Cruzeiro, São Paulo - SP",5.0,4.0,220, Vila Cruzeiro,"Rua Visconde de Taunay, 627",Sul
+37,1700,2.0,"Avenida Santa Catarina, 1531 - Vila Mascote, São Paulo - SP",1.0,1.0,54, Vila Mascote,"Avenida Santa Catarina, 1531",Sul
+39,5500,2.0,"Rua Henri Dunant, 792 - Santo Amaro, São Paulo - SP",3.0,2.0,78, Santo Amaro,"Rua Henri Dunant, 792",Sul
+41,6000,3.0,"Rua Bacaetava, 66 - Vila Gertrudes, São Paulo - SP",3.0,2.0,97, Vila Gertrudes,"Rua Bacaetava, 66",Sul
+42,1400,2.0,"Rua João Ferreira de Abreu - Vila Arriete, São Paulo - SP",1.0,1.0,45, Vila Arriete,Rua João Ferreira de Abreu,Sul
+43,2880,1.0,"Rua Henri Dunant, 1066 - Santo Amaro, São Paulo - SP",1.0,1.0,33, Santo Amaro,"Rua Henri Dunant, 1066",Sul
+49,9990,3.0,"Rua Pensilvânia, 442 - Cidade Monções, São Paulo - SP",3.0,3.0,156, Cidade Monções,"Rua Pensilvânia, 442",Sul
+51,6385,2.0,"Rua Casa do Ator, 996 - Vila Olímpia, São Paulo - SP",2.0,2.0,100, Vila Olímpia,"Rua Casa do Ator, 996",Sul
+52,3500,2.0,"Rua João Cachoeira - Itaim Bibi, São Paulo - SP",1.0,1.0,90, Itaim Bibi,Rua João Cachoeira,Sul
+55,6000,3.0,"Rua Kansas, 1700 - Brooklin Paulista, São Paulo - SP",3.0,2.0,100, Brooklin Paulista,"Rua Kansas, 1700",Sul
+56,5485,3.0,"Rua Nebraska, 420 - Brooklin Novo, São Paulo - SP",1.0,3.0,121, Brooklin Novo,"Rua Nebraska, 420",Sul
+58,1100,1.0,"Avenida Afonso Mariano Fagundes, 725 - Saúde, São Paulo - SP",1.0,0.0,12, Saúde,"Avenida Afonso Mariano Fagundes, 725",Sul
+59,1430,2.0,"Rua Nossa Senhora do Bom Conselho, 451 - Chácara Nossa Senhora do Bom Conselho, São Paulo - SP",2.0,1.0,54, Chácara Nossa Senhora do Bom Conselho,"Rua Nossa Senhora do Bom Conselho, 451",Sul
+60,1150,2.0,"Rua Inocêncio de Camargo, 41 - Pedreira, São Paulo - SP",1.0,1.0,46, Pedreira,"Rua Inocêncio de Camargo, 41",Sul
+66,2000,2.0,"Rua Tabapuã, 665 - Itaim Bibi, São Paulo - SP",1.0,0.0,85, Itaim Bibi,"Rua Tabapuã, 665",Sul
+68,5885,3.0,"Rua Brasília, 45 - Itaim Bibi, São Paulo - SP",2.0,3.0,120, Itaim Bibi,"Rua Brasília, 45",Sul
+69,5485,3.0,"Rua Marechal Deodoro, 500 - Santo Amaro, São Paulo - SP",4.0,2.0,126, Santo Amaro,"Rua Marechal Deodoro, 500",Sul
+71,8000,3.0,"Alameda dos Arapanés, 628 - Moema, São Paulo - SP",5.0,3.0,198, Moema,"Alameda dos Arapanés, 628",Sul
+73,1400,1.0,"Rua Barão de Santa Branca - Parque Colonial, São Paulo - SP",1.0,1.0,30, Parque Colonial,Rua Barão de Santa Branca,Sul
+74,15000,4.0,"Rua Edson, 728 - Campo Belo, São Paulo - SP",5.0,4.0,230, Campo Belo,"Rua Edson, 728",Sul
+75,4000,3.0,"Rua Sócrates, 161 - Vila Sofia, São Paulo - SP",3.0,2.0,105, Vila Sofia,"Rua Sócrates, 161",Sul
+76,3050,1.0,"Rua Luís Correia de Melo, 92 - Vila Cruzeiro, São Paulo - SP",1.0,1.0,45, Vila Cruzeiro,"Rua Luís Correia de Melo, 92",Sul
+78,2500,3.0,"Rua Camillo Nader, 175 - Vila Morumbi, São Paulo - SP",3.0,2.0,125, Vila Morumbi,"Rua Camillo Nader, 175",Sul
+83,2200,2.0,"Rua Agostinho Gomes, 1326 - Ipiranga, São Paulo - SP",1.0,1.0,62, Ipiranga,"Rua Agostinho Gomes, 1326",Sul
+84,4250,1.0,"Rua George Ohm, 330 - Cidade Monções, São Paulo - SP",2.0,1.0,52, Cidade Monções,"Rua George Ohm, 330",Sul
+85,4000,1.0,"Rua Nova York, 245 - Brooklin Paulista, São Paulo - SP",1.0,1.0,43, Brooklin Paulista,"Rua Nova York, 245",Sul
+92,2290,2.0,"Avenida Onze de Junho, 730 - Vila Clementino, São Paulo - SP",2.0,1.0,53, Vila Clementino,"Avenida Onze de Junho, 730",Sul
+93,7985,3.0,"Rua Nova York, 539 - Brooklin Paulista, São Paulo - SP",2.0,2.0,120, Brooklin Paulista,"Rua Nova York, 539",Sul
+96,4500,2.0,"Rua João Cachoeira, 250 - Vila Nova Conceição, São Paulo - SP",3.0,1.0,90, Vila Nova Conceição,"Rua João Cachoeira, 250",Sul
+100,4200,3.0,"Avenida Doutor Mário Vilas Boas Rodrigues, 161 - Jardim Dom Bosco, São Paulo - SP",3.0,2.0,130, Jardim Dom Bosco,"Avenida Doutor Mário Vilas Boas Rodrigues, 161",Sul
+103,2000,2.0,"Rua Comendador Miguel Calfat, 62 - Vila Nova Conceição, São Paulo - SP",2.0,1.0,56, Vila Nova Conceição,"Rua Comendador Miguel Calfat, 62",Sul
+105,14490,3.0,"Rua Inajaroba, 17 - Vila Nova Conceição, São Paulo - SP",5.0,3.0,211, Vila Nova Conceição,"Rua Inajaroba, 17",Sul
+107,800,1.0,"Rua Gomes de Carvalho, 1005 - Vila Olímpia, São Paulo - SP",1.0,1.0,30, Vila Olímpia,"Rua Gomes de Carvalho, 1005",Sul
+112,1300,2.0,"Rua Padre Bento Ibañez - Jardim Prudência, São Paulo - SP",1.0,1.0,45, Jardim Prudência,Rua Padre Bento Ibañez,Sul
+113,2500,2.0,"Rua Iaiá - Itaim Bibi, São Paulo - SP",1.0,1.0,52, Itaim Bibi,Rua Iaiá,Sul
+114,7400,3.0,"Rua Araguari - Vila Uberabinha, São Paulo - SP",5.0,2.0,124, Vila Uberabinha,Rua Araguari,Sul
+115,1200,1.0,"Rua Ática, 420 - Jardim Brasil (Zona Sul), São Paulo - SP",1.0,1.0,35, Jardim Brasil (Zona Sul),"Rua Ática, 420",Sul
+118,4000,1.0,"Avenida Chibarás, 44 - Moema, São Paulo - SP",2.0,1.0,68, Moema,"Avenida Chibarás, 44",Sul
+119,55000,4.0,"Rua Inhambú - Vila Uberabinha, São Paulo - SP",6.0,5.0,403, Vila Uberabinha,Rua Inhambú,Sul
+124,1900,1.0,"Rua Constantino de Sousa, 1032 - Campo Belo, São Paulo - SP",2.0,1.0,45, Campo Belo,"Rua Constantino de Sousa, 1032",Sul
+129,2200,2.0,"Rua Antônio de Macedo Soares, 1234 - Campo Belo, São Paulo - SP",2.0,1.0,70, Campo Belo,"Rua Antônio de Macedo Soares, 1234",Sul
+132,1500,2.0,"Rua Santa Crescência, 85 - Ferreira, São Paulo - SP",1.0,1.0,65, Ferreira,"Rua Santa Crescência, 85",Sul
+134,2150,1.0,"Rua Júlio Diniz, 145 - Vila Olímpia, São Paulo - SP",2.0,1.0,56, Vila Olímpia,"Rua Júlio Diniz, 145",Sul
+137,2700,3.0,"Rua José Ramon Urtiza, 181 - Vila Andrade, São Paulo - SP",4.0,2.0,95, Vila Andrade,"Rua José Ramon Urtiza, 181",Sul
+139,3200,2.0,"Rua Alvorada - Vila Olímpia, São Paulo - SP",2.0,1.0,70, Vila Olímpia,Rua Alvorada,Sul
+141,1500,2.0,"Avenida Ramalho Ortigão, 200 - Vila Gumercindo, São Paulo - SP",1.0,0.0,100, Vila Gumercindo,"Avenida Ramalho Ortigão, 200",Sul
+143,3700,3.0,"Rua Moreira Cardoso - Jardim Aeroporto, São Paulo - SP",3.0,2.0,150, Jardim Aeroporto,Rua Moreira Cardoso,Sul
+145,900,2.0,"Avenida Professor Cardozo de Mello Neto, 136 - Jardim Santa Terezinha (Pedreira), São Paulo - SP",2.0,0.0,50, Jardim Santa Terezinha (Pedreira),"Avenida Professor Cardozo de Mello Neto, 136",Sul
+146,20000,4.0,"Rua Palmares, 650 - Brooklin Paulista, São Paulo - SP",5.0,4.0,647, Brooklin Paulista,"Rua Palmares, 650",Sul
+151,2200,3.0,"Rua Clotilde Orsolini Morana, 112 - Jardim Sandra, São Paulo - SP",2.0,3.0,340, Jardim Sandra,"Rua Clotilde Orsolini Morana, 112",Sul
+153,8000,11.0,"Rua Estevão Baião - Vila Congonhas, São Paulo - SP",5.0,3.0,369, Vila Congonhas,Rua Estevão Baião,Sul
+154,4500,2.0,"Rua Enxovia - Vila São Francisco (Zona Sul), São Paulo - SP",2.0,2.0,160, Vila São Francisco (Zona Sul),Rua Enxovia,Sul
+155,3000,5.0,"Rua César Pena Ramos, 1744 - Vila Santa Maria, São Paulo - SP",3.0,1.0,165, Vila Santa Maria,"Rua César Pena Ramos, 1744",Sul
+157,3200,2.0,"Rua Lydia Simões Cabral - Indianópolis, São Paulo - SP",2.0,1.0,90, Indianópolis,Rua Lydia Simões Cabral,Sul
+158,1096,1.0,"Rua Barão de Melgaço, 29 - Real Parque, São Paulo - SP",1.0,0.0,50, Real Parque,"Rua Barão de Melgaço, 29",Sul
+159,30000,4.0,"Vila Morumbi, São Paulo - SP",5.0,10.0,713, SP,"Vila Morumbi, São Paulo",Sul
+161,4300,3.0,"Rua dos Chanes - Indianópolis, São Paulo - SP",4.0,2.0,106, Indianópolis,Rua dos Chanes,Sul
+162,1250,2.0,"Rua Joaquim do Lago, 182 - Balneário Mar Paulista, São Paulo - SP",1.0,1.0,50, Balneário Mar Paulista,"Rua Joaquim do Lago, 182",Sul
+165,2000,2.0,"Rua Correia de Lemos - Chácara Inglesa, São Paulo - SP",2.0,0.0,90, Chácara Inglesa,Rua Correia de Lemos,Sul
+166,11000,4.0,"Rua Fonseca da Costa - Bosque da Saúde, São Paulo - SP",6.0,12.0,650, Bosque da Saúde,Rua Fonseca da Costa,Sul
+168,2900,2.0,"Rua Rondinha, 101 - Chácara Inglesa, São Paulo - SP",3.0,1.0,325, Chácara Inglesa,"Rua Rondinha, 101",Sul
+169,800,1.0,"Rua Jorge Dias, 94 - Socorro, São Paulo - SP",1.0,0.0,30, Socorro,"Rua Jorge Dias, 94",Sul
+175,50000,4.0,"Rua Dom Tomás Costa e Lima, 97 - Vila Tramontano, São Paulo - SP",5.0,14.0,1075, Vila Tramontano,"Rua Dom Tomás Costa e Lima, 97",Sul
+176,12000,4.0,"Rua Pires de Oliveira, 530 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",6.0,3.0,700, Chácara Santo Antônio (Zona Sul),"Rua Pires de Oliveira, 530",Sul
+179,90000,5.0,"Retiro Morumbi, São Paulo - SP",11.0,30.0,2000, SP,"Retiro Morumbi, São Paulo",Sul
+180,5000,2.0,"Rua Flórida, *** - Cidade Monções, São Paulo - SP",3.0,2.0,98, Cidade Monções,"Rua Flórida, ***",Sul
+184,30000,4.0,"Jardim Cordeiro, São Paulo - SP",6.0,14.0,941, SP,"Jardim Cordeiro, São Paulo",Sul
+186,2600,1.0,"Alameda dos Anapurus - Indianópolis, São Paulo - SP",2.0,0.0,50, Indianópolis,Alameda dos Anapurus,Sul
+187,8000,4.0,"Rua Demóstenes - Campo Belo, São Paulo - SP",4.0,2.0,200, Campo Belo,Rua Demóstenes,Sul
+189,2200,2.0,"Rua Artur Thiré, 1085 - Vila da Saúde, São Paulo - SP",2.0,0.0,80, Vila da Saúde,"Rua Artur Thiré, 1085",Sul
+191,16000,4.0,"Rua Nebraska - Brooklin Novo, São Paulo - SP",5.0,4.0,200, Brooklin Novo,Rua Nebraska,Sul
+192,11500,3.0,"Rua Professor Filadelfo Azevedo - Vila Nova Conceição, São Paulo - SP",3.0,4.0,213, Vila Nova Conceição,Rua Professor Filadelfo Azevedo,Sul
+202,100000,6.0,"Rua Antônio de Andrade Rebelo - Retiro Morumbi, São Paulo - SP",6.0,10.0,1700, Retiro Morumbi,Rua Antônio de Andrade Rebelo,Sul
+203,9000,3.0,"Rua Escobar Ortiz - Vila Nova Conceição, São Paulo - SP",3.0,2.0,190, Vila Nova Conceição,Rua Escobar Ortiz,Sul
+204,38000,4.0,"Jardim Morumbi, São Paulo - SP",4.0,4.0,1000, SP,"Jardim Morumbi, São Paulo",Sul
+205,2800,2.0,"Rua Fernandes Moreira, 306 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",2.0,2.0,134, Chácara Santo Antônio (Zona Sul),"Rua Fernandes Moreira, 306",Sul
+206,1500,2.0,"Rua Maracá, 168 - Vila Guarani (Z Sul), São Paulo - SP",1.0,0.0,72, Vila Guarani (Z Sul),"Rua Maracá, 168",Sul
+207,6800,3.0,"Rua Rita Joana de Sousa - Campo Belo, São Paulo - SP",4.0,4.0,175, Campo Belo,Rua Rita Joana de Sousa,Sul
+208,4500,2.0,"Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - SP",3.0,1.0,100, Vila Olímpia,Avenida Doutor Cardoso de Melo,Sul
+213,6985,4.0,"Rua José dos Santos Júnior, 405 - Campo Belo, São Paulo - SP",4.0,2.0,370, Campo Belo,"Rua José dos Santos Júnior, 405",Sul
+215,800,2.0,"Avenida Rodrigues Montemor, 786 - Cidade Domitila, São Paulo - SP",1.0,0.0,40, Cidade Domitila,"Avenida Rodrigues Montemor, 786",Sul
+220,5500,3.0,"Rua João Lourenço, 763 - Vila Nova Conceição, São Paulo - SP",2.0,1.0,80, Vila Nova Conceição,"Rua João Lourenço, 763",Sul
+222,6490,3.0,"Rua Bacaetava, 66 - Vila Gertrudes, São Paulo - SP",2.0,2.0,107, Vila Gertrudes,"Rua Bacaetava, 66",Sul
+235,2300,4.0,"Rua Eduardo Ferreira Franca, 259 - Água Funda, São Paulo - SP",2.0,0.0,100, Água Funda,"Rua Eduardo Ferreira Franca, 259",Sul
+238,3200,2.0,"Rua Pascal - Campo Belo, São Paulo - SP",2.0,1.0,80, Campo Belo,Rua Pascal,Sul
+240,4900,4.0,"Rua Breno Pinheiro - Jardim Morumbi, São Paulo - SP",3.0,3.0,296, Jardim Morumbi,Rua Breno Pinheiro,Sul
+242,3000,3.0,"Avenida Miruna - Indianópolis, São Paulo - SP",3.0,3.0,120, Indianópolis,Avenida Miruna,Sul
+260,6990,4.0,"Rua José dos Santos Júnior, 405 - Campo Belo, São Paulo - SP",4.0,2.0,370, Campo Belo,"Rua José dos Santos Júnior, 405",Sul
+261,3000,2.0,"Rua Costa Aguiar - Ipiranga, São Paulo - SP",3.0,3.0,131, Ipiranga,Rua Costa Aguiar,Sul
+263,13000,4.0,"Alameda Calicut - Chácara Santo Antônio (Zona Sul), São Paulo - SP",4.0,8.0,450, Chácara Santo Antônio (Zona Sul),Alameda Calicut,Sul
+266,8500,3.0,"Rua Professor José Leite e Oiticica, 240 - Vila Gertrudes, São Paulo - SP",5.0,2.0,150, Vila Gertrudes,"Rua Professor José Leite e Oiticica, 240",Sul
+267,3200,1.0,"Rua Doutor Fadlo Haidar, 75 - Vila Olímpia, São Paulo - SP",1.0,1.0,45, Vila Olímpia,"Rua Doutor Fadlo Haidar, 75",Sul
+270,4200,1.0,"Rua George Ohm, 330 - Cidade Monções, São Paulo - SP",1.0,1.0,52, Cidade Monções,"Rua George Ohm, 330",Sul
+271,2250,2.0,"Avenida Padre Antônio José dos Santos, 1666 - Cidade Monções, São Paulo - SP",2.0,1.0,86, Cidade Monções,"Avenida Padre Antônio José dos Santos, 1666",Sul
+277,3300,2.0,"Rua Gonçalo da Cunha - Chácara Inglesa, São Paulo - SP",2.0,1.0,68, Chácara Inglesa,Rua Gonçalo da Cunha,Sul
+278,2700,3.0,"Avenida Interlagos, 4455 - Jardim Umuarama, São Paulo - SP",2.0,2.0,72, Jardim Umuarama,"Avenida Interlagos, 4455",Sul
+281,3000,1.0,"Rua Doutor Diogo de Faria - Vila Clementino, São Paulo - SP",1.0,0.0,25, Vila Clementino,Rua Doutor Diogo de Faria,Sul
+282,1600,1.0,"Alameda dos Nhambiquaras - Indianópolis, São Paulo - SP",1.0,1.0,38, Indianópolis,Alameda dos Nhambiquaras,Sul
+285,5485,2.0,"Avenida Doutor Cardoso de Melo, 1046 - Vila Olímpia, São Paulo - SP",3.0,2.0,82, Vila Olímpia,"Avenida Doutor Cardoso de Melo, 1046",Sul
+286,8800,3.0,"Rua Pensilvânia, 1342 - Cidade Monções, São Paulo - SP",5.0,3.0,130, Cidade Monções,"Rua Pensilvânia, 1342",Sul
+287,2800,1.0,"Rua Pintassilgo, 480 - Vila Uberabinha, São Paulo - SP",2.0,1.0,70, Vila Uberabinha,"Rua Pintassilgo, 480",Sul
+288,12000,4.0,"Rua Júlio Verne, 258 - Jardim Hípico, São Paulo - SP",6.0,2.0,288, Jardim Hípico,"Rua Júlio Verne, 258",Sul
+290,3000,2.0,"Rua Cipriano Lopes França, 66 - Cidade Monções, São Paulo - SP",2.0,2.0,160, Cidade Monções,"Rua Cipriano Lopes França, 66",Sul
+291,9000,3.0,"Rua Sader Macul - Itaim Bibi, São Paulo - SP",2.0,2.0,150, Itaim Bibi,Rua Sader Macul,Sul
+293,8000,4.0,"Rua Doutor Mário Freire, 88 - Retiro Morumbi, São Paulo - SP",2.0,3.0,245, Retiro Morumbi,"Rua Doutor Mário Freire, 88",Sul
+294,12750,4.0,"Cidade Jardim, São Paulo - SP",4.0,4.0,720, SP,"Cidade Jardim, São Paulo",Sul
+295,3850,2.0,"Vila Clementino, São Paulo - SP",2.0,0.0,92, SP,"Vila Clementino, São Paulo",Sul
+300,6500,4.0,"Rua Conde de Itu - Jardim Santo Amaro, São Paulo - SP",5.0,3.0,307, Jardim Santo Amaro,Rua Conde de Itu,Sul
+301,20000,3.0,"Vila Nova Conceição, São Paulo - SP",5.0,1.0,330, SP,"Vila Nova Conceição, São Paulo",Sul
+302,3500,2.0,"Rua Lourenço Marques - Vila Olímpia, São Paulo - SP",2.0,2.0,101, Vila Olímpia,Rua Lourenço Marques,Sul
+303,700,1.0,"Avenida Jacobus Baldi, 201 - Jardim Iracema, São Paulo - SP",1.0,0.0,40, Jardim Iracema,"Avenida Jacobus Baldi, 201",Sul
+306,1200,1.0,"Travessa Professor Nilo Campos Gomes, 41 - Vila Nair, São Paulo - SP",1.0,0.0,40, Vila Nair,"Travessa Professor Nilo Campos Gomes, 41",Sul
+307,2200,4.0,"Avenida Cupecê, 3633 - Jardim Prudência, São Paulo - SP",2.0,1.0,120, Jardim Prudência,"Avenida Cupecê, 3633",Sul
+309,2700,2.0,"Rua Oliveira Alves - Ipiranga, São Paulo - SP",2.0,1.0,130, Ipiranga,Rua Oliveira Alves,Sul
+312,1200,2.0,"Rua Artur Felice, 148 - Jordanópolis, São Paulo - SP",1.0,2.0,100, Jordanópolis,"Rua Artur Felice, 148",Sul
+314,3500,3.0,"Campo Belo, São Paulo - SP",2.0,2.0,200, SP,"Campo Belo, São Paulo",Sul
+317,1500,1.0,"Rua Costa Aguiar, 1839 - Ipiranga, São Paulo - SP",1.0,0.0,55, Ipiranga,"Rua Costa Aguiar, 1839",Sul
+327,16000,3.0,"Morumbi, São Paulo - SP",5.0,2.0,481, SP,"Morumbi, São Paulo",Sul
+333,1950,2.0,"Rua Celso Ramos, 145 - Vila Andrade, São Paulo - SP",1.0,1.0,47, Vila Andrade,"Rua Celso Ramos, 145",Sul
+342,2400,1.0,"Rua Antônio de Macedo Soares, 878 - Campo Belo, São Paulo - SP",1.0,1.0,48, Campo Belo,"Rua Antônio de Macedo Soares, 878",Sul
+343,3146,2.0,"Rua Alvorada - Vila Olímpia, São Paulo - SP",2.0,1.0,67, Vila Olímpia,Rua Alvorada,Sul
+347,3000,3.0,"Rua Doutor Eduardo de Souza Aranha, 140 - Vila Nova Conceição, São Paulo - SP",3.0,1.0,96, Vila Nova Conceição,"Rua Doutor Eduardo de Souza Aranha, 140",Sul
+349,1800,1.0,"Rua Balthazar da Veiga - Vila Nova Conceição, São Paulo - SP",1.0,1.0,36, Vila Nova Conceição,Rua Balthazar da Veiga,Sul
+355,5500,3.0,"Rua Bacaetava, 66 - Vila Gertrudes, São Paulo - SP",3.0,2.0,95, Vila Gertrudes,"Rua Bacaetava, 66",Sul
+356,3500,1.0,"Avenida Doutor Cardoso de Melo, 626 - Vila Olímpia, São Paulo - SP",1.0,1.0,43, Vila Olímpia,"Avenida Doutor Cardoso de Melo, 626",Sul
+358,7950,3.0,"Rua Pensilvânia - Cidade Monções, São Paulo - SP",5.0,3.0,172, Cidade Monções,Rua Pensilvânia,Sul
+359,2400,2.0,"Rua Jacques Félix, 724 - Vila Nova Conceição, São Paulo - SP",2.0,1.0,72, Vila Nova Conceição,"Rua Jacques Félix, 724",Sul
+363,15000,3.0,"Rua Flórida, 1901 - Cidade Monções, São Paulo - SP",4.0,3.0,220, Cidade Monções,"Rua Flórida, 1901",Sul
+364,7000,3.0,"Rua Aracari, 177 - Itaim Bibi, São Paulo - SP",3.0,2.0,130, Itaim Bibi,"Rua Aracari, 177",Sul
+370,5500,3.0,"Rua Ministro Ferreira Alves - Perdizes, São Paulo - SP",3.0,1.0,89, Perdizes,Rua Ministro Ferreira Alves,Sul
+371,650,1.0,"Rua Tabor, 255 - Ipiranga, São Paulo - SP",1.0,0.0,16, Ipiranga,"Rua Tabor, 255",Sul
+373,690,1.0,"Rua Doutora Neyde Apparecida Sollitto, 256D - Vila Clementino, São Paulo - SP",1.0,0.0,15, Vila Clementino,"Rua Doutora Neyde Apparecida Sollitto, 256D",Sul
+374,2300,1.0,"Rua Doutor Diogo de Faria, 539 - Vila Clementino, São Paulo - SP",1.0,0.0,25, Vila Clementino,"Rua Doutor Diogo de Faria, 539",Sul
+381,2900,2.0,"Rua Canário, 981 - Moema, São Paulo - SP",1.0,1.0,50, Moema,"Rua Canário, 981",Sul
+383,7500,3.0,"Rua Alexandre Dumas, 1410 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",5.0,2.0,143, Chácara Santo Antônio (Zona Sul),"Rua Alexandre Dumas, 1410",Sul
+384,7000,4.0,"Rua Barão do Triunfo, 117 - Brooklin Paulista, São Paulo - SP",5.0,3.0,169, Brooklin Paulista,"Rua Barão do Triunfo, 117",Sul
+385,2300,1.0,"Rua Balthazar da Veiga - Vila Nova Conceição, São Paulo - SP",1.0,1.0,37, Vila Nova Conceição,Rua Balthazar da Veiga,Sul
+386,2500,3.0,"Rua Guaraiúva - Cidade Monções, São Paulo - SP",3.0,2.0,85, Cidade Monções,Rua Guaraiúva,Sul
+389,6860,3.0,"Rua Joaquim dos Reis, 267 - Vila Cruzeiro, São Paulo - SP",6.0,4.0,300, Vila Cruzeiro,"Rua Joaquim dos Reis, 267",Sul
+391,40000,5.0,"Morumbi, São Paulo - SP",4.0,4.0,660, SP,"Morumbi, São Paulo",Sul
+392,40000,5.0,"Cidade Jardim, São Paulo - SP",5.0,8.0,1000, SP,"Cidade Jardim, São Paulo",Sul
+395,9000,3.0,"Rua Leonardo Nardez - Vila Nova Conceição, São Paulo - SP",4.0,2.0,221, Vila Nova Conceição,Rua Leonardo Nardez,Sul
+399,80000,6.0,"Retiro Morumbi, São Paulo - SP",10.0,11.0,1700, SP,"Retiro Morumbi, São Paulo",Sul
+404,3000,2.0,"Rua São Venceslau, 243 - Vila Guarani (Z Sul), São Paulo - SP",2.0,1.0,56, Vila Guarani (Z Sul),"Rua São Venceslau, 243",Sul
+405,6800,3.0,"Rua Canário, 1200 - Moema, São Paulo - SP",4.0,2.0,130, Moema,"Rua Canário, 1200",Sul
+407,3000,3.0,"Avenida Mascote - Vila Mascote, São Paulo - SP",3.0,1.0,90, Vila Mascote,Avenida Mascote,Sul
+409,4500,4.0,"Rua Aguaraíba, 159 - Vila Anhangüera, São Paulo - SP",3.0,2.0,300, Vila Anhangüera,"Rua Aguaraíba, 159",Sul
+410,60000,4.0,"Rua Professor Luiz Oliani - Morumbi, São Paulo - SP",9.0,18.0,1100, Morumbi,Rua Professor Luiz Oliani,Sul
+415,6000,4.0,"Rua Ferreira de Araújo - Pinheiros, São Paulo - SP",2.0,2.0,200, Pinheiros,Rua Ferreira de Araújo,Sul
+423,1200,1.0,"Rua Doutor Artur Imbassai, 99 - Ferreira, São Paulo - SP",1.0,0.0,22, Ferreira,"Rua Doutor Artur Imbassai, 99",Sul
+424,2800,2.0,"Rua Aracuípe - Jardim Prudência, São Paulo - SP",2.0,2.0,116, Jardim Prudência,Rua Aracuípe,Sul
+425,16000,3.0,"Avenida Jacutinga, 360 - Indianópolis, São Paulo - SP",4.0,4.0,314, Indianópolis,"Avenida Jacutinga, 360",Sul
+426,26000,3.0,"Rua Iara - Itaim Bibi, São Paulo - SP",5.0,4.0,235, Itaim Bibi,Rua Iara,Sul
+427,2850,2.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,90, Moema,"Avenida Moema, 177",Sul
+428,6000,3.0,"Rua Sócrates - Vila Sofia, São Paulo - SP",4.0,4.0,250, Vila Sofia,Rua Sócrates,Sul
+429,20000,4.0,"Avenida Açocê, 261 - Indianópolis, São Paulo - SP",6.0,4.0,620, Indianópolis,"Avenida Açocê, 261",Sul
+433,9500,2.0,"Rua João Cachoeira, 250 - Vila Nova Conceição, São Paulo - SP",2.0,2.0,90, Vila Nova Conceição,"Rua João Cachoeira, 250",Sul
+435,20000,4.0,"Avenida Jandira - Indianópolis, São Paulo - SP",4.0,8.0,575, Indianópolis,Avenida Jandira,Sul
+440,5200,5.0,"Rua Antônio Aggio - Jardim Ampliação, São Paulo - SP",4.0,4.0,235, Jardim Ampliação,Rua Antônio Aggio,Sul
+445,8500,2.0,"Avenida Rouxinol, 850 - Indianópolis, São Paulo - SP",2.0,1.0,82, Indianópolis,"Avenida Rouxinol, 850",Sul
+446,25000,3.0,"Rua Domingos Leme - Vila Nova Conceição, São Paulo - SP",3.0,4.0,357, Vila Nova Conceição,Rua Domingos Leme,Sul
+451,12000,4.0,"Rua Jesuíno Arruda - Itaim Bibi, São Paulo - SP",3.0,3.0,300, Itaim Bibi,Rua Jesuíno Arruda,Sul
+454,16000,2.0,"Rua Constantino de Sousa - Campo Belo, São Paulo - SP",2.0,3.0,200, Campo Belo,Rua Constantino de Sousa,Sul
+459,9000,3.0,"Rua Jamanari - Vila Andrade, São Paulo - SP",4.0,4.0,366, Vila Andrade,Rua Jamanari,Sul
+460,2760,1.0,"Rua Diogo Jácome, 954 - Vila Nova Conceição, São Paulo - SP",1.0,1.0,50, Vila Nova Conceição,"Rua Diogo Jácome, 954",Sul
+461,3500,1.0,"Rua Bandeira Paulista, 65 - Itaim Bibi, São Paulo - SP",1.0,1.0,75, Itaim Bibi,"Rua Bandeira Paulista, 65",Sul
+463,3000,1.0,"Avenida Brigadeiro Faria Lima, 3989 - Itaim Bibi, São Paulo - SP",1.0,1.0,29, Itaim Bibi,"Avenida Brigadeiro Faria Lima, 3989",Sul
+464,10500,1.0,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",1.0,2.0,65, Vila Olímpia,"Rua Elvira Ferraz, 250",Sul
+465,5900,1.0,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",1.0,1.0,42, Vila Olímpia,"Rua Elvira Ferraz, 250",Sul
+466,2300,1.0,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",1.0,1.0,45, Indianópolis,"Alameda dos Anapurus, 1661",Sul
+467,2794,1.0,"Alameda dos Aicás, , 392 - Indianópolis, São Paulo - SP",1.0,1.0,42, Indianópolis,"Alameda dos Aicás, , 392",Sul
+469,2100,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,52, Moema,"Avenida Moema, 177",Sul
+470,1880,1.0,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",1.0,1.0,33, Indianópolis,"Alameda dos Anapurus, 1661",Sul
+471,1350,1.0,"Avenida Rouxinol, 55 - Indianópolis, São Paulo - SP",1.0,1.0,30, Indianópolis,"Avenida Rouxinol, 55",Sul
+472,3000,1.0,"Rua Doutor Diogo de Faria, 1201 - Vila Clementino, São Paulo - SP",1.0,1.0,35, Vila Clementino,"Rua Doutor Diogo de Faria, 1201",Sul
+473,2700,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,60, Moema,"Avenida Moema, 177",Sul
+474,550,5.0,"Rua Ribeiro do Vale, 1458 - Brooklin Paulista, São Paulo - SP",4.0,0.0,12, Brooklin Paulista,"Rua Ribeiro do Vale, 1458",Sul
+475,3000,1.0,"Rua Pedroso Alvarenga, 1256 - Itaim Bibi, São Paulo - SP",1.0,1.0,30, Itaim Bibi,"Rua Pedroso Alvarenga, 1256",Sul
+477,1200,1.0,"Alameda dos Anapurus, , 1661 - Indianópolis, São Paulo - SP",1.0,1.0,33, Indianópolis,"Alameda dos Anapurus, , 1661",Sul
+478,650,1.0,"Rua Henrique Fausto Lancellotti, , 6334 - Nova Piraju, São Paulo - SP",1.0,1.0,29, Nova Piraju,"Rua Henrique Fausto Lancellotti, , 6334",Sul
+482,500,1.0,"Rua Visconde de Ourem, 210 - Jardim Aeroporto, São Paulo - SP",1.0,0.0,12, Jardim Aeroporto,"Rua Visconde de Ourem, 210",Sul
+483,2500,2.0,"Rua Alvorada, 1009 - Vila Olímpia, São Paulo - SP",1.0,1.0,55, Vila Olímpia,"Rua Alvorada, 1009",Sul
+485,1300,1.0,"Rua Borges Lagoa, 1209 - Vila Clementino, São Paulo - SP",1.0,1.0,30, Vila Clementino,"Rua Borges Lagoa, 1209",Sul
+488,2000,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,60, Moema,"Avenida Moema, 177",Sul
+491,1260,1.0,"Rua Pedroso Alvarenga, 543 - Itaim Bibi, São Paulo - SP",1.0,1.0,32, Itaim Bibi,"Rua Pedroso Alvarenga, 543",Sul
+492,2510,1.0,"Avenida Aratãs, 400 - Indianópolis, São Paulo - SP",1.0,1.0,38, Indianópolis,"Avenida Aratãs, 400",Sul
+504,1200,1.0,"Rua São Sebastião, 80 - Vila da Saúde, São Paulo - SP",1.0,1.0,30, Vila da Saúde,"Rua São Sebastião, 80",Sul
+515,3300,1.0,"Rua Alvorada - Vila Olímpia, São Paulo - SP",1.0,0.0,26, Vila Olímpia,Rua Alvorada,Sul
+518,1500,1.0,"Rua Frei Duarte Jorge de Mendonça, 67 - Vila Andrade, São Paulo - SP",1.0,1.0,33, Vila Andrade,"Rua Frei Duarte Jorge de Mendonça, 67",Sul
+520,1700,1.0,"Rua Marie Nader Calfat, 270 - Jardim Ampliação, São Paulo - SP",1.0,1.0,31, Jardim Ampliação,"Rua Marie Nader Calfat, 270",Sul
+522,2850,1.0,"Cidade Monções, São Paulo - SP",2.0,1.0,34, SP,"Cidade Monções, São Paulo",Sul
+531,12000,5.0,"Rua Vicente Góes e Aranha, 587 - Vila Tramontano, São Paulo - SP",6.0,6.0,463, Vila Tramontano,"Rua Vicente Góes e Aranha, 587",Sul
+536,4800,3.0,"Rua Elvira Ferraz, 0 - Vila Olímpia, São Paulo - SP",2.0,1.0,110, Vila Olímpia,"Rua Elvira Ferraz, 0",Sul
+537,8000,4.0,"Rua Artur Dias - Bosque da Saúde, São Paulo - SP",4.0,7.0,609, Bosque da Saúde,Rua Artur Dias,Sul
+538,3000,3.0,"Rua João Elias Calache - Jardim Santo Antoninho, São Paulo - SP",4.0,2.0,125, Jardim Santo Antoninho,Rua João Elias Calache,Sul
+540,2500,3.0,"Rua Rishin Matsuda, 268 - Vila Santa Catarina, São Paulo - SP",3.0,2.0,90, Vila Santa Catarina,"Rua Rishin Matsuda, 268",Sul
+541,3500,3.0,"Jardim Taquaral, São Paulo - SP",3.0,2.0,220, SP,"Jardim Taquaral, São Paulo",Sul
+544,14008,5.0,"Rua Irineu Marinho, 663 - Santo Amaro, São Paulo - SP",8.0,6.0,700, Santo Amaro,"Rua Irineu Marinho, 663",Sul
+545,11000,4.0,"Avenida Sílvio Sciumbata, 405 - Interlagos, São Paulo - SP",7.0,5.0,945, Interlagos,"Avenida Sílvio Sciumbata, 405",Sul
+546,3300,3.0,"Rua Huet Bacelar, 219 - Ipiranga, São Paulo - SP",4.0,2.0,125, Ipiranga,"Rua Huet Bacelar, 219",Sul
+548,5850,5.0,"Rua João de Gênova, 12 - Santo Amaro, São Paulo - SP",5.0,3.0,190, Santo Amaro,"Rua João de Gênova, 12",Sul
+550,1500,2.0,"Rua Professor Nicolau Maria Rossetti - Vila Império, São Paulo - SP",1.0,1.0,95, Vila Império,Rua Professor Nicolau Maria Rossetti,Sul
+554,6200,3.0,"Rua Gomes de Carvalho - Vila Olímpia, São Paulo - SP",4.0,4.0,260, Vila Olímpia,Rua Gomes de Carvalho,Sul
+556,3500,3.0,"Rua Napoleão de Barros - Vila Clementino, São Paulo - SP",3.0,0.0,140, Vila Clementino,Rua Napoleão de Barros,Sul
+560,9500,4.0,"Rua Ubaíra, 32 - Indianópolis, São Paulo - SP",2.0,4.0,200, Indianópolis,"Rua Ubaíra, 32",Sul
+562,5500,3.0,"Rua Capitão Pinto Ferreira, 124 - Jardim Paulista, São Paulo - SP",2.0,2.0,160, Jardim Paulista,"Rua Capitão Pinto Ferreira, 124",Sul
+566,18000,4.0,"Avenida Guarapiranga, 1783 - Praia da Lagoa, São Paulo - SP",6.0,6.0,721, Praia da Lagoa,"Avenida Guarapiranga, 1783",Sul
+567,10000,3.0,"Rua Canuto Borelli - Vila Castelo, São Paulo - SP",3.0,8.0,220, Vila Castelo,Rua Canuto Borelli,Sul
+568,8000,3.0,"Parque Maria Fernandes, São Paulo - SP",3.0,0.0,2000, SP,"Parque Maria Fernandes, São Paulo",Sul
+570,4000,2.0,"Rua Benvinda Cândida - Chácara Bosque do Sul, São Paulo - SP",3.0,5.0,250, Chácara Bosque do Sul,Rua Benvinda Cândida,Sul
+571,5000,3.0,"Jardim Santa Tereza, São Paulo - SP",3.0,15.0,120, SP,"Jardim Santa Tereza, São Paulo",Sul
+572,1600,2.0,"Estrada da Ligação - Parque Lagoa Rica, São Paulo - SP",2.0,10.0,1900, Parque Lagoa Rica,Estrada da Ligação,Sul
+573,5500,2.0,"Rua Henrique Hessel - Parelheiros, São Paulo - SP",3.0,40.0,400, Parelheiros,Rua Henrique Hessel,Sul
+574,7000,3.0,"Rua Irmã Maria Lourença - Jardim Shangrilá (Zona Sul), São Paulo - SP",0.0,30.0,0, Jardim Shangrilá (Zona Sul),Rua Irmã Maria Lourença,Sul
+575,11000,3.0,"Estrada Engenheiro Marsilac - Parelheiros, São Paulo - SP",1.0,10.0,250, Parelheiros,Estrada Engenheiro Marsilac,Sul
+576,6000,8.0,"Praia da Lagoa, São Paulo - SP",2.0,8.0,1000, SP,"Praia da Lagoa, São Paulo",Sul
+581,6000,0.0,"Paulicéia, São Bernardo do Campo - SP",0.0,0.0,480, SP,"Paulicéia, São Bernardo do Campo",Sul
+583,5500,0.0,"Rua Dona Virgínia - Chácara Vista Alegre, São Paulo - SP",7.0,8.0,600, Chácara Vista Alegre,Rua Dona Virgínia,Sul
+584,7000,2.0,"Jardim Francisco Mendes, São Paulo - SP",2.0,20.0,300, SP,"Jardim Francisco Mendes, São Paulo",Sul
+588,15000,5.0,"Fazenda Morumbi, São Paulo - SP",5.0,7.0,983, SP,"Fazenda Morumbi, São Paulo",Sul
+591,6931,4.0,"Rua Doutor Cristiano de Sousa - Jardim Leonor, São Paulo - SP",4.0,4.0,341, Jardim Leonor,Rua Doutor Cristiano de Sousa,Sul
+598,6000,4.0,"Rua Juvenal Galeno - Jardim da Saúde, São Paulo - SP",1.0,7.0,388, Jardim da Saúde,Rua Juvenal Galeno,Sul
+600,4300,3.0,"Chácara Monte Alegre, São Paulo - SP",4.0,10.0,360, SP,"Chácara Monte Alegre, São Paulo",Sul
+601,1500,2.0,"Avenida Leblon - Jardim dos Lagos, São Paulo - SP",1.0,0.0,60, Jardim dos Lagos,Avenida Leblon,Sul
+605,15950,4.0,"Avenida Morumbi, 1600 - Morumbi, São Paulo - SP",7.0,4.0,280, Morumbi,"Avenida Morumbi, 1600",Sul
+607,2300,2.0,"Rua Domingos de Rogatis, 542 - Jardim da Saúde, São Paulo - SP",2.0,1.0,85, Jardim da Saúde,"Rua Domingos de Rogatis, 542",Sul
+608,18500,4.0,"Rua Cassiano Ricardo, 118 - Jardim Cordeiro, São Paulo - SP",6.0,4.0,430, Jardim Cordeiro,"Rua Cassiano Ricardo, 118",Sul
+609,15000,6.0,"Rua José Morales Lopes, 235 - Jardim dos Estados, São Paulo - SP",6.0,10.0,550, Jardim dos Estados,"Rua José Morales Lopes, 235",Sul
+611,2748,3.0,"Rua Francisco Danieli, 105 - Jardim Avenida, São Paulo - SP",2.0,2.0,180, Jardim Avenida,"Rua Francisco Danieli, 105",Sul
+612,14000,4.0,"Avenida Comendador Adibo Ares, 90 - Morumbi, São Paulo - SP",6.0,5.0,434, Morumbi,"Avenida Comendador Adibo Ares, 90",Sul
+613,1000,1.0,"Rua Paulo de Avelar, 571 - Vila Dom Pedro II, São Paulo - SP",1.0,0.0,35, Vila Dom Pedro II,"Rua Paulo de Avelar, 571",Sul
+614,10000,4.0,"Jardim Panorama, São Paulo - SP",6.0,4.0,479, SP,"Jardim Panorama, São Paulo",Sul
+615,17000,5.0,"Rua Laplace - Brooklin Paulista, São Paulo - SP",6.0,3.0,311, Brooklin Paulista,Rua Laplace,Sul
+616,50000,4.0,"Jardim dos Estados, São Paulo - SP",8.0,6.0,599, SP,"Jardim dos Estados, São Paulo",Sul
+617,20000,4.0,"Rua Jayme de Almeida Paiva, , 81 - Jardim Vitória Régia, São Paulo - SP",4.0,4.0,542, Jardim Vitória Régia,"Rua Jayme de Almeida Paiva, , 81",Sul
+621,6500,4.0,"Santo Amaro, São Paulo - SP",4.0,3.0,345, SP,"Santo Amaro, São Paulo",Sul
+622,30000,4.0,"Rua São Bento do Sul - Alto de Pinheiros, São Paulo - SP",5.0,3.0,310, Alto de Pinheiros,Rua São Bento do Sul,Sul
+623,90000,4.0,"Avenida Morumbi - Morumbi, São Paulo - SP",4.0,10.0,1829, Morumbi,Avenida Morumbi,Sul
+624,18000,4.0,"Jardim Cordeiro, São Paulo - SP",7.0,6.0,625, SP,"Jardim Cordeiro, São Paulo",Sul
+626,35000,4.0,"Rua Miranda Guerra, 572 - Jardim Petrópolis, São Paulo - SP",5.0,6.0,720, Jardim Petrópolis,"Rua Miranda Guerra, 572",Sul
+627,10000,2.0,"Rua Sílvio Tramontano, 357 - Vila Tramontano, São Paulo - SP",4.0,2.0,320, Vila Tramontano,"Rua Sílvio Tramontano, 357",Sul
+628,3500,4.0,"Rua São Benedito, , 1108 - Santo Amaro, São Paulo - SP",3.0,4.0,254, Santo Amaro,"Rua São Benedito, , 1108",Sul
+630,15000,4.0,"Jardim Panorama, São Paulo - SP",6.0,4.0,464, SP,"Jardim Panorama, São Paulo",Sul
+631,4950,2.0,"Rua Gomes de Carvalho, 466 - Vila Olímpia, São Paulo - SP",2.0,2.0,90, Vila Olímpia,"Rua Gomes de Carvalho, 466",Sul
+632,1550,2.0,"Rua Marquês de Maricá - Sacomã, São Paulo - SP",2.0,1.0,55, Sacomã,Rua Marquês de Maricá,Sul
+633,23000,4.0,"Rua José Morales Lopes - Jardim dos Estados, São Paulo - SP",6.0,4.0,545, Jardim dos Estados,Rua José Morales Lopes,Sul
+635,9000,4.0,"Rua Tomé Portes, , 555 - Brooklin Paulista, São Paulo - SP",6.0,4.0,455, Brooklin Paulista,"Rua Tomé Portes, , 555",Sul
+638,3500,3.0,"Jardim Marajoara, São Paulo - SP",3.0,2.0,110, SP,"Jardim Marajoara, São Paulo",Sul
+639,3000,2.0,"Vila Congonhas, São Paulo - SP",2.0,1.0,77, SP,"Vila Congonhas, São Paulo",Sul
+640,3500,4.0,"Rua São Benedito - Santo Amaro, São Paulo - SP",3.0,4.0,254, Santo Amaro,Rua São Benedito,Sul
+641,2800,3.0,"Rua Simões Pinto - Parque Jabaquara, São Paulo - SP",3.0,2.0,150, Parque Jabaquara,Rua Simões Pinto,Sul
+643,18500,4.0,"Rua Conde D'Eu, 50 - Santo Amaro, São Paulo - SP",6.0,2.0,457, Santo Amaro,"Rua Conde D'Eu, 50",Sul
+645,30000,3.0,"Jardim Leonor, São Paulo - SP",5.0,4.0,420, SP,"Jardim Leonor, São Paulo",Sul
+646,10600,3.0,"Brooklin Paulista, São Paulo - SP",5.0,6.0,500, SP,"Brooklin Paulista, São Paulo",Sul
+650,8000,4.0,"Rua Tomé Portes - Brooklin, São Paulo - SP",5.0,4.0,253, Brooklin,Rua Tomé Portes,Sul
+655,13000,2.0,"Avenida Padre Antônio José dos Santos - Cidade Monções, São Paulo - SP",3.0,2.0,120, Cidade Monções,Avenida Padre Antônio José dos Santos,Sul
+656,7000,3.0,"Rua Ascencional, 172 - Jardim Ampliação, São Paulo - SP",3.0,4.0,230, Jardim Ampliação,"Rua Ascencional, 172",Sul
+660,6000,3.0,"Jardim Caboré, São Paulo - SP",3.0,2.0,141, SP,"Jardim Caboré, São Paulo",Sul
+661,8800,4.0,"Avenida Jurucê - Indianópolis, São Paulo - SP",4.0,4.0,345, Indianópolis,Avenida Jurucê,Sul
+662,15000,1.0,"Vila Olímpia, São Paulo - SP",2.0,1.0,124, SP,"Vila Olímpia, São Paulo",Sul
+663,12500,3.0,"Rua Professor Filadelfo Azevedo, 500 - Vila Nova Conceição, São Paulo - SP",3.0,2.0,160, Vila Nova Conceição,"Rua Professor Filadelfo Azevedo, 500",Sul
+664,15000,3.0,"Rua Edson - Campo Belo, São Paulo - SP",3.0,2.0,264, Campo Belo,Rua Edson,Sul
+665,50000,5.0,"Moema, São Paulo - SP",8.0,4.0,834, SP,"Moema, São Paulo",Sul
+666,15000,4.0,"Rua Morais de Barros, 770 - Campo Belo, São Paulo - SP",7.0,4.0,390, Campo Belo,"Rua Morais de Barros, 770",Sul
+672,2500,3.0,"Vila da Saúde, São Paulo - SP",1.0,1.0,110, SP,"Vila da Saúde, São Paulo",Sul
+673,20000,3.0,"Alameda Jauaperi - Indianópolis, São Paulo - SP",3.0,4.0,324, Indianópolis,Alameda Jauaperi,Sul
+677,3800,2.0,"Rua Santa Justina - Vila Olímpia, São Paulo - SP",1.0,0.0,86, Vila Olímpia,Rua Santa Justina,Sul
+679,2300,1.0,"Avenida Iraí, 530 - Indianópolis, São Paulo - SP",1.0,0.0,30, Indianópolis,"Avenida Iraí, 530",Sul
+693,1962,1.0,"Rua Flórida, 1790 - Cidade Monções, São Paulo - SP",1.0,1.0,40, Cidade Monções,"Rua Flórida, 1790",Sul
+694,2200,1.0,"Avenida Miruna, , 399 - Indianópolis, São Paulo - SP",1.0,1.0,37, Indianópolis,"Avenida Miruna, , 399",Sul
+696,1900,1.0,"Avenida Doutor Cardoso de Melo, 630 - Vila Olímpia, São Paulo - SP",1.0,1.0,43, Vila Olímpia,"Avenida Doutor Cardoso de Melo, 630",Sul
+698,2500,1.0,"Avenida Ibijaú, , 364 - Moema, São Paulo - SP",1.0,1.0,37, Moema,"Avenida Ibijaú, , 364",Sul
+699,1800,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,52, Moema,"Avenida Moema, 177",Sul
+700,1300,1.0,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",1.0,1.0,33, Indianópolis,"Alameda dos Anapurus, 1661",Sul
+701,2450,1.0,"Avenida Doutor Cardoso de Melo, 630 - Vila Olímpia, São Paulo - SP",1.0,1.0,45, Vila Olímpia,"Avenida Doutor Cardoso de Melo, 630",Sul
+705,1300,1.0,"Rua Nazira Carone, 9 - Jardim Ampliação, São Paulo - SP",1.0,1.0,40, Jardim Ampliação,"Rua Nazira Carone, 9",Sul
+706,1670,1.0,"Rua Pedroso Alvarenga, 1088 - Itaim Bibi, São Paulo - SP",1.0,1.0,45, Itaim Bibi,"Rua Pedroso Alvarenga, 1088",Sul
+710,2800,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,52, Moema,"Avenida Moema, 177",Sul
+711,1500,1.0,"Rua Joaquim Floriano, 209 - Itaim Bibi, São Paulo - SP",1.0,1.0,35, Itaim Bibi,"Rua Joaquim Floriano, 209",Sul
+713,3200,1.0,"Rua Vieira de Morais, 2098 - Campo Belo, São Paulo - SP",1.0,0.0,38, Campo Belo,"Rua Vieira de Morais, 2098",Sul
+715,3550,2.0,"Alameda dos Jurupis, 800 - Indianópolis, São Paulo - SP",1.0,2.0,70, Indianópolis,"Alameda dos Jurupis, 800",Sul
+716,1800,2.0,"Rua Sansão Alves dos Santos, 373 - Cidade Monções, São Paulo - SP",1.0,1.0,45, Cidade Monções,"Rua Sansão Alves dos Santos, 373",Sul
+719,1540,1.0,"Rua Pintassilgo, , 12 - Vila Uberabinha, São Paulo - SP",1.0,1.0,42, Vila Uberabinha,"Rua Pintassilgo, , 12",Sul
+723,3800,1.0,"Rua Alvorada, 676 - Vila Olímpia, São Paulo - SP",1.0,0.0,26, Vila Olímpia,"Rua Alvorada, 676",Sul
+724,1330,1.0,"Avenida Rouxinol, 57 - Indianópolis, São Paulo - SP",1.0,2.0,25, Indianópolis,"Avenida Rouxinol, 57",Sul
+726,1210,1.0,"Avenida Ibijaú, 368 - Moema, São Paulo - SP",1.0,1.0,25, Moema,"Avenida Ibijaú, 368",Sul
+727,1500,1.0,"Avenida Rouxinol, 174 - Indianópolis, São Paulo - SP",1.0,1.0,42, Indianópolis,"Avenida Rouxinol, 174",Sul
+728,2820,2.0,"Rua Alvorada, 1001 - Vila Olímpia, São Paulo - SP",1.0,1.0,55, Vila Olímpia,"Rua Alvorada, 1001",Sul
+729,3000,1.0,"Rua Michigan, 531 - Cidade Monções, São Paulo - SP",2.0,1.0,48, Cidade Monções,"Rua Michigan, 531",Sul
+732,3200,4.0,"Avenida Washington Luís, 1527 - Santo Amaro, São Paulo - SP",2.0,2.0,160, Santo Amaro,"Avenida Washington Luís, 1527",Sul
+733,2800,1.0,"Rua Monte Aprazível, 109 - Vila Nova Conceição, São Paulo - SP",1.0,1.0,32, Vila Nova Conceição,"Rua Monte Aprazível, 109",Sul
+734,6000,2.0,"Rua Pedroso Alvarenga, 401 - Itaim Bibi, São Paulo - SP",2.0,1.0,110, Itaim Bibi,"Rua Pedroso Alvarenga, 401",Sul
+735,2300,2.0,"Rua Visconde de Inhaúma - Vila da Saúde, São Paulo - SP",1.0,1.0,50, Vila da Saúde,Rua Visconde de Inhaúma,Sul
+736,3600,2.0,"Rua Santo Arcádio, 43 - Jardim das Acácias, São Paulo - SP",1.0,1.0,64, Jardim das Acácias,"Rua Santo Arcádio, 43",Sul
+738,8000,2.0,"Alameda Jauaperi, 1467 - Moema, São Paulo - SP",5.0,4.0,287, Moema,"Alameda Jauaperi, 1467",Sul
+740,3600,2.0,"Rua do Rocio, 59 - Vila Olímpia, São Paulo - SP",2.0,1.0,70, Vila Olímpia,"Rua do Rocio, 59",Sul
+742,13000,3.0,"Rua Barão de Jaceguai - Campo Belo, São Paulo - SP",5.0,4.0,350, Campo Belo,Rua Barão de Jaceguai,Sul
+745,6500,6.0,"Rua Doutor Manuel Carlos de Figueiredo Ferraz, , 185 - Jardim Morumbi, São Paulo - SP",4.0,7.0,450, Jardim Morumbi,"Rua Doutor Manuel Carlos de Figueiredo Ferraz, , 185",Sul
+750,5000,3.0,"Rua Tauari, , 79 - Santo Amaro, São Paulo - SP",2.0,3.0,215, Santo Amaro,"Rua Tauari, , 79",Sul
+751,4000,4.0,"Rua Aramis Dalla Torre - Jardim Represa, São Paulo - SP",5.0,7.0,300, Jardim Represa,Rua Aramis Dalla Torre,Sul
+754,5000,3.0,"Rua Nicolau Barreto - Vila Cordeiro, São Paulo - SP",5.0,2.0,160, Vila Cordeiro,Rua Nicolau Barreto,Sul
+759,7000,3.0,"Rua Sônia Ribeiro, , 218 - Campo Belo, São Paulo - SP",4.0,2.0,127, Campo Belo,"Rua Sônia Ribeiro, , 218",Sul
+761,5000,2.0,"Avenida Doutor Cardoso de Melo, 1046 - Vila Olímpia, São Paulo - SP",3.0,2.0,81, Vila Olímpia,"Avenida Doutor Cardoso de Melo, 1046",Sul
+763,1650,3.0,"Avenida Giovanni Gronchi, 6675 - Vila Andrade, São Paulo - SP",2.0,2.0,65, Vila Andrade,"Avenida Giovanni Gronchi, 6675",Sul
+764,9500,3.0,"Rua Verbo Divino, 1061 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",5.0,4.0,186, Chácara Santo Antônio (Zona Sul),"Rua Verbo Divino, 1061",Sul
+768,3000,1.0,"Rua São Tomé, 73 - Vila Olímpia, São Paulo - SP",1.0,1.0,50, Vila Olímpia,"Rua São Tomé, 73",Sul
+771,2850,2.0,"Praça General Gentil Falcão, 175 - Cidade Monções, São Paulo - SP",2.0,1.0,70, Cidade Monções,"Praça General Gentil Falcão, 175",Sul
+779,23000,4.0,"Chácara Flora, São Paulo - SP",5.0,10.0,759, SP,"Chácara Flora, São Paulo",Sul
+780,10000,3.0,"Morumbi, São Paulo - SP",3.0,3.0,540, SP,"Morumbi, São Paulo",Sul
+781,22000,3.0,"Rua das Barcas, 750 - Jardim dos Estados, São Paulo - SP",8.0,6.0,739, Jardim dos Estados,"Rua das Barcas, 750",Sul
+782,16000,4.0,"Rua Diogo Pereira, , 1 - Super Quadra Morumbi, São Paulo - SP",5.0,10.0,761, Super Quadra Morumbi,"Rua Diogo Pereira, , 1",Sul
+784,10000,6.0,"Rua Guararapes, 1234 - Brooklin Paulista, São Paulo - SP",6.0,6.0,300, Brooklin Paulista,"Rua Guararapes, 1234",Sul
+788,7000,3.0,"Rua Darwin - Jardim Santo Amaro, São Paulo - SP",5.0,2.0,244, Jardim Santo Amaro,Rua Darwin,Sul
+791,25000,4.0,"Rua Sônia Ribeiro - Brooklin Paulista, São Paulo - SP",6.0,4.0,600, Brooklin Paulista,Rua Sônia Ribeiro,Sul
+792,6500,4.0,"Rua Visconde de Porto Seguro - Jardim Cordeiro, São Paulo - SP",6.0,3.0,260, Jardim Cordeiro,Rua Visconde de Porto Seguro,Sul
+795,4000,2.0,"Rua Casa do Ator - Vila Olímpia, São Paulo - SP",2.0,2.0,165, Vila Olímpia,Rua Casa do Ator,Sul
+800,30000,4.0,"Avenida Aratãs - Indianópolis, São Paulo - SP",7.0,5.0,490, Indianópolis,Avenida Aratãs,Sul
+803,35000,5.0,"Itaim Bibi, São Paulo - SP",3.0,2.0,458, SP,"Itaim Bibi, São Paulo",Sul
+804,3706,2.0,"Rua Santa Justina, 210 - Vila Olímpia, São Paulo - SP",1.0,1.0,40, Vila Olímpia,"Rua Santa Justina, 210",Sul
+805,1620,1.0,"Avenida Rouxinol, 77 - Indianópolis, São Paulo - SP",1.0,1.0,44, Indianópolis,"Avenida Rouxinol, 77",Sul
+807,1400,1.0,"Rua Verbo Divino, 1323 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",1.0,1.0,30, Chácara Santo Antônio (Zona Sul),"Rua Verbo Divino, 1323",Sul
+808,3160,2.0,"Avenida dos Imarés, 317 - Indianópolis, São Paulo - SP",1.0,2.0,57, Indianópolis,"Avenida dos Imarés, 317",Sul
+809,970,1.0,"Rua Araguari, 711 - Vila Uberabinha, São Paulo - SP",1.0,1.0,32, Vila Uberabinha,"Rua Araguari, 711",Sul
+810,1000,1.0,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",1.0,1.0,33, Indianópolis,"Alameda dos Anapurus, 1661",Sul
+813,3400,1.0,"Rua João Cachoeira, , 1577 - Vila Nova Conceição, São Paulo - SP",1.0,1.0,40, Vila Nova Conceição,"Rua João Cachoeira, , 1577",Sul
+816,3000,1.0,"Rua Casa do Ator, 99 - Vila Olímpia, São Paulo - SP",1.0,0.0,30, Vila Olímpia,"Rua Casa do Ator, 99",Sul
+823,2500,1.0,"Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - SP",1.0,1.0,35, Vila Olímpia,Avenida Doutor Cardoso de Melo,Sul
+831,2600,1.0,"Avenida Doutor Cardoso de Melo, 426 - Vila Olímpia, São Paulo - SP",1.0,1.0,45, Vila Olímpia,"Avenida Doutor Cardoso de Melo, 426",Sul
+832,2600,2.0,"Rua Santo Arcádio, 43 - Jardim das Acácias, São Paulo - SP",1.0,1.0,64, Jardim das Acácias,"Rua Santo Arcádio, 43",Sul
+833,900,2.0,"Rua das Perobeiras - Chácara Santa Maria, São Paulo - SP",1.0,1.0,45, Chácara Santa Maria,Rua das Perobeiras,Sul
+834,2680,1.0,"Rua Doutor Renato Paes de Barros, 550 - Itaim Bibi, São Paulo - SP",1.0,1.0,54, Itaim Bibi,"Rua Doutor Renato Paes de Barros, 550",Sul
+838,2100,1.0,"Rua Guararapes, 265 - Brooklin Paulista, São Paulo - SP",1.0,1.0,52, Brooklin Paulista,"Rua Guararapes, 265",Sul
+839,12000,4.0,"Rua Luiz Martins de Araújo - Jardim dos Estados, São Paulo - SP",6.0,3.0,340, Jardim dos Estados,Rua Luiz Martins de Araújo,Sul
+841,8900,4.0,"Rua Conceição de Monte Alegre - Cidade Monções, São Paulo - SP",4.0,4.0,370, Cidade Monções,Rua Conceição de Monte Alegre,Sul
+846,4500,3.0,"Rua Otávio Tarquínio de Sousa, 606 - Campo Belo, São Paulo - SP",4.0,2.0,160, Campo Belo,"Rua Otávio Tarquínio de Sousa, 606",Sul
+848,25000,4.0,"Rua Major Newton de Feliciano - Jardim Aurélia, São Paulo - SP",6.0,6.0,480, Jardim Aurélia,Rua Major Newton de Feliciano,Sul
+850,900,1.0,"Rua Lino Coutinho - Ipiranga, São Paulo - SP",1.0,0.0,25, Ipiranga,Rua Lino Coutinho,Sul
+853,30000,4.0,"Rua Heitor Portugal - Retiro Morumbi, São Paulo - SP",6.0,10.0,1000, Retiro Morumbi,Rua Heitor Portugal,Sul
+854,10000,4.0,"Rua Américo Brasiliense - Chácara Santo Antônio (Zona Sul), São Paulo - SP",6.0,4.0,500, Chácara Santo Antônio (Zona Sul),Rua Américo Brasiliense,Sul
+855,23000,4.0,"Rua Miranda Guerra - Jardim Petrópolis, São Paulo - SP",5.0,8.0,501, Jardim Petrópolis,Rua Miranda Guerra,Sul
+856,36893,4.0,"Rua Miranda Guerra - Jardim Petrópolis, São Paulo - SP",5.0,6.0,720, Jardim Petrópolis,Rua Miranda Guerra,Sul
+859,20000,4.0,"Rua Heron Domingues - Jardim Cordeiro, São Paulo - SP",8.0,8.0,625, Jardim Cordeiro,Rua Heron Domingues,Sul
+860,1050,1.0,"Rua Manuel de Teffé, 348 - Jardim Satélite, São Paulo - SP",1.0,1.0,35, Jardim Satélite,"Rua Manuel de Teffé, 348",Sul
+862,3500,3.0,"Rua dos Beija-Flores, 195 - Vila Parque Jabaquara, São Paulo - SP",3.0,4.0,224, Vila Parque Jabaquara,"Rua dos Beija-Flores, 195",Sul
+863,20000,4.0,"Jardim Cordeiro, São Paulo - SP",7.0,6.0,625, SP,"Jardim Cordeiro, São Paulo",Sul
+864,6000,3.0,"Rua Doutor Mário Vicente - Vila Dom Pedro I, São Paulo - SP",3.0,5.0,195, Vila Dom Pedro I,Rua Doutor Mário Vicente,Sul
+866,25000,4.0,"Rua Zacarias de Gois - Parque Colonial, São Paulo - SP",7.0,6.0,565, Parque Colonial,Rua Zacarias de Gois,Sul
+867,35000,4.0,"Chácara Santo Antônio (Zona Sul), São Paulo - SP",6.0,5.0,420, SP,"Chácara Santo Antônio (Zona Sul), São Paulo",Sul
+868,55000,4.0,"Vila Morumbi, São Paulo - SP",7.0,10.0,711, SP,"Vila Morumbi, São Paulo",Sul
+870,15000,4.0,"Rua Antônio Carlos Salles Filho - Residencial Morumbi, São Paulo - SP",6.0,3.0,411, Residencial Morumbi,Rua Antônio Carlos Salles Filho,Sul
+874,22000,3.0,"Jardim dos Estados, São Paulo - SP",8.0,5.0,740, SP,"Jardim dos Estados, São Paulo",Sul
+879,13500,4.0,"Avenida Portugal, 277 - Brooklin Paulista, São Paulo - SP",5.0,3.0,255, Brooklin Paulista,"Avenida Portugal, 277",Sul
+880,25103,3.0,"Indianópolis, São Paulo - SP",5.0,3.0,210, SP,"Indianópolis, São Paulo",Sul
+881,20000,4.0,"Rua Romilda Margarita Gabriel - Itaim Bibi, São Paulo - SP",5.0,2.0,500, Itaim Bibi,Rua Romilda Margarita Gabriel,Sul
+882,20000,3.0,"Alameda Jauaperi, 50 - Indianópolis, São Paulo - SP",4.0,3.0,324, Indianópolis,"Alameda Jauaperi, 50",Sul
+887,40000,3.0,"Santo Amaro, São Paulo - SP",5.0,0.0,511, SP,"Santo Amaro, São Paulo",Sul
+889,10000,2.0,"Avenida Rouxinol - Indianópolis, São Paulo - SP",2.0,1.0,82, Indianópolis,Avenida Rouxinol,Sul
+890,6500,3.0,"Rua Barão de Jaceguai - Campo Belo, São Paulo - SP",4.0,3.0,129, Campo Belo,Rua Barão de Jaceguai,Sul
+892,7700,1.0,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",1.0,1.0,54, Vila Olímpia,"Rua Elvira Ferraz, 250",Sul
+893,1500,1.0,"Alameda Jauaperi, , 1083 - Moema, São Paulo - SP",1.0,1.0,35, Moema,"Alameda Jauaperi, , 1083",Sul
+896,1250,1.0,"Rua Nazira Carone, 9 - Jardim Ampliação, São Paulo - SP",1.0,1.0,35, Jardim Ampliação,"Rua Nazira Carone, 9",Sul
+897,1500,1.0,"Rua Pedroso Alvarenga, 543 - Itaim Bibi, São Paulo - SP",1.0,1.0,32, Itaim Bibi,"Rua Pedroso Alvarenga, 543",Sul
+898,7000,1.0,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",1.0,1.0,42, Vila Olímpia,"Rua Elvira Ferraz, 250",Sul
+901,1450,1.0,"Rua Professor Carlos de Carvalho, 108 - Itaim Bibi, São Paulo - SP",1.0,1.0,33, Itaim Bibi,"Rua Professor Carlos de Carvalho, 108",Sul
+903,3300,1.0,"Rua Leopoldo Couto Magalhães Júnior, 550 - Itaim Bibi, São Paulo - SP",1.0,1.0,50, Itaim Bibi,"Rua Leopoldo Couto Magalhães Júnior, 550",Sul
+906,3400,1.0,"Rua Urussuí - Itaim Bibi, São Paulo - SP",1.0,1.0,42, Itaim Bibi,Rua Urussuí,Sul
+907,1700,1.0,"Rua Fidêncio Ramos, 420 - Vila Olímpia, São Paulo - SP",1.0,1.0,31, Vila Olímpia,"Rua Fidêncio Ramos, 420",Sul
+908,2000,1.0,"Avenida Rouxinol, , 174 - Indianópolis, São Paulo - SP",1.0,1.0,42, Indianópolis,"Avenida Rouxinol, , 174",Sul
+922,1500,1.0,"Rua Constantino de Sousa, 1372 - Campo Belo, São Paulo - SP",1.0,0.0,20, Campo Belo,"Rua Constantino de Sousa, 1372",Sul
+938,3500,4.0,"Rua Arandu - Brooklin Paulista, São Paulo - SP",4.0,2.0,150, Brooklin Paulista,Rua Arandu,Sul
+939,3500,2.0,"Alto da Boa Vista, São Paulo - SP",2.0,1.0,120, SP,"Alto da Boa Vista, São Paulo",Sul
+942,2500,2.0,"Rua Antônio Cantarella - Vila Santo Estéfano, São Paulo - SP",2.0,2.0,180, Vila Santo Estéfano,Rua Antônio Cantarella,Sul
+943,10000,4.0,"Chácara Santo Antônio (Zona Sul), São Paulo - SP",5.0,4.0,435, SP,"Chácara Santo Antônio (Zona Sul), São Paulo",Sul
+944,10000,4.0,"Interlagos, São Paulo - SP",5.0,0.0,390, SP,"Interlagos, São Paulo",Sul
+945,14000,4.0,"Chácara Monte Alegre, São Paulo - SP",4.0,2.0,407, SP,"Chácara Monte Alegre, São Paulo",Sul
+950,13000,4.0,"Jardim dos Estados, São Paulo - SP",5.0,3.0,340, SP,"Jardim dos Estados, São Paulo",Sul
+952,2200,6.0,"Vila Santa Catarina, São Paulo - SP",5.0,2.0,150, SP,"Vila Santa Catarina, São Paulo",Sul
+953,2300,1.0,"Rua Bom Pastor, 1557 - Ipiranga, São Paulo - SP",1.0,1.0,34, Ipiranga,"Rua Bom Pastor, 1557",Sul
+954,8500,3.0,"Rua Professor José Leite e Oiticica, 240 - Brooklin, São Paulo - SP",5.0,2.0,150, Brooklin,"Rua Professor José Leite e Oiticica, 240",Sul
+956,2250,2.0,"Avenida Padre Antônio José dos Santos, 1666 - Brooklin, São Paulo - SP",2.0,1.0,86, Brooklin,"Avenida Padre Antônio José dos Santos, 1666",Sul
+959,6500,1.0,"Rua Doutor Mário Ferraz, 415 - Itaim Bibi, São Paulo - SP",2.0,1.0,50, Itaim Bibi,"Rua Doutor Mário Ferraz, 415",Sul
+960,2600,2.0,"Rua Santo Arcádio, 43 - Jardim das Acacias, São Paulo - SP",1.0,1.0,64, Jardim das Acacias,"Rua Santo Arcádio, 43",Sul
+961,4000,2.0,"Alameda Tietê, 353 - Jardins, São Paulo - SP",3.0,1.0,100, Jardins,"Alameda Tietê, 353",Sul
+964,3750,1.0,"Rua Henri Dunant, 1066 - Santo Amaro, São Paulo - SP",1.0,1.0,55, Santo Amaro,"Rua Henri Dunant, 1066",Sul
+970,1900,2.0,"Rua Pedroso de Camargo, 256 - Chácara Santo Antônio, São Paulo - SP",1.0,0.0,80, Chácara Santo Antônio,"Rua Pedroso de Camargo, 256",Sul
+972,16000,4.0,"Rua Nebraska - Brooklin, São Paulo - SP",5.0,4.0,200, Brooklin,Rua Nebraska,Sul
+973,2200,2.0,"Rua Artur Thiré, 1085 - Saúde, São Paulo - SP",2.0,0.0,80, Saúde,"Rua Artur Thiré, 1085",Sul
+976,2600,2.0,"Chácara Santo Antônio, São Paulo - SP",2.0,0.0,180, SP,"Chácara Santo Antônio, São Paulo",Sul
+978,1500,2.0,"Avenida Ramalho Ortigão, 200 - Ipiranga, São Paulo - SP",1.0,0.0,100, Ipiranga,"Avenida Ramalho Ortigão, 200",Sul
+981,5000,3.0,"Rua Guiratinga, 465 - Chácara Inglesa, São Paulo - SP",2.0,4.0,200, Chácara Inglesa,"Rua Guiratinga, 465",Sul
+990,1500,2.0,"Rua Maracá, 168 - Vila Guarani, São Paulo - SP",1.0,0.0,72, Vila Guarani,"Rua Maracá, 168",Sul
+992,18500,4.0,"Rua Cassiano Ricardo, 118 - Alto Da Boa Vista, São Paulo - SP",6.0,4.0,430, Alto Da Boa Vista,"Rua Cassiano Ricardo, 118",Sul
+993,35000,4.0,"Chácara Monte Alegre, São Paulo - SP",6.0,5.0,800, SP,"Chácara Monte Alegre, São Paulo",Sul
+994,20000,4.0,"Rua Carlos Baptista de Magalhães, 140 - Jardim Prudência, São Paulo - SP",4.0,5.0,587, Jardim Prudência,"Rua Carlos Baptista de Magalhães, 140",Sul
+995,15000,3.0,"Brooklin, São Paulo - SP",5.0,6.0,500, SP,"Brooklin, São Paulo",Sul
+996,6000,4.0,"Jardim da Saude, São Paulo - SP",5.0,3.0,154, SP,"Jardim da Saude, São Paulo",Sul
+997,15000,3.0,"Rua João Álvares Soares - Campo Belo, São Paulo - SP",5.0,3.0,310, Campo Belo,Rua João Álvares Soares,Sul
+998,16000,4.0,"Rua Diogo Pereira, , 1 - Morumbi, São Paulo - SP",5.0,10.0,761, Morumbi,"Rua Diogo Pereira, , 1",Sul
+999,6000,3.0,"Rua Conceição de Monte Alegre - Brooklin, São Paulo - SP",2.0,2.0,200, Brooklin,Rua Conceição de Monte Alegre,Sul
+1001,38000,4.0,"Rua Miranda Guerra - Jardim Petrópolis, São Paulo - SP",6.0,6.0,747, Jardim Petrópolis,Rua Miranda Guerra,Sul
+1002,50000,4.0,"Rua Carlo Rainaldi - Jardim dos Estados, São Paulo - SP",2.0,6.0,650, Jardim dos Estados,Rua Carlo Rainaldi,Sul
+1003,8000,4.0,"Rua Artur Dias - Jardim da Saude, São Paulo - SP",5.0,7.0,609, Jardim da Saude,Rua Artur Dias,Sul
+1005,45000,4.0,"Jardim Petrópolis, São Paulo - SP",6.0,6.0,720, SP,"Jardim Petrópolis, São Paulo",Sul
+1008,650,1.0,"Rua Luís Stolb, 40 - Jardim Vilas Boas, São Paulo - SP",1.0,0.0,35, Jardim Vilas Boas,"Rua Luís Stolb, 40",Sul
+1011,25000,4.0,"Rua Miranda Guerra, 40 - Jardim Petrópolis, São Paulo - SP",7.0,7.0,547, Jardim Petrópolis,"Rua Miranda Guerra, 40",Sul
+1014,18000,4.0,"Avenida Guarapiranga, 1783 - Guarapiranga, São Paulo - SP",6.0,6.0,721, Guarapiranga,"Avenida Guarapiranga, 1783",Sul
+1015,8000,3.0,"Varginha, São Paulo - SP",3.0,0.0,2000, SP,"Varginha, São Paulo",Sul
+1018,5500,2.0,"Rua Henrique Hessel - Recanto Campo Belo, São Paulo - SP",3.0,40.0,400, Recanto Campo Belo,Rua Henrique Hessel,Sul
+1019,4000,2.0,"Rua Benvinda Cândida - Chácara Bosque do Sol, São Paulo - SP",3.0,5.0,250, Chácara Bosque do Sol,Rua Benvinda Cândida,Sul
+1022,4900,3.0,"Rua Canário - Moema, São Paulo - SP",3.0,1.0,140, Moema,Rua Canário,Sul
+1023,24900,3.0,"Rua Haddock Lobo, 0 - Jardins, São Paulo - SP",5.0,4.0,228, Jardins,"Rua Haddock Lobo, 0",Sul
+1025,4520,2.0,"Avenida Portugal - Brooklin, São Paulo - SP",2.0,1.0,130, Brooklin,Avenida Portugal,Sul
+1028,5000,1.0,"Rua Baluarte - Vila Olímpia, São Paulo - SP",1.0,1.0,62, Vila Olímpia,Rua Baluarte,Sul
+1029,20000,4.0,"Avenida Jandira - Moema, São Paulo - SP",4.0,8.0,575, Moema,Avenida Jandira,Sul
+1030,15000,5.0,"Avenida Washington Luís - Chácara Flora, São Paulo - SP",4.0,4.0,560, Chácara Flora,Avenida Washington Luís,Sul
+1036,21000,1.0,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",2.0,2.0,110, Vila Olímpia,"Rua Elvira Ferraz, 250",Sul
+1037,65000,4.0,"Alameda dos Guaramomis, 404 - Moema, São Paulo - SP",6.0,8.0,470, Moema,"Alameda dos Guaramomis, 404",Sul
+1038,20000,3.0,"Alameda Jauaperi - Moema, São Paulo - SP",3.0,4.0,324, Moema,Alameda Jauaperi,Sul
+1040,65000,4.0,"Moema, São Paulo - SP",7.0,8.0,583, SP,"Moema, São Paulo",Sul
+1041,14990,3.0,"Rua Edson, 1172 - Campo Belo, São Paulo - SP",3.0,2.0,264, Campo Belo,"Rua Edson, 1172",Sul
+1045,5900,1.0,"Rua Elvira Ferraz, 250 - Itaim Bibi, São Paulo - SP",1.0,1.0,42, Itaim Bibi,"Rua Elvira Ferraz, 250",Sul
+1047,550,5.0,"Rua Ribeiro do Vale, 1458 - Itaim Bibi, São Paulo - SP",4.0,0.0,12, Itaim Bibi,"Rua Ribeiro do Vale, 1458",Sul
+1048,500,1.0,"Rua Visconde de Ourem, 210 - Vila Congonhas, São Paulo - SP",1.0,0.0,12, Vila Congonhas,"Rua Visconde de Ourem, 210",Sul
+1049,23000,1.0,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",2.0,3.0,105, Vila Olímpia,"Rua Elvira Ferraz, 250",Sul
+1050,5000,1.0,"Rua Tenente Negrão - Itaim Bibi, São Paulo - SP",1.0,1.0,40, Itaim Bibi,Rua Tenente Negrão,Sul
+1051,2300,1.0,"Rua Texas, 1487 - Vila Olímpia, São Paulo - SP",1.0,1.0,24, Vila Olímpia,"Rua Texas, 1487",Sul
+1052,1400,1.0,"Rua Verbo Divino, 1323 - Chácara Santo Antônio, São Paulo - SP",1.0,1.0,30, Chácara Santo Antônio,"Rua Verbo Divino, 1323",Sul
+1053,1960,1.0,"Rua Franz Schubert, 156 - Itaim Bibi, São Paulo - SP",1.0,1.0,35, Itaim Bibi,"Rua Franz Schubert, 156",Sul
+1054,2600,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,52, Moema,"Avenida Moema, 177",Sul
+1055,1880,1.0,"Alameda dos Anapurus, 1661 - Moema, São Paulo - SP",1.0,1.0,33, Moema,"Alameda dos Anapurus, 1661",Sul
+1057,1760,1.0,"Avenida Moema, 177 - Moema, São Paulo - SP",1.0,1.0,52, Moema,"Avenida Moema, 177",Sul
+1058,1200,1.0,"Alameda dos Anapurus, , 1661 - Moema, São Paulo - SP",1.0,1.0,33, Moema,"Alameda dos Anapurus, , 1661",Sul
+1059,3160,2.0,"Avenida dos Imarés, 317 - Moema, São Paulo - SP",1.0,2.0,57, Moema,"Avenida dos Imarés, 317",Sul
+1060,1800,1.0,"Alameda Santos, 981 - Jardins, São Paulo - SP",1.0,1.0,29, Jardins,"Alameda Santos, 981",Sul
+1061,4260,2.0,"Alameda dos Jurupis, , 800 - Moema, São Paulo - SP",1.0,2.0,70, Moema,"Alameda dos Jurupis, , 800",Sul
+1063,2300,1.0,"Rua Texas, 1018 - Itaim Bibi, São Paulo - SP",1.0,1.0,33, Itaim Bibi,"Rua Texas, 1018",Sul
+1064,3500,2.0,"Rua Texas, 1018 - Brooklin, São Paulo - SP",1.0,1.0,40, Brooklin,"Rua Texas, 1018",Sul
+1065,2300,1.0,"Rua Texas, 1018 - Cidade Monções, São Paulo - SP",1.0,1.0,24, Cidade Monções,"Rua Texas, 1018",Sul
+1066,2300,1.0,"Rua Texas, 1018 - Brooklin, São Paulo - SP",1.0,1.0,24, Brooklin,"Rua Texas, 1018",Sul
+1067,2300,1.0,"Rua Texas, 1018 - Vila Olímpia, São Paulo - SP",1.0,1.0,33, Vila Olímpia,"Rua Texas, 1018",Sul
+1086,1500,2.0,"Rua Professor Nicolau Maria Rossetti - Cidade Ademar, São Paulo - SP",1.0,1.0,95, Cidade Ademar,Rua Professor Nicolau Maria Rossetti,Sul
+1088,3700,3.0,"Campo Belo, São Paulo - SP",2.0,1.0,110, SP,"Campo Belo, São Paulo",Sul
+1089,2500,2.0,"Rua Antônio das Chagas - Chácara Santo Antônio, São Paulo - SP",2.0,1.0,112, Chácara Santo Antônio,Rua Antônio das Chagas,Sul
+1092,3000,3.0,"Rua João Elias Calache - Jardim Prudência, São Paulo - SP",4.0,2.0,125, Jardim Prudência,Rua João Elias Calache,Sul
+1094,3500,3.0,"Rua Arcipreste Ezequias - Ipiranga, São Paulo - SP",2.0,4.0,164, Ipiranga,Rua Arcipreste Ezequias,Sul
+1099,1700,3.0,"Rua Aparecido Carlos Ferreira Correa, 270 - Vila Tolstoi, São Paulo - SP",4.0,2.0,160, Vila Tolstoi,"Rua Aparecido Carlos Ferreira Correa, 270",Sul
+1100,3500,4.0,"Rua Guiratinga - Bosque da Saúde, São Paulo - SP",3.0,4.0,136, Bosque da Saúde,Rua Guiratinga,Sul
+32,2400,2.0,"Rua Paris, 415 - Sumaré, São Paulo - SP",2.0,1.0,54, Sumaré,"Rua Paris, 415",Leste
+57,2002,1.0,"Rua Brás Cardoso, , 654 - Vila Nova Conceição, São Paulo - SP",1.0,1.0,42, Vila Nova Conceição,"Rua Brás Cardoso, , 654",Leste
+63,1050,1.0,"Cidade Vargas, São Paulo - SP",1.0,0.0,10, SP,"Cidade Vargas, São Paulo",Leste
+64,1500,3.0,"Rua Jorge Ogushi - Jardim Vila Formosa, São Paulo - SP",1.0,1.0,63, Jardim Vila Formosa,Rua Jorge Ogushi,Leste
+79,990,1.0,"Rua Chico Pontes, 184 - Carandiru, São Paulo - SP",1.0,0.0,24, Carandiru,"Rua Chico Pontes, 184",Leste
+82,2500,3.0,"Rua Ipanema, 67 - Mooca, São Paulo - SP",2.0,1.0,63, Mooca,"Rua Ipanema, 67",Leste
+109,1200,2.0,"Cidade Satélite Santa Bárbara, São Paulo - SP",1.0,1.0,47, SP,"Cidade Satélite Santa Bárbara, São Paulo",Leste
+111,1200,1.0,"Rua Luís Góis, 2172 - Mirandópolis, São Paulo - SP",1.0,0.0,35, Mirandópolis,"Rua Luís Góis, 2172",Leste
+142,1000,2.0,"Rua Ataualpa, 144 - Parque Novo Mundo, São Paulo - SP",1.0,0.0,60, Parque Novo Mundo,"Rua Ataualpa, 144",Leste
+171,1500,2.0,"Rua Francisco Riva - Conjunto Habitacional Barreira Grande, São Paulo - SP",1.0,3.0,120, Conjunto Habitacional Barreira Grande,Rua Francisco Riva,Leste
+172,900,1.0,"Rua Estado de Pernambuco, 317 - Jardim Egle, São Paulo - SP",1.0,0.0,45, Jardim Egle,"Rua Estado de Pernambuco, 317",Leste
+183,4950,3.0,"Rua Paris - Sumaré, São Paulo - SP",3.0,4.0,177, Sumaré,Rua Paris,Leste
+193,600,1.0,"Rua Timóteo, 49 - Jardim Paraguaçu, São Paulo - SP",1.0,0.0,30, Jardim Paraguaçu,"Rua Timóteo, 49",Leste
+198,1900,1.0,"Rua Barretos, 363 - Alto da Mooca, São Paulo - SP",2.0,1.0,70, Alto da Mooca,"Rua Barretos, 363",Leste
+209,8000,4.0,"Rua Maria Luísa de Pinho - Parque da Mooca, São Paulo - SP",4.0,6.0,520, Parque da Mooca,Rua Maria Luísa de Pinho,Leste
+212,1600,2.0,"Vila São Francisco (Zona Leste), São Paulo - SP",3.0,2.0,137, SP,"Vila São Francisco (Zona Leste), São Paulo",Leste
+214,780,1.0,"Rua Maria Antonieta - Vila Matilde, São Paulo - SP",1.0,0.0,50, Vila Matilde,Rua Maria Antonieta,Leste
+217,1570,3.0,"Rua Lituânia - Alto da Mooca, São Paulo - SP",2.0,0.0,78, Alto da Mooca,Rua Lituânia,Leste
+226,3500,4.0,"Vila Santo Estevão, São Paulo - SP",2.0,4.0,145, SP,"Vila Santo Estevão, São Paulo",Leste
+245,9000,4.0,"Mooca, São Paulo - SP",6.0,6.0,608, SP,"Mooca, São Paulo",Leste
+262,2600,2.0,"Rua Alves de Almeida - Chácara Belenzinho, São Paulo - SP",3.0,2.0,155, Chácara Belenzinho,Rua Alves de Almeida,Leste
+274,1100,2.0,"Avenida do Oratório, 5923 - Jardim Ângela (Zona Leste), São Paulo - SP",2.0,1.0,122, Jardim Ângela (Zona Leste),"Avenida do Oratório, 5923",Leste
+280,1700,1.0,"Avenida Jabaquara, 144 - Mirandópolis, São Paulo - SP",1.0,1.0,38, Mirandópolis,"Avenida Jabaquara, 144",Leste
+283,990,1.0,"Rua Doutor Clementino - Belenzinho, São Paulo - SP",1.0,1.0,21, Belenzinho,Rua Doutor Clementino,Leste
+310,1500,2.0,"Rua Lessing, 675 - Chácara Belenzinho, São Paulo - SP",1.0,1.0,60, Chácara Belenzinho,"Rua Lessing, 675",Leste
+321,1600,2.0,"Rua Mariazinha Vicenzzoto - Jardim Aricanduva, São Paulo - SP",1.0,2.0,100, Jardim Aricanduva,Rua Mariazinha Vicenzzoto,Leste
+324,4500,4.0,"Rua Pitangueiras - Mirandópolis, São Paulo - SP",3.0,1.0,144, Mirandópolis,Rua Pitangueiras,Leste
+328,1300,1.0,"Vila Bertioga, São Paulo - SP",1.0,0.0,70, SP,"Vila Bertioga, São Paulo",Leste
+331,850,1.0,"Rua dos Operários - Vila Brasilina, São Paulo - SP",1.0,0.0,98, Vila Brasilina,Rua dos Operários,Leste
+341,1100,2.0,"Rua Sílvio de Sousa - Vila Santa Clara, São Paulo - SP",1.0,1.0,60, Vila Santa Clara,Rua Sílvio de Sousa,Leste
+360,2250,3.0,"Rua Ibitirama, 1809 - Vila Prudente, São Paulo - SP",2.0,1.0,70, Vila Prudente,"Rua Ibitirama, 1809",Leste
+366,2000,2.0,"Rua Uruçuca, 34 - Vila Antonina, São Paulo - SP",1.0,1.0,57, Vila Antonina,"Rua Uruçuca, 34",Leste
+368,1000,1.0,"Rua Oriçanga, 14 - Mirandópolis, São Paulo - SP",1.0,1.0,30, Mirandópolis,"Rua Oriçanga, 14",Leste
+388,1400,2.0,"Rua Tenente-Coronel Soares Neiva, 95 - Vila Aricanduva, São Paulo - SP",1.0,0.0,40, Vila Aricanduva,"Rua Tenente-Coronel Soares Neiva, 95",Leste
+394,1800,2.0,"Rua José Zappi - Vila Prudente, São Paulo - SP",2.0,1.0,283, Vila Prudente,Rua José Zappi,Leste
+396,7000,3.0,"Rua Pariquera-Açu, 78 - Indianópolis, São Paulo - SP",3.0,3.0,230, Indianópolis,"Rua Pariquera-Açu, 78",Leste
+398,1200,2.0,"Rua Cavalieri, 55 - Quarta Parada, São Paulo - SP",1.0,0.0,100, Quarta Parada,"Rua Cavalieri, 55",Leste
+412,5500,3.0,"Rua Francisco Olandim, 267 - São João Clímaco, São Paulo - SP",4.0,3.0,212, São João Clímaco,"Rua Francisco Olandim, 267",Leste
+449,17000,3.0,"Vila Regente Feijó, São Paulo - SP",4.0,4.0,339, SP,"Vila Regente Feijó, São Paulo",Leste
+484,1864,1.0,"Rua Eleonora Cintra, 960 - Jardim Anália Franco, São Paulo - SP",1.0,1.0,27, Jardim Anália Franco,"Rua Eleonora Cintra, 960",Leste
+489,1320,1.0,"Rua Vitoantônio Del Vecchio, , 534 - Parque da Mooca, São Paulo - SP",1.0,1.0,45, Parque da Mooca,"Rua Vitoantônio Del Vecchio, , 534",Leste
+495,820,1.0,"Rua Santa Elvira - Parque São Jorge, São Paulo - SP",1.0,0.0,20, Parque São Jorge,Rua Santa Elvira,Leste
+534,7000,3.0,"Rua Eugênia de Carvalho, 1000 - Vila Matilde, São Paulo - SP",4.0,10.0,257, Vila Matilde,"Rua Eugênia de Carvalho, 1000",Leste
+551,1500,2.0,"Rua Tobias Barreto, 700 - Mooca, São Paulo - SP",2.0,0.0,70, Mooca,"Rua Tobias Barreto, 700",Leste
+553,700,1.0,"Rua Fran Pacheco, 54 - Parque Savoy City, São Paulo - SP",1.0,0.0,30, Parque Savoy City,"Rua Fran Pacheco, 54",Leste
+557,2500,3.0,"Rua Mário Augusto do Carmo - Jardim Avelino, São Paulo - SP",3.0,2.0,120, Jardim Avelino,Rua Mário Augusto do Carmo,Leste
+563,4700,4.0,"Rua do Tatuapé - Maranhão, São Paulo - SP",3.0,2.0,180, Maranhão,Rua do Tatuapé,Leste
+565,1900,2.0,"Rua Fernandes Pinheiro - Vila Azevedo, São Paulo - SP",2.0,0.0,100, Vila Azevedo,Rua Fernandes Pinheiro,Leste
+589,3800,3.0,"Rua Eponina, 67 - Vila Carrão, São Paulo - SP",3.0,2.0,140, Vila Carrão,"Rua Eponina, 67",Leste
+594,1300,2.0,"Rua Cônego José Maria Fernandes - Cidade São Mateus, São Paulo - SP",1.0,2.0,100, Cidade São Mateus,Rua Cônego José Maria Fernandes,Leste
+597,900,1.0,"Rua Dom Giocondo Grotti, 941 - Parque São Rafael, São Paulo - SP",1.0,1.0,90, Parque São Rafael,"Rua Dom Giocondo Grotti, 941",Leste
+603,3000,3.0,"Rua Maria Eugênia, 95 - Tatuapé, São Paulo - SP",2.0,2.0,103, Tatuapé,"Rua Maria Eugênia, 95",Leste
+606,1650,2.0,"Rua Aníbal de Matos, 159 - Vila Ema, São Paulo - SP",4.0,1.0,125, Vila Ema,"Rua Aníbal de Matos, 159",Leste
+619,3000,3.0,"Rua Maria Eugênia, 92 - Tatuapé, São Paulo - SP",4.0,2.0,103, Tatuapé,"Rua Maria Eugênia, 92",Leste
+629,2700,2.0,"Rua Pedro Inácio de Araújo, 250 - Vila São Silvestre, São Paulo - SP",2.0,2.0,105, Vila São Silvestre,"Rua Pedro Inácio de Araújo, 250",Leste
+647,1500,3.0,"Rua Doutor Virgílio Machado, 635 - Vila Pierina, São Paulo - SP",2.0,1.0,80, Vila Pierina,"Rua Doutor Virgílio Machado, 635",Leste
+676,4000,3.0,"Rua Curupá - Vila Formosa, São Paulo - SP",4.0,3.0,340, Vila Formosa,Rua Curupá,Leste
+678,800,1.0,"Rua Francisco Gouveia - Quarta Parada, São Paulo - SP",1.0,0.0,16, Quarta Parada,Rua Francisco Gouveia,Leste
+681,1500,1.0,"Avenida Jabaquara - Mirandópolis, São Paulo - SP",1.0,1.0,35, Mirandópolis,Avenida Jabaquara,Leste
+692,3500,0.0,"Avenida Regente Feijó - Vila Regente Feijó, São Paulo - SP",1.0,2.0,55, Vila Regente Feijó,Avenida Regente Feijó,Leste
+707,1520,1.0,"Rua Serra de Juréa, 351 - Cidade Mãe do Céu, São Paulo - SP",1.0,1.0,28, Cidade Mãe do Céu,"Rua Serra de Juréa, 351",Leste
+712,1500,1.0,"Rua Brás Cardoso, 654 - Vila Nova Conceição, São Paulo - SP",1.0,1.0,42, Vila Nova Conceição,"Rua Brás Cardoso, 654",Leste
+730,1900,2.0,"Rua Mossâmedes - Vila Santo Estevão, São Paulo - SP",3.0,2.0,85, Vila Santo Estevão,Rua Mossâmedes,Leste
+731,3000,1.0,"Rua Brás Cardoso, 654 - Vila Nova Conceição, São Paulo - SP",1.0,1.0,42, Vila Nova Conceição,"Rua Brás Cardoso, 654",Leste
+746,2000,2.0,"Rua Aldino - Chácara Belenzinho, São Paulo - SP",2.0,1.0,100, Chácara Belenzinho,Rua Aldino,Leste
+755,1500,4.0,"Rua Acácio de Paula Leite Sampaio, 67 - Jardim Tietê, São Paulo - SP",2.0,2.0,213, Jardim Tietê,"Rua Acácio de Paula Leite Sampaio, 67",Leste
+757,4000,4.0,"Avenida Cangaíba, 0 - Cangaíba, São Paulo - SP",2.0,3.0,200, Cangaíba,"Avenida Cangaíba, 0",Leste
+758,3300,3.0,"Rua Dentista Barreto, 0 - Vila Carrão, São Paulo - SP",1.0,2.0,173, Vila Carrão,"Rua Dentista Barreto, 0",Leste
+770,3820,3.0,"Vila Regente Feijó, São Paulo - SP",1.0,2.0,95, SP,"Vila Regente Feijó, São Paulo",Leste
+774,800,1.0,"Rua Dario Ferreira Martins - Jardim Santo Elias (São Miguel), São Paulo - SP",1.0,1.0,50, Jardim Santo Elias (São Miguel),Rua Dario Ferreira Martins,Leste
+793,1350,2.0,"Rua Refinaria Mataripe - Vila Antonieta, São Paulo - SP",2.0,1.0,70, Vila Antonieta,Rua Refinaria Mataripe,Leste
+824,850,1.0,"Rua Solano Pereira - Vila Primavera, São Paulo - SP",1.0,0.0,30, Vila Primavera,Rua Solano Pereira,Leste
+851,1200,1.0,"Rua Cipó da Mata, 34 - Mooca, São Paulo - SP",1.0,0.0,70, Mooca,"Rua Cipó da Mata, 34",Leste
+875,1700,2.0,"Rua Serra de Juquiá - Jardim Lajeado, São Paulo - SP",1.0,2.0,100, Jardim Lajeado,Rua Serra de Juquiá,Leste
+929,3500,2.0,"Rua Sante Colombara - Tatuapé, São Paulo - SP",3.0,2.0,220, Tatuapé,Rua Sante Colombara,Leste
+935,4000,3.0,"Rua Hugo Walter Puschnick, 24 - Alto da Mooca, São Paulo - SP",5.0,5.0,260, Alto da Mooca,"Rua Hugo Walter Puschnick, 24",Leste
+971,800,1.0,"Rua Dario Ferreira Martins - São Miguel Paulista, São Paulo - SP",1.0,1.0,50, São Miguel Paulista,Rua Dario Ferreira Martins,Leste
+975,4000,4.0,"Rua Ubajara - Quarta Parada, São Paulo - SP",3.0,2.0,200, Quarta Parada,Rua Ubajara,Leste
+979,1190,1.0,"Rua Santo Elias, 240 - Parque São Jorge, São Paulo - SP",1.0,0.0,40, Parque São Jorge,"Rua Santo Elias, 240",Leste
+982,1700,1.0,"Rua Barretos, 363 - Alto da Mooca, São Paulo - SP",2.0,1.0,70, Alto da Mooca,"Rua Barretos, 363",Leste
+985,8000,4.0,"Rua Maria Luísa de Pinho - Móoca, São Paulo - SP",4.0,6.0,520, Móoca,Rua Maria Luísa de Pinho,Leste
+986,3850,3.0,"Rua Torquato Tasso - Vila Prudente, São Paulo - SP",2.0,3.0,250, Vila Prudente,Rua Torquato Tasso,Leste
+987,1100,1.0,"Rua Padre Adelino, 1720 - Quarta Parada, São Paulo - SP",1.0,0.0,40, Quarta Parada,"Rua Padre Adelino, 1720",Leste
+991,2100,2.0,"Rua Costa Barros, 230 - Sítio Pinheirinho, São Paulo - SP",1.0,2.0,100, Sítio Pinheirinho,"Rua Costa Barros, 230",Leste
+1012,3000,3.0,"Rua Hermann Teles Ribeiro, 283 - Vila Invernada, São Paulo - SP",4.0,4.0,191, Vila Invernada,"Rua Hermann Teles Ribeiro, 283",Leste
+1013,1700,2.0,"Rua Serra de Juquiá - Lajeado, São Paulo - SP",1.0,2.0,100, Lajeado,Rua Serra de Juquiá,Leste
+1044,1864,1.0,"Rua Eleonora Cintra, 960 - Tatuapé, São Paulo - SP",1.0,1.0,27, Tatuapé,"Rua Eleonora Cintra, 960",Leste
+1068,820,1.0,"Rua Santa Elvira - Tatuapé, São Paulo - SP",1.0,0.0,20, Tatuapé,Rua Santa Elvira,Leste
+1080,1700,2.0,"Vila Matilde, São Paulo - SP",1.0,1.0,70, SP,"Vila Matilde, São Paulo",Leste
+1081,2700,3.0,"Vila Dalila, São Paulo - SP",1.0,4.0,110, SP,"Vila Dalila, São Paulo",Leste
+1082,2500,3.0,"Vila Dalila, São Paulo - SP",1.0,0.0,90, SP,"Vila Dalila, São Paulo",Leste
+1083,7000,6.0,"Vila Matilde, São Paulo - SP",2.0,5.0,490, SP,"Vila Matilde, São Paulo",Leste
+1090,3000,3.0,"Rua Alonso Calhamares - Jardim Anália Franco, São Paulo - SP",2.0,3.0,170, Jardim Anália Franco,Rua Alonso Calhamares,Leste
+1091,2100,2.0,"Jardim Popular, São Paulo - SP",1.0,2.0,65, SP,"Jardim Popular, São Paulo",Leste
+1095,3200,3.0,"Rua Chamantá - Vila Prudente, São Paulo - SP",4.0,2.0,200, Vila Prudente,Rua Chamantá,Leste
+1097,1400,2.0,"Cidade Líder, São Paulo - SP",1.0,1.0,65, SP,"Cidade Líder, São Paulo",Leste
+1101,3000,2.0,"Parque da Mooca, São Paulo - SP",2.0,3.0,242, SP,"Parque da Mooca, São Paulo",Leste
+1,1650,2.0,"Rua Professor Demóstenes Batista Figueira Marques, 10 - Cambuci, São Paulo - SP",1.0,1.0,60, Cambuci,"Rua Professor Demóstenes Batista Figueira Marques, 10",Centro
+2,2400,1.0,"Rua Cristiano Viana, 463 - Cerqueira César, São Paulo - SP",1.0,1.0,45, Cerqueira César,"Rua Cristiano Viana, 463",Centro
+3,1900,2.0,"Rua Afonso Pena, 560 - Bom Retiro, São Paulo - SP",1.0,1.0,42, Bom Retiro,"Rua Afonso Pena, 560",Centro
+5,1900,1.0,"Rua Adolfo Gordo, 52 - Campos Elíseos, São Paulo - SP",1.0,1.0,37, Campos Elíseos,"Rua Adolfo Gordo, 52",Centro
+14,2700,1.0,"Rua da Consolação, 1515 - Consolação, São Paulo - SP",1.0,1.0,33, Consolação,"Rua da Consolação, 1515",Centro
+16,2900,3.0,"Avenida Moaci, 780 - Planalto Paulista, São Paulo - SP",3.0,1.0,99, Planalto Paulista,"Avenida Moaci, 780",Centro
+34,3100,2.0,"Avenida Fagundes Filho - Vila Monte Alegre, São Paulo - SP",1.0,2.0,70, Vila Monte Alegre,Avenida Fagundes Filho,Centro
+35,2800,2.0,"Rua Martim Francisco, 67 - Santa Cecília, São Paulo - SP",2.0,1.0,50, Santa Cecília,"Rua Martim Francisco, 67",Centro
+38,1500,1.0,"Rua Doutor Seng, 152 - Bela Vista, São Paulo - SP",1.0,0.0,36, Bela Vista,"Rua Doutor Seng, 152",Centro
+40,4500,2.0,"Rua Dona Antônia de Queirós, 505 - Consolação, São Paulo - SP",2.0,2.0,60, Consolação,"Rua Dona Antônia de Queirós, 505",Centro
+48,2900,2.0,"Alameda Santos, 1018 - Cerqueira César, São Paulo - SP",2.0,0.0,75, Cerqueira César,"Alameda Santos, 1018",Centro
+54,3900,2.0,"Rua Caio Prado, 363 - Consolação, São Paulo - SP",1.0,1.0,54, Consolação,"Rua Caio Prado, 363",Centro
+61,3100,3.0,"Avenida Bernardino de Campos, 210 - Paraíso, São Paulo - SP",3.0,1.0,128, Paraíso,"Avenida Bernardino de Campos, 210",Centro
+62,3500,2.0,"Alameda Barros - Santa Cecília, São Paulo - SP",2.0,2.0,78, Santa Cecília,Alameda Barros,Centro
+65,2300,1.0,"Praça da República, 401 - República, São Paulo - SP",1.0,1.0,30, República,"Praça da República, 401",Centro
+67,1800,2.0,"Rua Tamandaré, 464 - Liberdade, São Paulo - SP",1.0,0.0,46, Liberdade,"Rua Tamandaré, 464",Centro
+72,1600,2.0,"Rua Guarani, 460 - Bom Retiro, São Paulo - SP",1.0,0.0,60, Bom Retiro,"Rua Guarani, 460",Centro
+80,2250,1.0,"Rua Dona Antônia de Queirós - Consolação, São Paulo - SP",1.0,1.0,39, Consolação,Rua Dona Antônia de Queirós,Centro
+86,2800,3.0,"Rua Galvão Bueno, 499 - Liberdade, São Paulo - SP",2.0,2.0,79, Liberdade,"Rua Galvão Bueno, 499",Centro
+87,1000,1.0,"Rua Doutor Cesário Mota Júnior - Vila Buarque, São Paulo - SP",1.0,0.0,26, Vila Buarque,Rua Doutor Cesário Mota Júnior,Centro
+89,700,1.0,"Rua Humaitá, 619 - Bela Vista, São Paulo - SP",1.0,0.0,32, Bela Vista,"Rua Humaitá, 619",Centro
+90,2200,1.0,"Rua Itararé - Bela Vista, São Paulo - SP",1.0,1.0,48, Bela Vista,Rua Itararé,Centro
+94,2190,1.0,"Rua Cristiano Viana, 950 - Cerqueira César, São Paulo - SP",1.0,0.0,25, Cerqueira César,"Rua Cristiano Viana, 950",Centro
+98,2500,1.0,"Rua Aurora, 756 - Santa Efigênia, São Paulo - SP",1.0,1.0,30, Santa Efigênia,"Rua Aurora, 756",Centro
+108,3300,3.0,"Rua Conselheiro Brotero, 823 - Santa Cecília, São Paulo - SP",3.0,2.0,88, Santa Cecília,"Rua Conselheiro Brotero, 823",Centro
+110,4500,3.0,"Rua Sabará, 410 - Higienópolis, São Paulo - SP",3.0,1.0,120, Higienópolis,"Rua Sabará, 410",Centro
+120,2300,1.0,"Rua Major Sertório, 321 - Vila Buarque, São Paulo - SP",1.0,1.0,37, Vila Buarque,"Rua Major Sertório, 321",Centro
+122,3500,3.0,"Alameda Ribeirão Preto, 118 - Bela Vista, São Paulo - SP",3.0,1.0,100, Bela Vista,"Alameda Ribeirão Preto, 118",Centro
+123,2500,2.0,"Rua Marquês de Itu, 181 - Vila Buarque, São Paulo - SP",1.0,1.0,50, Vila Buarque,"Rua Marquês de Itu, 181",Centro
+125,2800,3.0,"Rua Artur Prado, 275 - Bela Vista, São Paulo - SP",2.0,0.0,78, Bela Vista,"Rua Artur Prado, 275",Centro
+127,1350,1.0,"Rua da Consolação, 927 - Consolação, São Paulo - SP",1.0,0.0,27, Consolação,"Rua da Consolação, 927",Centro
+130,4000,2.0,"Alameda Tietê, 353 - Cerqueira César, São Paulo - SP",3.0,1.0,100, Cerqueira César,"Alameda Tietê, 353",Centro
+133,4040,3.0,"Rua Cristiano Viana, 505 - Cerqueira César, São Paulo - SP",2.0,1.0,85, Cerqueira César,"Rua Cristiano Viana, 505",Centro
+136,3300,2.0,"Avenida Moaci - Planalto Paulista, São Paulo - SP",2.0,1.0,70, Planalto Paulista,Avenida Moaci,Centro
+138,1050,1.0,"Rua Santo Amaro, 240 - Bela Vista, São Paulo - SP",1.0,0.0,31, Bela Vista,"Rua Santo Amaro, 240",Centro
+140,1900,1.0,"Rua da Glória - Liberdade, São Paulo - SP",1.0,0.0,30, Liberdade,Rua da Glória,Centro
+174,2600,2.0,"Rua República do Iraque, 88 - Brooklin Paulista, São Paulo - SP",2.0,3.0,120, Brooklin Paulista,"Rua República do Iraque, 88",Centro
+194,20000,4.0,"Rua Ceará - Consolação, São Paulo - SP",8.0,5.0,550, Consolação,Rua Ceará,Centro
+218,1050,1.0,"Rua Tenente Otávio Gomes, 330 - Aclimação, São Paulo - SP",1.0,0.0,34, Aclimação,"Rua Tenente Otávio Gomes, 330",Centro
+221,2890,1.0,"Rua Artur Prado, 433 - Bela Vista, São Paulo - SP",1.0,1.0,43, Bela Vista,"Rua Artur Prado, 433",Centro
+223,3350,3.0,"Avenida Paulista, 37 - Bela Vista, São Paulo - SP",2.0,1.0,116, Bela Vista,"Avenida Paulista, 37",Centro
+228,1800,2.0,"Rua das Palmeiras - Vila Buarque, São Paulo - SP",1.0,1.0,55, Vila Buarque,Rua das Palmeiras,Centro
+230,3100,1.0,"Rua Manuel da Nóbrega, 646 - Paraíso, São Paulo - SP",2.0,2.0,50, Paraíso,"Rua Manuel da Nóbrega, 646",Centro
+233,4200,1.0,"Travessa Dona Paula - Higienópolis, São Paulo - SP",1.0,0.0,120, Higienópolis,Travessa Dona Paula,Centro
+234,2500,2.0,"Rua Fortaleza, 186 - Bela Vista, São Paulo - SP",1.0,0.0,86, Bela Vista,"Rua Fortaleza, 186",Centro
+239,24000,4.0,"Cerqueira César, São Paulo - SP",4.0,2.0,250, SP,"Cerqueira César, São Paulo",Centro
+253,2000,2.0,"Rua Rocha Galvão - Jardim da Glória, São Paulo - SP",1.0,1.0,90, Jardim da Glória,Rua Rocha Galvão,Centro
+272,2750,2.0,"Rua Maestro Cardim, 1211 - Bela Vista, São Paulo - SP",2.0,1.0,90, Bela Vista,"Rua Maestro Cardim, 1211",Centro
+273,1750,1.0,"Bela Vista, São Paulo - SP",1.0,1.0,48, SP,"Bela Vista, São Paulo",Centro
+276,1500,1.0,"Rua Bela Cintra, 450 - Consolação, São Paulo - SP",1.0,1.0,28, Consolação,"Rua Bela Cintra, 450",Centro
+284,2900,1.0,"Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP",1.0,1.0,40, Bela Vista,"Avenida Brigadeiro Luís Antônio, 499",Centro
+289,15000,4.0,"Jardim Luzitânia, São Paulo - SP",3.0,3.0,436, SP,"Jardim Luzitânia, São Paulo",Centro
+316,8500,3.0,"Alameda Uananá - Planalto Paulista, São Paulo - SP",3.0,2.0,200, Planalto Paulista,Alameda Uananá,Centro
+325,4500,3.0,"Rua Doutor Numa Pereira do Vale - Aclimação, São Paulo - SP",2.0,2.0,212, Aclimação,Rua Doutor Numa Pereira do Vale,Centro
+336,3500,2.0,"Rua São Vicente de Paulo, 401 - Santa Cecília, São Paulo - SP",2.0,0.0,90, Santa Cecília,"Rua São Vicente de Paulo, 401",Centro
+337,5380,2.0,"Rua Lisboa, 159 - Cerqueira César, São Paulo - SP",2.0,1.0,163, Cerqueira César,"Rua Lisboa, 159",Centro
+340,1500,1.0,"Rua Maria Antônia, 173 - Vila Buarque, São Paulo - SP",1.0,0.0,26, Vila Buarque,"Rua Maria Antônia, 173",Centro
+344,3500,2.0,"Rua Manuel da Nóbrega, 638 - Paraíso, São Paulo - SP",3.0,2.0,80, Paraíso,"Rua Manuel da Nóbrega, 638",Centro
+350,4500,1.0,"Rua Haddock Lobo, 1384 - Cerqueira César, São Paulo - SP",2.0,0.0,84, Cerqueira César,"Rua Haddock Lobo, 1384",Centro
+354,18700,3.0,"Rua Minas Gerais, 145 - Higienópolis, São Paulo - SP",4.0,5.0,347, Higienópolis,"Rua Minas Gerais, 145",Centro
+357,4300,2.0,"Rua Bela Cintra, 1538 - Consolação, São Paulo - SP",3.0,1.0,140, Consolação,"Rua Bela Cintra, 1538",Centro
+367,2900,1.0,"Praça Júlio Mesquita, 97 - Santa Efigênia, São Paulo - SP",1.0,1.0,46, Santa Efigênia,"Praça Júlio Mesquita, 97",Centro
+376,3000,1.0,"Avenida Angélica - Santa Cecília, São Paulo - SP",1.0,1.0,40, Santa Cecília,Avenida Angélica,Centro
+377,1800,1.0,"Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP",1.0,0.0,54, Bela Vista,"Rua Doutor Plínio Barreto, 95",Centro
+378,3250,3.0,"Rua Treze de Maio, 1838 - Bela Vista, São Paulo - SP",3.0,1.0,116, Bela Vista,"Rua Treze de Maio, 1838",Centro
+379,4200,2.0,"Rua Maestro Cardim, 266 - Liberdade, São Paulo - SP",2.0,1.0,60, Liberdade,"Rua Maestro Cardim, 266",Centro
+380,1700,1.0,"Rua Aurora, 873 - Santa Efigênia, São Paulo - SP",1.0,1.0,36, Santa Efigênia,"Rua Aurora, 873",Centro
+382,1600,2.0,"Rua Vinte e Cinco de Janeiro - Luz, São Paulo - SP",1.0,0.0,44, Luz,Rua Vinte e Cinco de Janeiro,Centro
+400,2800,2.0,"Rua Castro Alves, 279 - Aclimação, São Paulo - SP",2.0,2.0,60, Aclimação,"Rua Castro Alves, 279",Centro
+401,1900,1.0,"Rua Itararé - Bela Vista, São Paulo - SP",1.0,1.0,48, Bela Vista,Rua Itararé,Centro
+402,3100,3.0,"Rua Cristiano Viana, 505 - Cerqueira César, São Paulo - SP",2.0,1.0,80, Cerqueira César,"Rua Cristiano Viana, 505",Centro
+408,3000,3.0,"Rua Artur de Azevedo - Cerqueira César, São Paulo - SP",3.0,1.0,120, Cerqueira César,Rua Artur de Azevedo,Centro
+420,5800,0.0,"Rua Barra do Tibaji, 235 - Bom Retiro, São Paulo - SP",3.0,0.0,240, Bom Retiro,"Rua Barra do Tibaji, 235",Centro
+432,15400,2.0,"Avenida Angélica, 589 - Santa Cecília, São Paulo - SP",3.0,2.0,381, Santa Cecília,"Avenida Angélica, 589",Centro
+436,2000,2.0,"Rua Professor Picarolo - Bela Vista, São Paulo - SP",1.0,1.0,53, Bela Vista,Rua Professor Picarolo,Centro
+438,6600,4.0,"Rua Maranhão, 208 - Higienópolis, São Paulo - SP",6.0,3.0,350, Higienópolis,"Rua Maranhão, 208",Centro
+442,4500,5.0,"Rua Doutor Chibata Miyakoshi - Paraíso do Morumbi, São Paulo - SP",7.0,6.0,505, Paraíso do Morumbi,Rua Doutor Chibata Miyakoshi,Centro
+444,7500,3.0,"Rua Conselheiro Brotero - Santa Cecília, São Paulo - SP",6.0,3.0,300, Santa Cecília,Rua Conselheiro Brotero,Centro
+447,22000,4.0,"Rua Padre João Manuel, 50 - Cerqueira César, São Paulo - SP",4.0,4.0,410, Cerqueira César,"Rua Padre João Manuel, 50",Centro
+452,65000,4.0,"Planalto Paulista, São Paulo - SP",7.0,8.0,583, SP,"Planalto Paulista, São Paulo",Centro
+453,35000,5.0,"Avenida Jamaris - Planalto Paulista, São Paulo - SP",6.0,4.0,400, Planalto Paulista,Avenida Jamaris,Centro
+457,9300,4.0,"Paraíso, São Paulo - SP",6.0,5.0,474, SP,"Paraíso, São Paulo",Centro
+462,1900,1.0,"Rua da Consolação, 1515 - Consolação, São Paulo - SP",1.0,1.0,42, Consolação,"Rua da Consolação, 1515",Centro
+481,1400,1.0,"Rua Batista Cepelos, 277 - Paraíso, São Paulo - SP",1.0,0.0,15, Paraíso,"Rua Batista Cepelos, 277",Centro
+486,3000,1.0,"Avenida Armando Ferrentini, 668 - Paraíso, São Paulo - SP",1.0,0.0,28, Paraíso,"Avenida Armando Ferrentini, 668",Centro
+496,1600,1.0,"Rua da Glória - Liberdade, São Paulo - SP",1.0,0.0,25, Liberdade,Rua da Glória,Centro
+497,1100,1.0,"Rua Costa, 41 - Consolação, São Paulo - SP",1.0,0.0,28, Consolação,"Rua Costa, 41",Centro
+501,2000,1.0,"Rua Fortunato, 291 - Vila Buarque, São Paulo - SP",1.0,0.0,30, Vila Buarque,"Rua Fortunato, 291",Centro
+502,1900,1.0,"Rua da Consolação, 3075 - Cerqueira César, São Paulo - SP",1.0,1.0,27, Cerqueira César,"Rua da Consolação, 3075",Centro
+505,2150,1.0,"Rua Bela Cintra - Consolação, São Paulo - SP",1.0,1.0,44, Consolação,Rua Bela Cintra,Centro
+506,1850,1.0,"Rua Tamandaré - Liberdade, São Paulo - SP",1.0,1.0,35, Liberdade,Rua Tamandaré,Centro
+507,1000,0.0,"Avenida São João - Centro, São Paulo - SP",1.0,0.0,30, Centro,Avenida São João,Centro
+511,1400,1.0,"Rua Doutor Albuquerque Lins, 374 - Santa Cecília, São Paulo - SP",1.0,0.0,50, Santa Cecília,"Rua Doutor Albuquerque Lins, 374",Centro
+512,3400,1.0,"Rua Cunha Horta, 59 - Vila Buarque, São Paulo - SP",1.0,1.0,36, Vila Buarque,"Rua Cunha Horta, 59",Centro
+516,1000,1.0,"República, São Paulo - SP",1.0,0.0,35, SP,"República, São Paulo",Centro
+517,1300,1.0,"Rua Major Sertório, 00 - Vila Buarque, São Paulo - SP",1.0,0.0,25, Vila Buarque,"Rua Major Sertório, 00",Centro
+519,2000,1.0,"Rua Aurora, 877 - Santa Efigênia, São Paulo - SP",1.0,1.0,38, Santa Efigênia,"Rua Aurora, 877",Centro
+523,1100,1.0,"Rua Maria Antônia, 384 - Vila Buarque, São Paulo - SP",1.0,0.0,25, Vila Buarque,"Rua Maria Antônia, 384",Centro
+524,2000,1.0,"Rua Nestor Pestana, 1001 - Consolação, São Paulo - SP",1.0,0.0,35, Consolação,"Rua Nestor Pestana, 1001",Centro
+525,700,1.0,"Rua Humaitá - Bela Vista, São Paulo - SP",1.0,0.0,32, Bela Vista,Rua Humaitá,Centro
+526,1850,1.0,"Rua Helvétia, 980 - Campos Elíseos, São Paulo - SP",1.0,1.0,34, Campos Elíseos,"Rua Helvétia, 980",Centro
+527,950,1.0,"Rua São Francisco - Sé, São Paulo - SP",1.0,0.0,27, Sé,Rua São Francisco,Centro
+528,1400,1.0,"Alameda Glete, 1003 - Campos Elíseos, São Paulo - SP",1.0,0.0,46, Campos Elíseos,"Alameda Glete, 1003",Centro
+529,1350,1.0,"Rua Jaguaribe - Vila Buarque, São Paulo - SP",1.0,0.0,31, Vila Buarque,Rua Jaguaribe,Centro
+535,3500,3.0,"Rua Maranduba, 57 - Aclimação, São Paulo - SP",5.0,2.0,150, Aclimação,"Rua Maranduba, 57",Centro
+555,10000,4.0,"Avenida Itacira - Planalto Paulista, São Paulo - SP",7.0,3.0,396, Planalto Paulista,Avenida Itacira,Centro
+559,4000,3.0,"Avenida Nhandu - Planalto Paulista, São Paulo - SP",2.0,2.0,135, Planalto Paulista,Avenida Nhandu,Centro
+586,5500,7.0,"Alameda dos Guaramomis - Planalto Paulista, São Paulo - SP",5.0,0.0,200, Planalto Paulista,Alameda dos Guaramomis,Centro
+610,55000,4.0,"Avenida Itacira, 152 - Planalto Paulista, São Paulo - SP",7.0,6.0,636, Planalto Paulista,"Avenida Itacira, 152",Centro
+618,25000,3.0,"Alameda Ministro Rocha Azevedo - Cerqueira César, São Paulo - SP",3.0,1.0,240, Cerqueira César,Alameda Ministro Rocha Azevedo,Centro
+625,8000,4.0,"Aclimação, São Paulo - SP",4.0,4.0,380, SP,"Aclimação, São Paulo",Centro
+637,5800,4.0,"Avenida Moaci - Planalto Paulista, São Paulo - SP",5.0,4.0,325, Planalto Paulista,Avenida Moaci,Centro
+642,7000,4.0,"Avenida Moaci - Planalto Paulista, São Paulo - SP",6.0,3.0,400, Planalto Paulista,Avenida Moaci,Centro
+649,3200,2.0,"Planalto Paulista, São Paulo - SP",3.0,1.0,120, SP,"Planalto Paulista, São Paulo",Centro
+654,19800,3.0,"Alameda Ministro Rocha Azevedo - Cerqueira César, São Paulo - SP",3.0,3.0,224, Cerqueira César,Alameda Ministro Rocha Azevedo,Centro
+658,14900,3.0,"Avenida Lacerda Franco - Cambuci, São Paulo - SP",6.0,4.0,350, Cambuci,Avenida Lacerda Franco,Centro
+682,1700,1.0,"Rua Santa Isabel - Vila Buarque, São Paulo - SP",1.0,1.0,34, Vila Buarque,Rua Santa Isabel,Centro
+683,1215,1.0,"Rua Doutor Albuquerque Lins, 268 - Santa Cecília, São Paulo - SP",1.0,0.0,41, Santa Cecília,"Rua Doutor Albuquerque Lins, 268",Centro
+685,1600,1.0,"Rua da Consolação, 927 - Consolação, São Paulo - SP",1.0,0.0,30, Consolação,"Rua da Consolação, 927",Centro
+686,1600,1.0,"Rua Santa Isabel - Vila Buarque, São Paulo - SP",1.0,0.0,20, Vila Buarque,Rua Santa Isabel,Centro
+688,1900,1.0,"Largo do Arouche, 77 - República, São Paulo - SP",1.0,0.0,29, República,"Largo do Arouche, 77",Centro
+689,900,1.0,"Rua Amaral Gurgel, 468 - Vila Buarque, São Paulo - SP",1.0,0.0,30, Vila Buarque,"Rua Amaral Gurgel, 468",Centro
+690,1670,1.0,"Avenida Ipiranga, 200 - República, São Paulo - SP",1.0,0.0,30, República,"Avenida Ipiranga, 200",Centro
+695,6000,1.0,"Rua Visconde da Luz, 134 - Vila Nova Conceição, São Paulo - SP",2.0,1.0,90, Vila Nova Conceição,"Rua Visconde da Luz, 134",Centro
+702,950,1.0,"Rua Maranhão, 371 - Higienópolis, São Paulo - SP",1.0,1.0,28, Higienópolis,"Rua Maranhão, 371",Centro
+708,1800,1.0,"Avenida Jamaris, 100 - Planalto Paulista, São Paulo - SP",1.0,1.0,38, Planalto Paulista,"Avenida Jamaris, 100",Centro
+709,1400,1.0,"Rua Frei Caneca, 915 - Consolação, São Paulo - SP",1.0,0.0,41, Consolação,"Rua Frei Caneca, 915",Centro
+718,2400,1.0,"Avenida Cásper Líbero, 501 - Centro, São Paulo - SP",1.0,0.0,26, Centro,"Avenida Cásper Líbero, 501",Centro
+722,1200,1.0,"Rua Cristiano Viana, 463 - Cerqueira César, São Paulo - SP",1.0,1.0,43, Cerqueira César,"Rua Cristiano Viana, 463",Centro
+725,1800,1.0,"Alameda Santos, 981 - Cerqueira César, São Paulo - SP",1.0,1.0,29, Cerqueira César,"Alameda Santos, 981",Centro
+737,2900,1.0,"Rua Barata Ribeiro, 360 - Bela Vista, São Paulo - SP",1.0,1.0,45, Bela Vista,"Rua Barata Ribeiro, 360",Centro
+739,2000,1.0,"Rua Tupi - Santa Cecília, São Paulo - SP",1.0,1.0,50, Santa Cecília,Rua Tupi,Centro
+744,2100,2.0,"Rua Cesário Ramalho, , 765 - Cambuci, São Paulo - SP",2.0,0.0,100, Cambuci,"Rua Cesário Ramalho, , 765",Centro
+749,6000,3.0,"Rua Baronesa de Bela Vista, 88 - Vila Congonhas, São Paulo - SP",4.0,4.0,140, Vila Congonhas,"Rua Baronesa de Bela Vista, 88",Centro
+752,2500,3.0,"Rua Ribeirão Bonito, 576 - Vila Moinho Velho, São Paulo - SP",3.0,3.0,156, Vila Moinho Velho,"Rua Ribeirão Bonito, 576",Centro
+760,2700,3.0,"Praça Florence Nightingale - Jardim da Glória, São Paulo - SP",3.0,1.0,260, Jardim da Glória,Praça Florence Nightingale,Centro
+767,12000,4.0,"Rua Almeida Torres, 119 - Aclimação, São Paulo - SP",5.0,3.0,171, Aclimação,"Rua Almeida Torres, 119",Centro
+769,6000,3.0,"Rua Doutor Gabriel dos Santos - Santa Cecília, São Paulo - SP",2.0,2.0,270, Santa Cecília,Rua Doutor Gabriel dos Santos,Centro
+772,5100,2.0,"Rua Lisboa, 159 - Cerqueira César, São Paulo - SP",2.0,1.0,163, Cerqueira César,"Rua Lisboa, 159",Centro
+775,2500,3.0,"Avenida Piassanguaba, 2514 - Planalto Paulista, São Paulo - SP",2.0,1.0,120, Planalto Paulista,"Avenida Piassanguaba, 2514",Centro
+794,5300,4.0,"Avenida Moaci - Planalto Paulista, São Paulo - SP",5.0,3.0,262, Planalto Paulista,Avenida Moaci,Centro
+797,20000,4.0,"Paraíso, São Paulo - SP",5.0,4.0,300, SP,"Paraíso, São Paulo",Centro
+801,800,1.0,"Rua Paim, 211 - Bela Vista, São Paulo - SP",1.0,0.0,24, Bela Vista,"Rua Paim, 211",Centro
+812,1900,1.0,"Rua Maranhão, 371 - Higienópolis, São Paulo - SP",1.0,1.0,33, Higienópolis,"Rua Maranhão, 371",Centro
+814,1200,1.0,"Avenida Duque de Caxias, 525 - Campos Elíseos, São Paulo - SP",1.0,0.0,29, Campos Elíseos,"Avenida Duque de Caxias, 525",Centro
+817,1500,0.0,"Rua Dona Veridiana, 77 - Higienópolis, São Paulo - SP",1.0,0.0,47, Higienópolis,"Rua Dona Veridiana, 77",Centro
+818,1200,1.0,"Rua Marquês de Itu - Vila Buarque, São Paulo - SP",1.0,1.0,32, Vila Buarque,Rua Marquês de Itu,Centro
+819,1150,0.0,"Avenida General Olímpio da Silveira, 196 - Santa Cecília, São Paulo - SP",1.0,0.0,45, Santa Cecília,"Avenida General Olímpio da Silveira, 196",Centro
+820,1250,1.0,"Rua Frei Caneca - Consolação, São Paulo - SP",1.0,0.0,36, Consolação,Rua Frei Caneca,Centro
+821,1350,1.0,"Rua Frei Caneca - Consolação, São Paulo - SP",1.0,0.0,30, Consolação,Rua Frei Caneca,Centro
+822,1200,1.0,"Rua Maria Antônia - Vila Buarque, São Paulo - SP",1.0,0.0,35, Vila Buarque,Rua Maria Antônia,Centro
+826,1600,0.0,"Rua Rego Freitas, 354 - República, São Paulo - SP",1.0,0.0,20, República,"Rua Rego Freitas, 354",Centro
+827,1000,1.0,"Alameda Barão de Limeira, 1162 - Campos Elíseos, São Paulo - SP",1.0,0.0,30, Campos Elíseos,"Alameda Barão de Limeira, 1162",Centro
+828,1300,1.0,"Rua Cônego Eugênio Leite - Cerqueira César, São Paulo - SP",1.0,0.0,30, Cerqueira César,Rua Cônego Eugênio Leite,Centro
+830,4800,2.0,"Rua Lisboa, 159 - Cerqueira César, São Paulo - SP",2.0,1.0,163, Cerqueira César,"Rua Lisboa, 159",Centro
+835,1900,3.0,"Rua Apeninos - Aclimação, São Paulo - SP",2.0,0.0,85, Aclimação,Rua Apeninos,Centro
+836,3300,2.0,"Avenida São João, 97 - Centro, São Paulo - SP",1.0,1.0,50, Centro,"Avenida São João, 97",Centro
+858,1500,2.0,"Rua Abelardo Luz - Itaquera, São Paulo - SP",2.0,1.0,70, Itaquera,Rua Abelardo Luz,Centro
+865,70000,4.0,"Planalto Paulista, São Paulo - SP",6.0,8.0,780, SP,"Planalto Paulista, São Paulo",Centro
+872,6000,4.0,"Avenida Moaci - Planalto Paulista, São Paulo - SP",1.0,2.0,170, Planalto Paulista,Avenida Moaci,Centro
+876,2300,2.0,"Rua Professor Picarolo - Bela Vista, São Paulo - SP",1.0,1.0,53, Bela Vista,Rua Professor Picarolo,Centro
+884,16000,4.0,"Avenida Angélica - Santa Cecília, São Paulo - SP",4.0,2.0,382, Santa Cecília,Avenida Angélica,Centro
+888,20000,4.0,"Rua Coronel Oscar Porto, 50 - Paraíso, São Paulo - SP",6.0,4.0,300, Paraíso,"Rua Coronel Oscar Porto, 50",Centro
+899,1500,1.0,"Rua da Consolação, 3101 - Cerqueira César, São Paulo - SP",1.0,1.0,28, Cerqueira César,"Rua da Consolação, 3101",Centro
+905,2900,2.0,"Consolação, São Paulo - SP",1.0,1.0,45, SP,"Consolação, São Paulo",Centro
+909,9500,2.0,"Alameda Ministro Rocha Azevedo, , 523 - Cerqueira César, São Paulo - SP",2.0,2.0,61, Cerqueira César,"Alameda Ministro Rocha Azevedo, , 523",Centro
+910,1300,1.0,"Alameda Glete, 1003 - Campos Elíseos, São Paulo - SP",1.0,0.0,38, Campos Elíseos,"Alameda Glete, 1003",Centro
+911,950,1.0,"Rua Tenente Otávio Gomes - Aclimação, São Paulo - SP",1.0,0.0,30, Aclimação,Rua Tenente Otávio Gomes,Centro
+913,1890,0.0,"Rua Cunha Horta - Vila Buarque, São Paulo - SP",1.0,1.0,30, Vila Buarque,Rua Cunha Horta,Centro
+914,950,1.0,"Rua Itapeva - Bela Vista, São Paulo - SP",1.0,0.0,37, Bela Vista,Rua Itapeva,Centro
+916,1200,1.0,"Largo do Arouche, 246 - República, São Paulo - SP",1.0,0.0,45, República,"Largo do Arouche, 246",Centro
+919,1100,1.0,"Alameda Eduardo Prado, 282 - Campos Elíseos, São Paulo - SP",1.0,0.0,24, Campos Elíseos,"Alameda Eduardo Prado, 282",Centro
+920,1200,1.0,"Santa Cecília, São Paulo - SP",1.0,0.0,40, SP,"Santa Cecília, São Paulo",Centro
+921,1100,0.0,"Rua Santo Amaro, 240 - Bela Vista, São Paulo - SP",1.0,0.0,28, Bela Vista,"Rua Santo Amaro, 240",Centro
+923,1700,1.0,"Rua Santa Isabel, 112 - Vila Buarque, São Paulo - SP",1.0,0.0,30, Vila Buarque,"Rua Santa Isabel, 112",Centro
+924,1200,0.0,"Rua Japurá, 43 - Bela Vista, São Paulo - SP",1.0,0.0,38, Bela Vista,"Rua Japurá, 43",Centro
+925,1200,1.0,"Rua Aurora, 72 - Santa Efigênia, São Paulo - SP",1.0,0.0,40, Santa Efigênia,"Rua Aurora, 72",Centro
+926,1000,1.0,"Avenida Vieira de Carvalho - República, São Paulo - SP",1.0,0.0,28, República,Avenida Vieira de Carvalho,Centro
+927,1700,1.0,"Rua da Consolação, 3075 - Cerqueira César, São Paulo - SP",1.0,1.0,28, Cerqueira César,"Rua da Consolação, 3075",Centro
+928,955,0.0,"Rua Santo Amaro, 240 - Bela Vista, São Paulo - SP",1.0,0.0,27, Bela Vista,"Rua Santo Amaro, 240",Centro
+931,2800,2.0,"Rua Cláudio Rossi, 370 - Jardim da Glória, São Paulo - SP",2.0,2.0,105, Jardim da Glória,"Rua Cláudio Rossi, 370",Centro
+937,10000,4.0,"Rua República do Iraque, 247 - Parque Colonial, São Paulo - SP",5.0,4.0,374, Parque Colonial,"Rua República do Iraque, 247",Centro
+947,9000,4.0,"Avenida Piassanguaba - Planalto Paulista, São Paulo - SP",8.0,8.0,574, Planalto Paulista,Avenida Piassanguaba,Centro
+957,2200,1.0,"Rua Dona Antônia de Queirós, 183 - Higienópolis, São Paulo - SP",1.0,1.0,45, Higienópolis,"Rua Dona Antônia de Queirós, 183",Centro
+958,1300,1.0,"Rua Frei Caneca, 282 - Consolação, São Paulo - SP",1.0,0.0,60, Consolação,"Rua Frei Caneca, 282",Centro
+963,2900,1.0,"Praça Júlio Mesquita, 97 - República, São Paulo - SP",1.0,1.0,46, República,"Praça Júlio Mesquita, 97",Centro
+966,3000,1.0,"Rua Avanhandava, 65 - Bela Vista, São Paulo - SP",1.0,0.0,25, Bela Vista,"Rua Avanhandava, 65",Centro
+967,6000,2.0,"Rua Coronel Oscar Porto, 680 - Paraíso, São Paulo - SP",2.0,1.0,72, Paraíso,"Rua Coronel Oscar Porto, 680",Centro
+980,5500,3.0,"Paraíso, São Paulo - SP",3.0,1.0,115, SP,"Paraíso, São Paulo",Centro
+1009,4000,1.0,"Paraíso, São Paulo - SP",1.0,1.0,110, SP,"Paraíso, São Paulo",Centro
+1021,15400,2.0,"Avenida Angélica, 589 - Higienópolis, São Paulo - SP",3.0,2.0,381, Higienópolis,"Avenida Angélica, 589",Centro
+1026,3690,1.0,"Rua Doutor Tomás Carvalhal, 728 - Paraíso, São Paulo - SP",2.0,1.0,100, Paraíso,"Rua Doutor Tomás Carvalhal, 728",Centro
+1046,3000,1.0,"Avenida Armando Ferrentini, 668 - Aclimação, São Paulo - SP",1.0,0.0,28, Aclimação,"Avenida Armando Ferrentini, 668",Centro
+1062,1200,1.0,"Avenida Duque de Caxias, 525 - Campos Eliseos, São Paulo - SP",1.0,0.0,29, Campos Eliseos,"Avenida Duque de Caxias, 525",Centro
+1070,1100,1.0,"Rua Pires da Mota - Aclimação, São Paulo - SP",1.0,0.0,18, Aclimação,Rua Pires da Mota,Centro
+1071,1100,1.0,"Rua José Getúlio - Liberdade, São Paulo - SP",1.0,0.0,18, Liberdade,Rua José Getúlio,Centro
+1072,2600,0.0,"Rua Paula Ney, 100 - Aclimação, São Paulo - SP",1.0,1.0,42, Aclimação,"Rua Paula Ney, 100",Centro
+1073,1600,1.0,"Rua Itapeva, 182 - Bela Vista, São Paulo - SP",1.0,0.0,25, Bela Vista,"Rua Itapeva, 182",Centro
+1074,1750,1.0,"Rua Itapeva, 182 - Bela Vista, São Paulo - SP",1.0,0.0,42, Bela Vista,"Rua Itapeva, 182",Centro
+1075,1850,0.0,"Avenida Paulista - Bela Vista, São Paulo - SP",1.0,0.0,40, Bela Vista,Avenida Paulista,Centro
+1077,1000,1.0,"Avenida Nove de Julho, 337 - Bela Vista, São Paulo - SP",1.0,0.0,25, Bela Vista,"Avenida Nove de Julho, 337",Centro
+1078,1350,1.0,"Rua Bueno de Andrade - Liberdade, São Paulo - SP",1.0,0.0,22, Liberdade,Rua Bueno de Andrade,Centro
+1084,3500,3.0,"Rua Doutor Alvino Lima, 8 - Paraíso, São Paulo - SP",2.0,1.0,250, Paraíso,"Rua Doutor Alvino Lima, 8",Centro
+1085,2000,2.0,"Rua Maranjaí - Vila Monumento, São Paulo - SP",4.0,1.0,240, Vila Monumento,Rua Maranjaí,Centro
+12,2000,3.0,"Rua Eli - Vila Maria Baixa, São Paulo - SP",2.0,1.0,73, Vila Maria Baixa,Rua Eli,Norte
+21,2500,2.0,"Rua Judith Zumkeller, 870 - Parque Mandaqui, São Paulo - SP",1.0,1.0,60, Parque Mandaqui,"Rua Judith Zumkeller, 870",Norte
+24,8500,3.0,"Rua Pelotas, 209 - Vila Mariana, São Paulo - SP",5.0,3.0,142, Vila Mariana,"Rua Pelotas, 209",Norte
+45,1800,3.0,"Avenida Yervant Kissajikian - Vila Constança, São Paulo - SP",1.0,1.0,60, Vila Constança,Avenida Yervant Kissajikian,Norte
+46,850,1.0,"Rua Plínio Salgado, 245 - Jardim Peri Peri, São Paulo - SP",1.0,0.0,15, Jardim Peri Peri,"Rua Plínio Salgado, 245",Norte
+126,2000,1.0,"Rua Cubatão, 1140 - Vila Mariana, São Paulo - SP",1.0,1.0,32, Vila Mariana,"Rua Cubatão, 1140",Norte
+128,7000,4.0,"Rua França Pinto, 537 - Vila Mariana, São Paulo - SP",3.0,3.0,160, Vila Mariana,"Rua França Pinto, 537",Norte
+135,1900,2.0,"Rua José Antônio Coelho, 407 - Vila Mariana, São Paulo - SP",1.0,1.0,61, Vila Mariana,"Rua José Antônio Coelho, 407",Norte
+144,12000,4.0,"Rua Topázio, 947 - Vila Mariana, São Paulo - SP",5.0,4.0,390, Vila Mariana,"Rua Topázio, 947",Norte
+156,1100,1.0,"Parque São Luís, São Paulo - SP",1.0,0.0,40, SP,"Parque São Luís, São Paulo",Norte
+163,7000,3.0,"Avenida Cardeal Motta - City América, São Paulo - SP",5.0,5.0,350, City América,Avenida Cardeal Motta,Norte
+164,13000,4.0,"Rua Jorge Tibiriçá - Vila Mariana, São Paulo - SP",5.0,4.0,182, Vila Mariana,Rua Jorge Tibiriçá,Norte
+177,990,1.0,"Vila Palmeiras, São Paulo - SP",1.0,0.0,50, SP,"Vila Palmeiras, São Paulo",Norte
+178,750,1.0,"Rua Soldado João Rodrigues, 112 - Jardim Japão, São Paulo - SP",1.0,0.0,35, Jardim Japão,"Rua Soldado João Rodrigues, 112",Norte
+182,600,1.0,"Vila Carbone, São Paulo - SP",1.0,0.0,45, SP,"Vila Carbone, São Paulo",Norte
+210,6800,4.0,"Rua Icádio, 1 - City América, São Paulo - SP",5.0,8.0,600, City América,"Rua Icádio, 1",Norte
+216,3000,2.0,"Rua Joel Jorge de Melo - Vila Mariana, São Paulo - SP",1.0,1.0,120, Vila Mariana,Rua Joel Jorge de Melo,Norte
+237,900,1.0,"Parque São Luís, São Paulo - SP",1.0,0.0,40, SP,"Parque São Luís, São Paulo",Norte
+243,750,1.0,"Rua Teodoro Horst - Tucuruvi, São Paulo - SP",1.0,1.0,70, Tucuruvi,Rua Teodoro Horst,Norte
+247,1100,2.0,"Rua Joaquim Oliveira Freitas, 508 - Vila Mangalot, São Paulo - SP",1.0,0.0,50, Vila Mangalot,"Rua Joaquim Oliveira Freitas, 508",Norte
+256,1600,3.0,"Vila Palmeiras, São Paulo - SP",1.0,1.0,90, SP,"Vila Palmeiras, São Paulo",Norte
+259,1200,1.0,"Chora Menino, São Paulo - SP",1.0,0.0,60, SP,"Chora Menino, São Paulo",Norte
+292,1300,2.0,"Vila Iório, São Paulo - SP",1.0,1.0,70, SP,"Vila Iório, São Paulo",Norte
+296,2500,3.0,"Rua Ouvidor Peleja, 792 - Vila Mariana, São Paulo - SP",2.0,2.0,200, Vila Mariana,"Rua Ouvidor Peleja, 792",Norte
+305,2300,1.0,"Rua Professor Tranquilli - Vila Mariana, São Paulo - SP",2.0,1.0,50, Vila Mariana,Rua Professor Tranquilli,Norte
+308,2000,3.0,"Rua Saguairu - Casa Verde, São Paulo - SP",1.0,1.0,120, Casa Verde,Rua Saguairu,Norte
+313,1500,2.0,"Vila Ede, São Paulo - SP",1.0,2.0,80, SP,"Vila Ede, São Paulo",Norte
+318,9000,2.0,"Rua São Paulino, 9 - Vila Mariana, São Paulo - SP",5.0,4.0,247, Vila Mariana,"Rua São Paulino, 9",Norte
+323,900,1.0,"Rua Cardeal Enrico Dante, 66 - Vila Nova Mazzei, São Paulo - SP",1.0,0.0,45, Vila Nova Mazzei,"Rua Cardeal Enrico Dante, 66",Norte
+326,900,1.0,"Vila Maria, São Paulo - SP",1.0,0.0,35, SP,"Vila Maria, São Paulo",Norte
+330,1000,1.0,"Rua Jaupaci - Vila Paulistana, São Paulo - SP",1.0,1.0,50, Vila Paulistana,Rua Jaupaci,Norte
+334,1700,3.0,"Rua Domingos da Costa Mata, 275 - Santana, São Paulo - SP",2.0,1.0,62, Santana,"Rua Domingos da Costa Mata, 275",Norte
+335,3100,3.0,"Rua Giovani Recordati, 153 - Parque São Domingos, São Paulo - SP",2.0,2.0,74, Parque São Domingos,"Rua Giovani Recordati, 153",Norte
+352,2000,3.0,"Rua Eli, 674 - Vila Maria Baixa, São Paulo - SP",2.0,1.0,73, Vila Maria Baixa,"Rua Eli, 674",Norte
+375,2800,2.0,"Rua Tutóia, 839 - Vila Mariana, São Paulo - SP",2.0,1.0,78, Vila Mariana,"Rua Tutóia, 839",Norte
+418,25000,0.0,"Rua Santa Cruz, 1168 - Vila Mariana, São Paulo - SP",10.0,20.0,500, Vila Mariana,"Rua Santa Cruz, 1168",Norte
+437,3000,1.0,"Rua Tutóia, 235 - Vila Mariana, São Paulo - SP",1.0,0.0,50, Vila Mariana,"Rua Tutóia, 235",Norte
+439,2000,1.0,"Rua Tutóia, 235 - Vila Mariana, São Paulo - SP",1.0,0.0,50, Vila Mariana,"Rua Tutóia, 235",Norte
+441,6000,3.0,"Rua Sousa Lopes, 65 - Lauzane Paulista, São Paulo - SP",5.0,6.0,289, Lauzane Paulista,"Rua Sousa Lopes, 65",Norte
+450,7000,3.0,"Jardim Vila Mariana, São Paulo - SP",5.0,4.0,264, SP,"Jardim Vila Mariana, São Paulo",Norte
+500,2900,1.0,"Rua Paula Ney, 100 - Vila Mariana, São Paulo - SP",1.0,1.0,38, Vila Mariana,"Rua Paula Ney, 100",Norte
+514,2600,0.0,"Rua Paula Ney, 100 - Vila Mariana, São Paulo - SP",1.0,1.0,42, Vila Mariana,"Rua Paula Ney, 100",Norte
+521,1670,0.0,"Santana, São Paulo - SP",1.0,1.0,35, SP,"Santana, São Paulo",Norte
+547,4500,4.0,"Rua Marambaia, 568 - Casa Verde, São Paulo - SP",4.0,2.0,200, Casa Verde,"Rua Marambaia, 568",Norte
+549,11000,4.0,"City América, São Paulo - SP",4.0,6.0,500, SP,"City América, São Paulo",Norte
+558,4500,3.0,"Rua Professor Antônio Gama de Cerqueira, 393 - Vila Americana, São Paulo - SP",5.0,4.0,280, Vila Americana,"Rua Professor Antônio Gama de Cerqueira, 393",Norte
+564,2000,3.0,"Rua Carmelo Adam, , 166 - Vila Libanesa, São Paulo - SP",2.0,2.0,100, Vila Libanesa,"Rua Carmelo Adam, , 166",Norte
+569,500,1.0,"Rua José Brito Mendes - Sítio Botuquara, São Paulo - SP",1.0,0.0,50, Sítio Botuquara,Rua José Brito Mendes,Norte
+580,7000,0.0,"Jardim Peri Peri, São Paulo - SP",0.0,0.0,300, SP,"Jardim Peri Peri, São Paulo",Norte
+582,11700,0.0,"Rua Ângelo Capricho - Horto Florestal, São Paulo - SP",4.0,0.0,1000, Horto Florestal,Rua Ângelo Capricho,Norte
+592,1200,2.0,"Rua Serra de São Domingos - Vila Carmosina, São Paulo - SP",1.0,0.0,60, Vila Carmosina,Rua Serra de São Domingos,Norte
+636,12000,4.0,"Rua São Benedito - Vila Zat, São Paulo - SP",5.0,3.0,360, Vila Zat,Rua São Benedito,Norte
+651,7000,3.0,"Rua Doutor Tirso Martins, 200 - Vila Mariana, São Paulo - SP",1.0,3.0,218, Vila Mariana,"Rua Doutor Tirso Martins, 200",Norte
+652,65000,5.0,"Rua Hermano Ribeiro da Silva - Vila Mariana, São Paulo - SP",6.0,7.0,900, Vila Mariana,Rua Hermano Ribeiro da Silva,Norte
+684,1600,0.0,"Rua Estela - Vila Mariana, São Paulo - SP",1.0,1.0,38, Vila Mariana,Rua Estela,Norte
+691,1500,1.0,"Vila Mariana, São Paulo - SP",1.0,1.0,35, SP,"Vila Mariana, São Paulo",Norte
+697,3250,2.0,"Rua Engenheiro Armando de Virgiliis, 220 - Vila Mariana, São Paulo - SP",1.0,1.0,60, Vila Mariana,"Rua Engenheiro Armando de Virgiliis, 220",Norte
+743,1650,2.0,"Vila Prado, São Paulo - SP",2.0,0.0,80, SP,"Vila Prado, São Paulo",Norte
+747,2900,3.0,"Rua Rubiácea, 236 - Água Fria, São Paulo - SP",3.0,2.0,300, Água Fria,"Rua Rubiácea, 236",Norte
+762,1755,1.0,"Rua Doutor Nicolau de Sousa Queirós, 491 - Vila Mariana, São Paulo - SP",1.0,1.0,34, Vila Mariana,"Rua Doutor Nicolau de Sousa Queirós, 491",Norte
+778,12000,4.0,"Rua João Álvares Correia, 55 - Jardim Vila Mariana, São Paulo - SP",6.0,4.0,297, Jardim Vila Mariana,"Rua João Álvares Correia, 55",Norte
+783,10000,4.0,"Rua Doutor Barros Cruz - Vila Mariana, São Paulo - SP",4.0,4.0,295, Vila Mariana,Rua Doutor Barros Cruz,Norte
+796,7000,3.0,"Rua Pedro Pomponazzi - Jardim Vila Mariana, São Paulo - SP",4.0,3.0,193, Jardim Vila Mariana,Rua Pedro Pomponazzi,Norte
+815,1200,1.0,"Rua Carolina Soares, 269 - Vila Diva (Zona Norte), São Paulo - SP",1.0,0.0,28, Vila Diva (Zona Norte),"Rua Carolina Soares, 269",Norte
+829,2200,3.0,"Rua Domingos de Morais, 1716 - Vila Mariana, São Paulo - SP",2.0,1.0,80, Vila Mariana,"Rua Domingos de Morais, 1716",Norte
+840,2200,3.0,"Rua Santa Cruz, 2089 - Vila Mariana, São Paulo - SP",3.0,0.0,90, Vila Mariana,"Rua Santa Cruz, 2089",Norte
+849,1350,2.0,"Rua Alfredo Pardini - Jardim Yara, São Paulo - SP",2.0,1.0,70, Jardim Yara,Rua Alfredo Pardini,Norte
+894,800,1.0,"Rua Carlos Escobar, 282 - Santana, São Paulo - SP",1.0,0.0,10, Santana,"Rua Carlos Escobar, 282",Norte
+915,1950,1.0,"Rua Pelotas, 82 - Vila Mariana, São Paulo - SP",1.0,0.0,25, Vila Mariana,"Rua Pelotas, 82",Norte
+933,2200,2.0,"Parque São Domingos, São Paulo - SP",2.0,2.0,80, SP,"Parque São Domingos, São Paulo",Norte
+936,2700,3.0,"Rua Piatá, , 627 - Vila Isolina Mazzei, São Paulo - SP",2.0,2.0,120, Vila Isolina Mazzei,"Rua Piatá, , 627",Norte
+940,2300,3.0,"Vila Nova Mazzei, São Paulo - SP",3.0,2.0,120, SP,"Vila Nova Mazzei, São Paulo",Norte
+941,9000,7.0,"Rua Afonso Celso - Vila Mariana, São Paulo - SP",5.0,6.0,450, Vila Mariana,Rua Afonso Celso,Norte
+948,25000,7.0,"Rua Gaurama - Jardim Franca, São Paulo - SP",7.0,8.0,579, Jardim Franca,Rua Gaurama,Norte
+949,4000,3.0,"Travessa Humberto I, 0 - Vila Mariana, São Paulo - SP",3.0,1.0,180, Vila Mariana,"Travessa Humberto I, 0",Norte
+951,13000,11.0,"Rua Pedro Morganti - Vila Mariana, São Paulo - SP",4.0,5.0,369, Vila Mariana,Rua Pedro Morganti,Norte
+962,3300,2.0,"Rua Sargento José Spessoto, 157 - Vila Mariana, São Paulo - SP",3.0,1.0,97, Vila Mariana,"Rua Sargento José Spessoto, 157",Norte
+983,1200,1.0,"Rua José de Freitas, 1 - Imirim, São Paulo - SP",1.0,1.0,70, Imirim,"Rua José de Freitas, 1",Norte
+1000,2400,2.0,"Rua Aburá - Sítio do Mandaqui, São Paulo - SP",3.0,2.0,80, Sítio do Mandaqui,Rua Aburá,Norte
+1010,1600,2.0,"Rua Francisco Bellazzi - Jardim Jaraguá, São Paulo - SP",2.0,1.0,79, Jardim Jaraguá,Rua Francisco Bellazzi,Norte
+1016,500,1.0,"Rua José Brito Mendes - Sitio Botuquara, São Paulo - SP",1.0,0.0,50, Sitio Botuquara,Rua José Brito Mendes,Norte
+1017,7000,3.0,"Rua Irmã Maria Lourença - Jardim Shangrila, São Paulo - SP",0.0,30.0,0, Jardim Shangrila,Rua Irmã Maria Lourença,Norte
+1031,11000,2.0,"Rua Joaquim Távora, 1210 - Vila Mariana, São Paulo - SP",4.0,3.0,172, Vila Mariana,"Rua Joaquim Távora, 1210",Norte
+1034,10000,2.0,"Rua Caravelas, 138 - Vila Mariana, São Paulo - SP",4.0,2.0,145, Vila Mariana,"Rua Caravelas, 138",Norte
+1076,1450,1.0,"Rua Tangará, 288 - Vila Mariana, São Paulo - SP",1.0,0.0,20, Vila Mariana,"Rua Tangará, 288",Norte
+1079,3500,4.0,"Parque Domingos Luís, 408 - Jardim São Paulo, São Paulo - SP",5.0,2.0,275, Jardim São Paulo,"Parque Domingos Luís, 408",Norte
+1093,4000,2.0,"Parque São Domingos, São Paulo - SP",1.0,2.0,130, SP,"Parque São Domingos, São Paulo",Norte
+1098,9000,4.0,"Rua Áurea, 269 - Vila Mariana, São Paulo - SP",2.0,1.0,108, Vila Mariana,"Rua Áurea, 269",Norte
