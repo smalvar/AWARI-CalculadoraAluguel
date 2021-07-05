@@ -28,7 +28,7 @@ cd the path of the directory
 git init
 git add "rf_regressor.pkl"
 git commit -m "Upload model"
-git remote add origin *remote repository URL*
+git remote add origin https://github.com/smalvar/AWARI-CalculadoraAluguel
 git remote -v
 git push -u origin master
 ```
