@@ -1,2 +1,5 @@
 streamlit==0.62.1
-numpy>=1.8
+numpy
+pickle5
+scikit-learn
+
