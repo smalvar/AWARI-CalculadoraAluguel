@@ -20,5 +20,15 @@ Ubuntu 18.04, Debian 10, and newer versions of those OSes offer a git-lfs packag
     Run the windows installer
     Start a command prompt/or git for windows prompt and run git lfs install
 
-After thatm you can use:
+After that you can use:
 
+```
+git lfs track "*.pkl"
+cd the path of the directory
+git init
+git add "rf_regressor.pkl"
+git commit -m "Upload model"
+git remote add origin https://github.com/smalvar/AWARI-CalculadoraAluguel
+git remote -v
+git push -u origin master
+```
