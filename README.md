@@ -1,4 +1,6 @@
-Debian and Ubuntu
+To upload pickles larger than 25 MB you will need Git Large File Storage
+
+# Debian and Ubuntu
 
 Ubuntu 18.04, Debian 10, and newer versions of those OSes offer a git-lfs package. If you'd like to use that and don't need the latest version, skip step 1 below.
 
@@ -6,14 +8,17 @@ Ubuntu 18.04, Debian 10, and newer versions of those OSes offer a git-lfs packag
     sudo apt-get install git-lfs
     git lfs install
 
-Mac OSX
+# Mac OSX
 
     You may need to brew update to get all the new formulas
     brew install git-lfs
     git lfs install
 
-Windows
+# Windows
 
     Download the windows installer from here
     Run the windows installer
     Start a command prompt/or git for windows prompt and run git lfs install
+
+After thatm you can use:
+
